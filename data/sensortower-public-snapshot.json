@@ -1,0 +1,75 @@
+{
+  "source": "Sensor Tower",
+  "country": "worldwide",
+  "platform": "ios",
+  "periodLabel": "Last Month",
+  "month": null,
+  "capturedAt": "2026-10-12",
+  "collectionMethod": "搜索索引返回的公开摘要；未实时读取提供方 API。",
+  "note": "全球 iOS；各来源只标 Last Month，具体年月未核实，索引抓取时间不同。",
+  "rows": [
+    {
+      "appId": "1510944943",
+      "downloads": "2M",
+      "revenue": "$11M",
+      "sourceUrl": "https://app.sensortower.com/overview/1510944943?active_user_measure=DAU&ad_monetization_measure=adImpressions&ad_monetization_metric=adImpressions&ad_objective=app_install&breakdown_attribute=appId&category=6002&chart_plotting_type=line&chart_type=free&country=US&demographics_measure=percentageOfUsers&device=iphone&edit=1&end_date=2026-09-03&granularity=daily&impression_share_metric_option=all&install_base_measure=installBase&measure=revenue&metricType=absolute&os=ios&platform_type=networks&retention_chart_type=curve&retention_measure=retentionD1&retention_period=day&rolling_days=0&selected_tab=0&session_count=sessionCount&start_date=2026-08-05&time_period=day&time_spent=timeSpent",
+      "indexFreshness": "2 weeks ago"
+    },
+    {
+      "appId": "1476380919",
+      "downloads": "<5K",
+      "revenue": "$3M",
+      "sourceUrl": "https://app.sensortower.com/overview/1476380919?active_user_measure=DAU&ad_monetization_measure=adImpressions&ad_monetization_metric=adImpressions&breakdown_attribute=appId&category=6002&chart_plotting_type=line&chart_type=free&country=US&device=iphone&edit=1&end_date=2026-05-28&granularity=daily&impression_share_metric_option=all&install_base_measure=installBase&measure=revenue&metricType=absolute&os=ios&platform_type=networks&retention_chart_type=curve&retention_measure=retentionD1&retention_period=day&rolling_days=0&selected_tab=0&session_count=sessionCount&start_date=2026-04-29&time_period=day&time_spent=timeSpent",
+      "indexFreshness": "last week"
+    },
+    {
+      "appId": "1278474169",
+      "downloads": "200K",
+      "revenue": "$3M",
+      "sourceUrl": "https://app.sensortower.com/overview/1278474169?active_user_measure=DAU&ad_monetization_measure=adImpressions&ad_monetization_metric=adImpressions&breakdown_attribute=appId&category=6002&chart_plotting_type=line&chart_type=free&country=US&device=iphone&edit=1&end_date=2026-05-17&granularity=daily&impression_share_metric_option=all&install_base_measure=installBase&measure=revenue&metricType=absolute&os=ios&platform_type=networks&retention_chart_type=curve&retention_measure=retentionD1&retention_period=day&rolling_days=0&selected_tab=0&session_count=sessionCount&start_date=2026-04-18&time_period=day&time_spent=timeSpent",
+      "indexFreshness": "last month"
+    },
+    {
+      "appId": "1583884012",
+      "downloads": "300K",
+      "revenue": "$1M",
+      "sourceUrl": "https://app.sensortower.com/overview/1583884012?country=us",
+      "indexFreshness": "3 weeks ago"
+    },
+    {
+      "appId": "1022831885",
+      "downloads": "20K",
+      "revenue": "$1M",
+      "sourceUrl": "https://app.sensortower.com/overview/1022831885?active_user_measure=DAU&ad_monetization_measure=adsPerMau&ad_monetization_metric=adImpressions&breakdown_attribute=appId&category=6002&chart_plotting_type=line&chart_type=free&country=US&device=iphone&edit=1&end_date=2026-04-20&granularity=daily&impression_share_metric_option=all&install_base_measure=installBase&measure=revenue&metricType=absolute&os=ios&platform_type=networks&retention_chart_type=curve&retention_measure=retentionD1&retention_period=day&rolling_days=0&selected_tab=0&session_count=sessionCount&start_date=2026-03-22&time_period=day&time_spent=timeSpent",
+      "indexFreshness": "3 months ago"
+    },
+    {
+      "appId": "1194582243",
+      "downloads": "200K",
+      "revenue": "$1M",
+      "sourceUrl": "https://app.sensortower.com/overview/1194582243?country=US",
+      "indexFreshness": "3 weeks ago"
+    },
+    {
+      "appId": "6448330325",
+      "downloads": "200K",
+      "revenue": "$2M",
+      "sourceUrl": "https://app.sensortower.com/overview/6448330325?country=US",
+      "indexFreshness": "3 weeks ago"
+    },
+    {
+      "appId": "1466734547",
+      "downloads": "30K",
+      "revenue": "$900K",
+      "sourceUrl": "https://app.sensortower.com/overview/1466734547?country=US",
+      "indexFreshness": "last month"
+    },
+    {
+      "appId": "1437005085",
+      "downloads": "2M",
+      "revenue": "$1M",
+      "sourceUrl": "https://app.sensortower.com/publisher/ios/979659484/",
+      "indexFreshness": "last month"
+    }
+  ]
+}

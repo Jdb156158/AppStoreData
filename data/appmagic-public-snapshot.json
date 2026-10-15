@@ -1,0 +1,787 @@
+{
+  "source": "AppMagic",
+  "collectionMethod": "未登录浏览器发行商公开表格，Apple ID 精确匹配",
+  "note": "仅累计上下限范围，近30天锁定；全球关联商店未拆分；不参与月度均值，不恢复页面历史累计列。",
+  "capturedAt": "2026-10-13T09:55:53.243Z",
+  "pages": [
+    {
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "rows": 52,
+      "matched": 1
+    },
+    {
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "rows": 14
+    },
+    {
+      "sourceUrl": "https://appmagic.rocks/publisher/nordvpn-s-a-/2_1548694093",
+      "rows": 6
+    }
+  ],
+  "rows": [
+    {
+      "downloads": "> 100,000,000",
+      "name": "Cleanup：手机存储空间清理工具",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps, Codeway Digital",
+      "revenue": "> $200,000,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/cleanup-%E6%89%8B%E6%9C%BA%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7/1510944943",
+      "appId": "1510944943",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.120Z"
+    },
+    {
+      "downloads": "> 50,000,000",
+      "name": "Learna AI 家教：学习英语、法语和西班牙语",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $50,000,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/learna-ai-%E5%AE%B6%E6%95%99-%E5%AD%A6%E4%B9%A0%E8%8B%B1%E8%AF%AD%E3%80%81%E6%B3%95%E8%AF%AD%E5%92%8C%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD/6478287397",
+      "appId": "6478287397",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 20,000,000",
+      "name": "Retake AI Face & Selfie Editor",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $50,000,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/retake-ai-face-and-selfie-editor/6466298983",
+      "appId": "6466298983",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 20,000,000",
+      "name": "IQ Masters - 動腦遊戲",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $10,000,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/iq-masters-%E5%8B%95%E8%85%A6%E9%81%8A%E6%88%B2/6475717895",
+      "appId": "6475717895",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 10,000,000",
+      "name": "Bible Path: Prayers & Widgets",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $2,000,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/bible-path-prayers-and-widgets/6504798650",
+      "appId": "6504798650",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 5,000,000",
+      "name": "Remly：睡眠追踪器，声音",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $2,000,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/remly-%E7%9D%A1%E7%9C%A0%E8%BF%BD%E8%B8%AA%E5%99%A8%EF%BC%8C%E5%A3%B0%E9%9F%B3/6514310473",
+      "appId": "6514310473",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 5,000,000",
+      "name": "TypeAI: AI Keyboard & Writer",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES",
+      "revenue": "> $10,000,000",
+      "storefronts": [
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/typeai-ai-keyboard-and-writer/6448661220",
+      "appId": "6448661220",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 5,000,000",
+      "name": "Drama Pops - Reel Shorts TV",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $10,000,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/drama-pops-reel-shorts-tv/6503891345",
+      "appId": "6503891345",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 2,000,000",
+      "name": "Scanner+ App: Scan Docs to PDF",
+      "publisher": "Codeway Dijital Hizmetler Anonim Sirketi, Codeway Dijital",
+      "revenue": "> $1,000,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/scanner-app-scan-docs-to-pdf/1504202283",
+      "appId": "1504202283",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 2,000,000",
+      "name": "Genesia AI: Virtual Companion",
+      "publisher": "Codeway Dijital Hizmetler Anonim Sirketi, Codeway Dijital",
+      "revenue": "> $500,000",
+      "storefronts": [
+        "",
+        ""
+      ],
+      "url": "https://appmagic.rocks/iphone/genesia-ai-virtual-companion/6450265065",
+      "appId": "6450265065",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 1,000,000",
+      "name": "Micro Learning Daily - Sparkle",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $200,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/micro-learning-daily-sparkle/6498925126",
+      "appId": "6498925126",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 1,000,000",
+      "name": "Video AI Art Generator & Maker",
+      "publisher": "Codeway Dijital Hizmetler Anonim Sirketi, Codeway Dijital",
+      "revenue": "> $200,000",
+      "storefronts": [
+        "",
+        ""
+      ],
+      "url": "https://appmagic.rocks/iphone/video-ai-art-generator-and-maker/6450398697",
+      "appId": "6450398697",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 1,000,000",
+      "name": "Couples - Better Relationships",
+      "publisher": "Codeway Dijital Hizmetler Anonim Sirketi, Codeway Dijital",
+      "revenue": "> $200,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/couples-better-relationships/1639783467",
+      "appId": "1639783467",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 200,000",
+      "name": "Fastie：卡路里和食物追踪器",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $50,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/fastie-%E5%8D%A1%E8%B7%AF%E9%87%8C%E5%92%8C%E9%A3%9F%E7%89%A9%E8%BF%BD%E8%B8%AA%E5%99%A8/6504292648",
+      "appId": "6504292648",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 200,000",
+      "name": "Magic Retake: AI Photo Editor",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $200,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/magic-retake-ai-photo-editor/6738124884",
+      "appId": "6738124884",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 200,000",
+      "name": "MuscleUp: Workout Planner",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $50,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/muscleup-workout-planner/6738424338",
+      "appId": "6738424338",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 200,000",
+      "name": "Finrise - 股票市场学习",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $100,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/finrise-%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA%E5%AD%A6%E4%B9%A0/6761892518",
+      "appId": "6761892518",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 100,000",
+      "name": "AI Tattoo Maker & Generator",
+      "publisher": "Deep Vision Apps, DeepVision Apps",
+      "revenue": "> $50,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/ai-tattoo-maker-and-generator/6642701795",
+      "appId": "6642701795",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 100,000",
+      "name": "Facemix: Face Swap Videos AI",
+      "publisher": "Deep Vision Apps, Codeway Dijital",
+      "revenue": "> $20,000",
+      "storefronts": [
+        "",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/facemix-face-swap-videos-ai/1612791869",
+      "appId": "1612791869",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 100,000",
+      "name": "Learn AI Tools - Learnova",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $20,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/learn-ai-tools-learnova/6755995010",
+      "appId": "6755995010",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 100,000",
+      "name": "Daily Affirmations - Tell Me",
+      "publisher": "Codeway Dijital Hizmetler Anonim Sirketi",
+      "revenue": "> $20,000",
+      "storefronts": [
+        ""
+      ],
+      "url": "https://appmagic.rocks/iphone/daily-affirmations-tell-me/1546414378",
+      "appId": "1546414378",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 20,000",
+      "name": "GLP-1 Tracker: Dosely",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "< $5,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/glp-1-tracker-dosely/6787922283",
+      "appId": "6787922283",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 20,000",
+      "name": "Coin Wise: Identifier, Scanner",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES, Deep Flow Apps",
+      "revenue": "> $10,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/coin-wise-identifier-scanner/6504928435",
+      "appId": "6504928435",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 20,000",
+      "name": "Rock Identifier: Gemius",
+      "publisher": "Codeway Dijital Hizmetler Anonim Sirketi",
+      "revenue": "< $5,000",
+      "storefronts": [
+        ""
+      ],
+      "url": "https://appmagic.rocks/iphone/rock-identifier-gemius/1585187012",
+      "appId": "1585187012",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 20,000",
+      "name": "Novel Arc: Read Novels & Books",
+      "publisher": "Deep Vision Apps, DeepVision Apps",
+      "revenue": "< $5,000",
+      "storefronts": [
+        "Google Play",
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/novel-arc-read-novels-and-books/6739530897",
+      "appId": "6739530897",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 10,000",
+      "name": "Shots: Captions & Video Edit",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES",
+      "revenue": "> $20,000",
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/shots-captions-and-video-edit/6670431006",
+      "appId": "6670431006",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 10,000",
+      "name": "LIMIT: Screen Time Control",
+      "publisher": "Deep Vision Apps",
+      "revenue": "< $5,000",
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/limit-screen-time-control/6502518373",
+      "appId": "6502518373",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "< 5,000",
+      "name": "Arc Translate: Live Translator",
+      "publisher": "DEEP FLOW SOFTWARE SERVICES",
+      "revenue": "< $5,000",
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/arc-translate-live-translator/6798603074",
+      "appId": "6798603074",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "< 5,000",
+      "name": "FoF - Anonymous Polls",
+      "publisher": "Deep Vision Apps",
+      "revenue": "—",
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/fof-anonymous-polls/6446816272",
+      "appId": "6446816272",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "< 5,000",
+      "name": "Followers Reports",
+      "publisher": "Codeway Dijital Hizmetler Anonim Sirketi",
+      "revenue": "—",
+      "storefronts": [
+        ""
+      ],
+      "url": "https://appmagic.rocks/iphone/followers-reports/1527537634",
+      "appId": "1527537634",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/deep-flow-software-services/2_1833881740",
+      "capturedAt": "2026-10-13T09:50:27.121Z"
+    },
+    {
+      "downloads": "> 20,000,000",
+      "name": "ScanGuru: PDF文档扫描仪",
+      "publisher": "GM UniverseApps Limited",
+      "revenue": null,
+      "storefronts": [
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/scanguru-pdf%E6%96%87%E6%A1%A3%E6%89%AB%E6%8F%8F%E4%BB%AA/1040149161",
+      "appId": "1040149161",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 20,000,000",
+      "name": "Cleaner Guru: 清洁应用程序",
+      "publisher": "GM UniverseApps Limited, Universe Apps Limited",
+      "revenue": null,
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/cleaner-guru-%E6%B8%85%E6%B4%81%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/1476380919",
+      "appId": "1476380919",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 5,000,000",
+      "name": "Visify: AI Picture Generator",
+      "publisher": "GM UniverseApps Limited",
+      "revenue": null,
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/visify-ai-picture-generator/6472172759",
+      "appId": "6472172759",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 2,000,000",
+      "name": "Guru翻译:语音和文词",
+      "publisher": "GM UniverseApps Limited",
+      "revenue": null,
+      "storefronts": [
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/guru%E7%BF%BB%E8%AF%91-%E8%AF%AD%E9%9F%B3%E5%92%8C%E6%96%87%E8%AF%8D/1458104794",
+      "appId": "1458104794",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 1,000,000",
+      "name": "ReRoom AI: 室内设计与装修",
+      "publisher": "GM UniverseApps Limited",
+      "revenue": null,
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/reroom-ai-%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1%E4%B8%8E%E8%A3%85%E4%BF%AE/6749894179",
+      "appId": "6749894179",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 500,000",
+      "name": "Notee: 自由笔记",
+      "publisher": "GM UniverseApps Limited",
+      "revenue": null,
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/notee-%E8%87%AA%E7%94%B1%E7%AC%94%E8%AE%B0/6745517667",
+      "appId": "6745517667",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 500,000",
+      "name": "Assist: Chat with AI - GM UniverseApps Limited",
+      "publisher": "GM UniverseApps Limited",
+      "revenue": null,
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/assist-chat-with-ai-gm-universeapps-limited/6448989090",
+      "appId": "6448989090",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 200,000",
+      "name": "Artica - AI Art Generator",
+      "publisher": "GM UniverseApps Limited",
+      "revenue": null,
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/artica-ai-art-generator/6480045582",
+      "appId": "6480045582",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 20,000",
+      "name": "Coobrick - Video Editor",
+      "publisher": "GM UniverseApps Limited",
+      "revenue": null,
+      "storefronts": [
+        ""
+      ],
+      "url": "https://appmagic.rocks/ipad/coobrick-video-editor/1475254259",
+      "appId": "1475254259",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 5,000",
+      "name": "Black Hole vs Furniture",
+      "publisher": "GM UniverseApps Limited, Universe Apps Limited",
+      "revenue": null,
+      "storefronts": [
+        "",
+        ""
+      ],
+      "url": "https://appmagic.rocks/ipad/black-hole-vs-furniture/1481835429",
+      "appId": "1481835429",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "< 5,000",
+      "name": "Fax Guru: Send Fax from Phone",
+      "publisher": "GM UniverseApps Limited",
+      "revenue": null,
+      "storefronts": [
+        ""
+      ],
+      "url": "https://appmagic.rocks/iphone/fax-guru-send-fax-from-phone/1522298293",
+      "appId": "1522298293",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/gm-universeapps-limited/2_1473276099",
+      "capturedAt": "2026-10-13T09:53:17.098Z"
+    },
+    {
+      "downloads": "> 100,000,000",
+      "name": "NordVPN - 快速安全的VPN",
+      "publisher": "Nordvpn S.A., Nord Security",
+      "revenue": null,
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/nordvpn-%E5%BF%AB%E9%80%9F%E5%AE%89%E5%85%A8%E7%9A%84vpn/905953485",
+      "appId": "905953485",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/nordvpn-s-a-/2_1548694093",
+      "capturedAt": "2026-10-13T09:55:53.243Z"
+    },
+    {
+      "downloads": "> 10,000,000",
+      "name": "Saily：旅行用 eSIM",
+      "publisher": "Nordvpn S.A., Nord Security",
+      "revenue": null,
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/saily-%E6%97%85%E8%A1%8C%E7%94%A8-esim/6475045151",
+      "appId": "6475045151",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/nordvpn-s-a-/2_1548694093",
+      "capturedAt": "2026-10-13T09:55:53.243Z"
+    },
+    {
+      "downloads": "> 5,000,000",
+      "name": "NordPass: Password Manager",
+      "publisher": "Nordvpn S.A., Nord Security",
+      "revenue": null,
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/iphone/nordpass-password-manager/1486322860",
+      "appId": "1486322860",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/nordvpn-s-a-/2_1548694093",
+      "capturedAt": "2026-10-13T09:55:53.243Z"
+    },
+    {
+      "downloads": "> 100,000",
+      "name": "NordLocker: Private Cloud",
+      "publisher": "Nordvpn S.A., Nord Security",
+      "revenue": null,
+      "storefronts": [
+        "Google Play",
+        "iPhone + iPad"
+      ],
+      "url": "https://appmagic.rocks/ipad/nordlocker-private-cloud/1582765682",
+      "appId": "1582765682",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/nordvpn-s-a-/2_1548694093",
+      "capturedAt": "2026-10-13T09:55:53.243Z"
+    },
+    {
+      "downloads": "—",
+      "name": "HangUp: A caller ID app",
+      "publisher": "Nordvpn S.A.",
+      "revenue": null,
+      "storefronts": [
+        "iPhone App Store"
+      ],
+      "url": "https://appmagic.rocks/iphone/hangup-a-caller-id-app/6771743598",
+      "appId": "6771743598",
+      "period": "lifetime",
+      "country": null,
+      "scope": "发行商关联应用，全球、未拆分平台",
+      "sourceUrl": "https://appmagic.rocks/publisher/nordvpn-s-a-/2_1548694093",
+      "capturedAt": "2026-10-13T09:55:53.243Z"
+    }
+  ]
+}

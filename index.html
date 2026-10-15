@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AppStoreData · 王者荣耀</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <aside>
+    <a class="brand" href="#overview"><span class="brand-icon">A</span> AppStoreData <small>预览版</small></a>
+    <p class="nav-label">应用数据</p>
+    <nav aria-label="页面导航">
+      <a href="us-utilities.html">↗ <span>美区工具畅销榜</span></a>
+      <a href="#overview">◫ <span>应用总览</span></a>
+      <a href="#ratings">☆ <span>评分分布</span></a>
+      <a href="#versions">↺ <span>版本记录</span></a>
+      <a href="#purchases">¥ <span>应用内购</span></a>
+      <a href="#info">ⓘ <span>基本信息</span></a>
+      <a href="#sources">⌘ <span>数据来源</span></a>
+    </nav>
+    <div class="aside-note"><span class="dot"></span> 已获取真实数据<p>中国 · App Store<br>本地数据快照</p></div>
+  </aside>
+  <main>
+    <header><div>应用研究 <span>/</span> 王者荣耀</div><button id="export" disabled>↓ 导出 JSON</button></header>
+    <div id="status" role="status">正在读取数据…</div>
+    <div id="dashboard" hidden>
+      <section id="overview" class="app-heading">
+        <img id="icon" alt="王者荣耀应用图标" width="88" height="88">
+        <div><div class="eyebrow">APP STORE / 中国</div><h1 id="name"></h1><p id="subtitle"></p><div class="tags"><span>iOS</span><span>免费 · 应用内购买</span><span id="version"></span></div></div>
+        <a class="source-link" id="original" target="_blank" rel="noreferrer">查看点点原页 ↗</a>
+      </section>
+      <div class="snapshot-note"><span class="dot"></span><span id="captured"></span><span>数据快照，未启用自动更新</span></div>
+      <div class="metrics" id="metrics"></div>
+      <section class="panel"><div class="section-head"><h2>下载与收入概览</h2><span class="badge">点点页面 · 合集口径</span></div><p class="muted" id="scope"></p><div class="overview-grid" id="estimates"></div><p class="footnote" id="estimate-note"></p></section>
+      <section class="panel" id="ratings"><div class="section-head"><div><h2>评分分布</h2><p class="muted">按点点原页的评分口径展示</p></div><div class="segmented"><button data-rating="current" aria-pressed="true">当前版本</button><button data-rating="all" aria-pressed="false">所有版本</button></div></div><div class="rating-layout"><div class="rating-summary"><strong id="rating-average"></strong><div class="stars">★★★★★</div><p id="rating-count"></p><small id="rating-label"></small></div><div id="rating-bars"></div></div></section>
+      <div class="columns"><section class="panel" id="versions"><div class="section-head"><h2>版本记录</h2><span class="badge">点点页面</span></div><p class="muted">已获取最近 10 个版本；近一年更新 4 次</p><div class="table-wrap"><table><thead><tr><th>版本</th><th>更新日期</th><th>元数据更改</th></tr></thead><tbody id="version-rows"></tbody></table></div></section><section class="panel" id="purchases"><div class="section-head"><h2>热门内购</h2><span class="badge">中国 · CNY</span></div><p class="muted">点点原页展示的 10 项内购</p><table><thead><tr><th>内购名称</th><th>价格</th></tr></thead><tbody id="purchase-rows"></tbody></table></section></div>
+      <section class="panel" id="info"><div class="section-head"><h2>基本信息</h2><span class="badge">Apple 公开接口</span></div><dl id="info-list"></dl><details><summary>应用描述</summary><p class="long-text" id="description"></p></details><details><summary>最新版本更新内容</summary><p class="long-text" id="release-notes"></p></details><div id="screenshots" aria-label="应用截图"></div></section>
+      <section class="panel" id="sources"><div class="section-head"><h2>数据来源与获取状态</h2><span class="badge">可追溯</span></div><div class="source-row"><div><strong>点点数据 · 已登录页面</strong><p>分类排名、App 指数、评分分布、内购、历史版本及合集下载收入区间。</p></div><span class="available">已获取快照</span></div><div class="source-row"><div><strong>Apple iTunes Lookup</strong><p>应用名称、版本、开发者、大小、描述与截图。Apple 与点点评分统计口径可能不同。</p><a id="apple-link" target="_blank" rel="noreferrer">查看 Apple 原始响应 ↗</a></div><span class="available">公开接口可获取</span></div><div class="source-row"><div><strong>点点数据接口分析</strong><p>已定位基础信息、排名、下载和收入接口。直接请求返回 sign error；独立接口采集尚未打通。</p><a href="docs/research.md" target="_blank">查看研究记录 ↗</a></div><span class="pending">仍需验证</span></div><div class="unavailable"><strong>尚未获取</strong><p id="unavailable"></p></div></section>
+      <footer>AppStoreData · 首版数据验证页 <span>所有展示数值均来自实际获取结果</span></footer>
+    </div>
+  </main>
+</body>
+</html>

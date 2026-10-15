@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>美区工具畅销榜 Top 200 · AppStoreData</title>
+  <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="us-utilities.css">
+  <link rel="stylesheet" href="review-analysis.css?v=close-center-20261015"><script src="review-analysis.js?v=all-negative-20261015" defer></script>
+  <script src="star-ratings.js?v=negative-label-20261015" defer></script>
+  <script src="us-utilities.js?v=global-fallback-20261015" defer></script>
+</head>
+<body>
+  <aside>
+    <a class="brand" href="index.html"><span class="brand-icon">A</span> AppStoreData <small>预览版</small></a>
+    <p class="nav-label">应用数据</p>
+    <nav aria-label="页面导航"><a class="active" href="us-utilities.html">↗ <span>美区工具畅销榜</span></a><a href="index.html">◫ <span>王者荣耀总览</span></a></nav>
+    <div class="aside-note"><span class="dot"></span> Apple 公开接口<p>无需登录 · 无 API Key</p></div>
+  </aside>
+  <main>
+    <header><div>App Store <span>/</span> 美国工具榜</div><button id="refresh">↻ 刷新数据</button></header>
+    <section class="rank-heading"><div class="eyebrow">UNITED STATES / UTILITIES / TOP GROSSING</div><h1>美区工具畅销榜 <span>Top 200</span></h1><p>按 Apple 返回的榜单顺序，发现美国工具类应用的头部产品。</p><div class="tags"><span>美国</span><span>工具 · 6002</span><span>畅销榜</span><span>Apple iTunes Top Charts</span></div></section>
+    <div class="rank-timing"><span class="dot"></span><span id="feed-time">正在获取榜单…</span><span id="fetch-time"></span></div>
+    <p id="status" class="rank-status" role="status">正在直接请求 Apple 公开接口…</p>
+    <section class="panel rank-panel" aria-label="美区工具畅销榜前200名">
+      <div class="section-head"><h2>上榜应用 <span id="count" class="badge">—</span><span id="estimate-count" class="badge">—</span></h2><div class="source-links"><a id="estimate-source" target="_blank" rel="noreferrer">IOSMRR 估算来源 ↗</a><a id="source" target="_blank" rel="noreferrer">原始榜单 ↗</a></div></div>
+      <p class="muted">同一指标有美国推算值时优先使用；缺失时使用各来源的全球原始总量，并计入参考均值。每项标明美国或全球口径（含近似值和范围阈值）。IOSMRR 原始地区未披露，假定为全球；来源月份、商店及收入口径不一致，这些是参考模型值。七麦昨日下载不参与月度平均。</p>
+      <p class="table-hint">使用窗口底部滚动条，左右查看评分、版本、各第三方参考数据及评论分析 →</p>
+      <div class="table-wrap" id="rank-scroll"><table class="rank-table"><thead>
+        <tr><th rowspan="2" scope="col">排名</th><th rowspan="2" scope="col">应用 / 开发者</th><th rowspan="2" scope="col" class="metric-heading">月下载 · 参考均值</th><th rowspan="2" scope="col" class="metric-heading">月收入 · 参考均值</th><th rowspan="2" scope="col">初始上架时间</th><th rowspan="2" scope="col">评分</th><th rowspan="2" scope="col">评分数</th><th rowspan="2" scope="col">下载价格</th><th rowspan="2" scope="col">最新版本</th><th colspan="2" scope="colgroup" class="metric-heading">IOSMRR · 参考数据<span class="public-month"></span></th><th colspan="2" scope="colgroup" class="metric-heading">Sensor Tower · 参考数据<span class="public-month">原始全球 iOS · Last Month（年月未核实）</span></th><th colspan="2" scope="colgroup" class="metric-heading">Appfigures · 参考数据<span class="public-month" id="appfigures-month"></span></th><th rowspan="2" scope="col" class="metric-heading">七麦 · 昨日下载<span class="public-month">美国 iOS · 日预估</span></th><th colspan="2" scope="colgroup" class="metric-heading">AppMagic · 参考数据<span class="public-month" id="appmagic-month"></span></th><th rowspan="2" scope="col">文字差评率<span class="review-heading-note">近30天文字评论 · 1–3星差评</span></th><th rowspan="2" scope="col">评星差评率<span class="review-heading-note">当前累计 · 美国 · 全部评星</span></th></tr>
+        <tr><th scope="col">月下载量</th><th scope="col">Est. MRR · USD</th><th scope="col">月下载量</th><th scope="col">月收入 · USD</th><th scope="col">月下载量</th><th scope="col">月收入 · 扣费后 USD</th><th scope="col">近30天下载 · 推算</th><th scope="col">近30天收入 · 扣费后 USD</th></tr>
+      </thead><tbody id="rank-rows"></tbody></table></div>
+      <details class="estimate-details"><summary>数据来源与美国／全球口径 <span id="iosmrr-count"></span> <span id="sensor-count"></span> <span id="appfigures-count"></span> <span id="qimai-count"></span> <span id="appmagic-count"></span></summary>
+        <p id="estimate-note" class="metrics-note"></p>
+        <p id="appfigures-note" class="metrics-note"></p>
+        <p id="qimai-note" class="metrics-note"></p>
+        <p id="appmagic-note" class="metrics-note"></p>
+        <p class="muted"><a href="data/appmagic-us-public-snapshot.json" target="_blank" rel="noreferrer">AppMagic 地区推算快照 ↗</a> · <a href="data/appmagic-us-share-raw.json" target="_blank" rel="noreferrer">地区占比原始行 ↗</a>；保留 ≈&gt; / ≈&lt;，美国值未取得时使用全球总量；总量也缺失时保留未知；来源为商店合并应用，未拆分 iOS。</p>
+        <p class="muted">点点已验证<a href="data/diandian-public-snapshot.json" target="_blank" rel="noreferrer">匿名首页接口快照 ↗</a>：公开中国区前 10 月下载榜与收入榜，具体年月及收入单位未核实，未匹配当前美区工具榜，不参与月度均值。</p>
+        <p class="muted">其他公开采集：<a href="data/appmagic-public-snapshot.json" target="_blank" rel="noreferrer">AppMagic 早期累计快照 ↗</a>，<a href="data/apptweak-public-report.json" target="_blank" rel="noreferrer">AppTweak 公开报告快照 ↗</a> 为 2025 全年全球双商店下载量，均不参与月度均值；历史累计列保持移除。</p>
+        <p class="muted">美国推算 = 来源原始数值 × AppMagic 最近30天对应指标的美国占比。美国值未取得时直接使用该来源全球原始总量。下载和收入分别选择口径，单元格明确标记美国推算或全球参考；均值按所选口径对可用来源求算术平均。下载、收入占比分别使用；IOSMRR 假定全球，Sensor Tower 全球 iOS、Appfigures 全球商店合并均借用 AppMagic 的合并商店占比。跨来源和月份的比例仅为参考假设，不是三家直接提供的美国数据。均值 = 所选口径的可用数值之和 ÷ 来源数；≈&gt;$5.2M 按 $5.2M 计算，其他范围阈值同样按数值参与。缺失不填零，单来源注明。</p>
+        <p class="muted">下载量和收入统一使用 K（千）、M（百万）、B（十亿），最多保留两位小数；美元收入以 $ 标记，推算使用原始数值，显示单位不影响计算。</p>
+        <p class="muted">上架时间来自 Apple releaseDate；“免费”表示下载价格。Sensor Tower 全球 iOS 摘要只标记 Last Month，具体年月未核实，检索于 2026-10-12。各来源数值可点击查看原始数据，悬停查看原始数值、所用地区占比及换算过程。</p>
+      </details>
+    </section>
+    <footer>榜单：Apple iTunes Top Charts · 元数据：Apple iTunes Lookup <a href="index.html">返回应用总览 →</a></footer>
+  </main>
+  <dialog id="review-dialog" class="review-dialog" aria-labelledby="review-app-name">
+    <header class="review-dialog-header"><img id="review-app-icon" alt=""><div><p>评论分析 · 美国 iOS · 最近30天</p><h2 id="review-app-name"></h2></div><button type="button" id="review-close" class="review-close" aria-label="关闭评论分析" autofocus>×</button></header>
+    <div id="review-content" class="review-content" aria-live="polite"></div>
+  </dialog>
+  <dialog id="star-dialog" class="review-dialog" aria-labelledby="star-app-name">
+    <header class="review-dialog-header"><img id="star-app-icon" alt=""><div><p>评星分析 · 美国 iOS · 当前累计</p><h2 id="star-app-name"></h2></div><button type="button" id="star-close" class="review-close" aria-label="关闭评星分析" autofocus>×</button></header>
+    <div id="star-content" class="review-content" aria-live="polite"></div>
+  </dialog>
+  <div id="rank-scrollbar" class="rank-scrollbar" tabindex="0" role="region" aria-label="榜单横向滚动条" hidden><div id="rank-scrollbar-width"></div></div>
+</body>
+</html>

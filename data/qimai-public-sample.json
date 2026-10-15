@@ -1,0 +1,16 @@
+{
+  "source": "七麦数据",
+  "sourceUrl": "https://www.qimai.cn/app/income/appid/1510944943/country/us",
+  "capturedOn": "2026-10-13",
+  "captureTimezone": "Asia/Singapore",
+  "collectionMethod": "未登录浏览器公开页面，核对美国地区、Apple App ID、昨日下载量标签。尚未验证自动采集接口。",
+  "appId": "1510944943",
+  "name": "Cleanup: Phone Storage Cleaner",
+  "country": "us",
+  "periodLabel": "昨日",
+  "downloadsEstimate": 23742,
+  "absoluteMetricDate": null,
+  "downloadsLastMonth": null,
+  "revenueLastMonthUSD": null,
+  "note": "页面只给出昨日标签，未单独注明绝对统计日期；趋势和收入预估区域要求登录。不能将单日乘30用作月度估算。"
+}

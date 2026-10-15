@@ -1,0 +1,95 @@
+{
+  "source": "AppTweak Market Intelligence",
+  "sourceUrl": "https://www.apptweak.com/en/reports/most-downloaded-productivity-tools-apps",
+  "capturedAt": "2026-10-13T09:56:22.261648+00:00",
+  "period": "2025-01-01 / 2025-12-31",
+  "country": null,
+  "storefronts": [
+    "apple:ios",
+    "google_play"
+  ],
+  "collectionMethod": "匿名 HTTP 公开报告表格",
+  "note": "全球全年下载估算，不是美国 iOS 上月；报告不含 Apple ID，不按模糊名称匹配榜单，不参与月度均值。",
+  "rows": [
+    {
+      "rank": 1,
+      "name": "ChatGPT",
+      "publisher": "OpenAI",
+      "downloads": "845.2M",
+      "downloadsEstimate": 845200000,
+      "appId": null
+    },
+    {
+      "rank": 2,
+      "name": "Google Gemini",
+      "publisher": "Google",
+      "downloads": "305.2M",
+      "downloadsEstimate": 305200000,
+      "appId": null
+    },
+    {
+      "rank": 3,
+      "name": "DeepSeek – AI Assistant",
+      "publisher": "DeepSeek",
+      "downloads": "110.5M",
+      "downloadsEstimate": 110500000,
+      "appId": null
+    },
+    {
+      "rank": 4,
+      "name": "PDF Reader – PDF Viewer",
+      "publisher": "QR Code Scanner.",
+      "downloads": "104.3M",
+      "downloadsEstimate": 104300000,
+      "appId": null
+    },
+    {
+      "rank": 5,
+      "name": "Perplexity – Ask Anything",
+      "publisher": "Perplexity AI, Inc.",
+      "downloads": "89.1M",
+      "downloadsEstimate": 89100000,
+      "appId": null
+    },
+    {
+      "rank": 6,
+      "name": "Google Chrome",
+      "publisher": "Google",
+      "downloads": "88.4M",
+      "downloadsEstimate": 88400000,
+      "appId": null
+    },
+    {
+      "rank": 7,
+      "name": "Grok • Smartest AI Advisor",
+      "publisher": "xAI",
+      "downloads": "87.7M",
+      "downloadsEstimate": 87700000,
+      "appId": null
+    },
+    {
+      "rank": 8,
+      "name": "Microsoft Authenticator",
+      "publisher": "Microsoft Corporation",
+      "downloads": "86.2M",
+      "downloadsEstimate": 86200000,
+      "appId": null
+    },
+    {
+      "rank": 9,
+      "name": "Gmail",
+      "publisher": "Google",
+      "downloads": "80.7M",
+      "downloadsEstimate": 80700000,
+      "appId": null
+    },
+    {
+      "rank": 10,
+      "name": "Adobe Acrobat Reader: Edit PDF",
+      "publisher": "Adobe",
+      "downloads": "75.7M",
+      "downloadsEstimate": 75700000,
+      "appId": null
+    }
+  ]
+}

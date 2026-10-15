@@ -1,0 +1,3242 @@
+{
+  "source": "AppMagic",
+  "country": "us",
+  "store": "app_collection",
+  "periodLabel": "最近30天",
+  "month": null,
+  "capturedAt": "2026-10-15T04:02:33.868Z",
+  "currency": "USD",
+  "rows": [
+    {
+      "appId": "1510944943",
+      "name": "Cleanup: Phone Storage Cleaner",
+      "sourceUrl": "https://appmagic.rocks/iphone/cleanup-%E6%89%8B%E6%9C%BA%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7/1510944943",
+      "capturedAt": "2026-10-14T02:25:16.828Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "3个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 5000000,
+          "raw": "> 5,000,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 10000000,
+          "raw": "> $10,000,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 850000.0,
+        "usPercent": 17,
+        "shareBasis": "us",
+        "sharePercent": 17,
+        "globalThreshold": 5000000,
+        "rawGlobalTotal": "> 5,000,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 5200000.0,
+        "usPercent": 52,
+        "shareBasis": "us",
+        "sharePercent": 52,
+        "globalThreshold": 10000000,
+        "rawGlobalTotal": "> $10,000,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "886492891",
+      "name": "ExpressVPN · Secure & Fast VPN",
+      "sourceUrl": "https://appmagic.rocks/iphone/expressvpn-fast-and-reliable-premium-vpn-proxy/886492891",
+      "capturedAt": "2026-10-14T02:26:58.032Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 1000000,
+          "raw": "> 1,000,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 2000000,
+          "raw": "> $2,000,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 130000.0,
+        "usPercent": 13,
+        "shareBasis": "us",
+        "sharePercent": 13,
+        "globalThreshold": 1000000,
+        "rawGlobalTotal": "> 1,000,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 600000.0,
+        "usPercent": 30,
+        "shareBasis": "us",
+        "sharePercent": 30,
+        "globalThreshold": 2000000,
+        "rawGlobalTotal": "> $2,000,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "505800761",
+      "name": "Burner: Second Phone Number",
+      "sourceUrl": "https://appmagic.rocks/iphone/burner-second-phone-number/505800761",
+      "capturedAt": "2026-10-14T02:28:28.867Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 500000,
+          "raw": "> $500,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 90000.0,
+        "usPercent": 90,
+        "shareBasis": "us",
+        "sharePercent": 90,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 425000.0,
+        "usPercent": 85,
+        "shareBasis": "us",
+        "sharePercent": 85,
+        "globalThreshold": 500000,
+        "rawGlobalTotal": "> $500,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1539090879",
+      "name": "TV Remote - Universal Control",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E9%80%9A%E7%94%A8%E9%81%A5%E6%8E%A7%E5%99%A8/1539090879",
+      "capturedAt": "2026-10-14T02:29:12.932Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 500000,
+          "raw": "> 500,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 1000000,
+          "raw": "> $1,000,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 290000.0,
+        "usPercent": 58,
+        "shareBasis": "us",
+        "sharePercent": 58,
+        "globalThreshold": 500000,
+        "rawGlobalTotal": "> 500,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 840000.0,
+        "usPercent": 84,
+        "shareBasis": "us",
+        "sharePercent": 84,
+        "globalThreshold": 1000000,
+        "rawGlobalTotal": "> $1,000,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1476380919",
+      "name": "Cleaner Guru: Clean Up Storage",
+      "sourceUrl": "https://appmagic.rocks/iphone/cleaner-guru-%E6%B8%85%E6%B4%81%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/1476380919",
+      "capturedAt": "2026-10-15T03:57:11.895Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 5000,
+          "raw": "> 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 2000000,
+          "raw": "> $2,000,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 5000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "> 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 1540000.0,
+        "usPercent": 77,
+        "shareBasis": "us",
+        "sharePercent": 77,
+        "globalThreshold": 2000000,
+        "rawGlobalTotal": "> $2,000,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "905953485",
+      "name": "NordVPN: VPN Fast & Secure",
+      "sourceUrl": "https://appmagic.rocks/iphone/nordvpn-%E5%BF%AB%E9%80%9F%E5%AE%89%E5%85%A8%E7%9A%84vpn/905953485",
+      "capturedAt": "2026-10-14T02:29:12.952Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "4个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 1000000,
+          "raw": "> 1,000,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 10000000,
+          "raw": "> $10,000,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 130000.0,
+        "usPercent": 13,
+        "shareBasis": "us",
+        "sharePercent": 13,
+        "globalThreshold": 1000000,
+        "rawGlobalTotal": "> 1,000,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 2700000.0,
+        "usPercent": 27,
+        "shareBasis": "us",
+        "sharePercent": 27,
+        "globalThreshold": 10000000,
+        "rawGlobalTotal": "> $10,000,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1583884012",
+      "name": "Swipewipe: Photo Cleaner",
+      "sourceUrl": "https://appmagic.rocks/iphone/swipewipe-%E7%85%A7%E7%89%87%E6%B8%85%E7%90%86%E5%A4%A7%E5%B8%88/1583884012",
+      "capturedAt": "2026-10-14T02:29:20.117Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> 200,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 500000,
+          "raw": "> $500,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 54000.0,
+        "usPercent": 27,
+        "shareBasis": "us",
+        "sharePercent": 27,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> 200,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 255000.0,
+        "usPercent": 51,
+        "shareBasis": "us",
+        "sharePercent": 51,
+        "globalThreshold": 500000,
+        "rawGlobalTotal": "> $500,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6443877058",
+      "name": "Universal TV Remote Control・",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E4%B8%87%E8%83%BD%E9%81%A5%E6%8E%A7%E5%99%A8%E3%83%BB%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E5%8A%A9%E6%89%8B/6443877058",
+      "capturedAt": "2026-10-14T02:31:15.536Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> 200,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 46000.0,
+        "usPercent": 23,
+        "shareBasis": "us",
+        "sharePercent": 23,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> 200,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 58000.0,
+        "usPercent": 58,
+        "shareBasis": "us",
+        "sharePercent": 58,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1625553531",
+      "name": "Remote for Firestick · Fire TV",
+      "sourceUrl": "https://appmagic.rocks/iphone/remote-for-firestick-fire-tv/1625553531",
+      "capturedAt": "2026-10-14T02:31:15.546Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 44000.0,
+        "usPercent": 88,
+        "shareBasis": "us",
+        "sharePercent": 88,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 47500.0,
+        "usPercent": 95,
+        "shareBasis": "us",
+        "sharePercent": 95,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6504182653",
+      "name": "UniRemote：Universal TV Remote",
+      "sourceUrl": "https://appmagic.rocks/iphone/uniremote-remote-tv-play/6504182653",
+      "capturedAt": "2026-10-14T02:31:15.553Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 32000.0,
+        "usPercent": 32,
+        "shareBasis": "us",
+        "sharePercent": 32,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 51000.0,
+        "usPercent": 51,
+        "shareBasis": "us",
+        "sharePercent": 51,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1639136627",
+      "name": "Scan QR Code.",
+      "sourceUrl": "https://appmagic.rocks/iphone/scan-qr-code-/1639136627",
+      "capturedAt": "2026-10-14T02:31:15.570Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 4750.0,
+        "usPercent": 95,
+        "shareBasis": "us",
+        "sharePercent": 95,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 97000.0,
+        "usPercent": 97,
+        "shareBasis": "us",
+        "sharePercent": 97,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1507917112",
+      "name": "Find Air - My Device Tracker",
+      "sourceUrl": "https://appmagic.rocks/iphone/find-air-%E6%9F%A5%E6%89%BE%E8%AE%BE%E5%A4%87-%E8%93%9D%E7%89%99%E4%BD%8D%E7%BD%AE/1507917112",
+      "capturedAt": "2026-10-14T02:33:18.783Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 54000.0,
+        "usPercent": 54,
+        "shareBasis": "us",
+        "sharePercent": 54,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 78000.0,
+        "usPercent": 78,
+        "shareBasis": "us",
+        "sharePercent": 78,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6503708537",
+      "name": "Scan QR Code Now",
+      "sourceUrl": "https://appmagic.rocks/iphone/scan-qr-code-now/6503708537",
+      "capturedAt": "2026-10-14T02:33:18.900Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 23500.0,
+        "usPercent": 47,
+        "shareBasis": "us",
+        "sharePercent": 47,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 128000.0,
+        "usPercent": 64,
+        "shareBasis": "us",
+        "sharePercent": 64,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1581765635",
+      "name": "Universal Remote TV Control ·",
+      "sourceUrl": "https://appmagic.rocks/iphone/universal-remote-tv-%E9%80%9A%E7%94%A8%E9%9B%BB%E8%A6%96%E9%81%99%E6%8E%A7%E5%99%A8%E3%83%BB/1581765635",
+      "capturedAt": "2026-10-14T02:33:19.012Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 500000,
+          "raw": "> 500,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 80000.0,
+        "usPercent": 16,
+        "shareBasis": "us",
+        "sharePercent": 16,
+        "globalThreshold": 500000,
+        "rawGlobalTotal": "> 500,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 78000.0,
+        "usPercent": 39,
+        "shareBasis": "us",
+        "sharePercent": 39,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6477382010",
+      "name": "Universal TV Remote Control＊",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E4%B8%87%E8%83%BD%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8%E6%89%8B%E6%9C%BA%E7%BA%A2%E5%A4%96%E8%BF%9C%E7%A8%8B%E6%8E%A7%E5%88%B6%E5%8F%8A%E6%8A%95%E5%B1%8F-imote/6477382010",
+      "capturedAt": "2026-10-15T03:57:34.721Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 1000000,
+          "raw": "> 1,000,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 1000000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 1000000,
+        "rawGlobalTotal": "> 1,000,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 64000.0,
+        "usPercent": 32,
+        "shareBasis": "us",
+        "sharePercent": 32,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1216135390",
+      "name": "Second Phone Number - 2Number",
+      "sourceUrl": "https://appmagic.rocks/iphone/2number-%E8%8E%B7%E5%8F%96%E7%AC%AC%E4%BA%8C%E4%B8%AA%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E6%89%8B%E6%9C%BA%E8%BD%AF%E4%BB%B6/1216135390",
+      "capturedAt": "2026-10-14T02:34:07.859Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "3个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 33000.0,
+        "usPercent": 33,
+        "shareBasis": "us",
+        "sharePercent": 33,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 58000.0,
+        "usPercent": 58,
+        "shareBasis": "us",
+        "sharePercent": 58,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1439422220",
+      "name": "Universal TV Remote ·",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E7%94%B5%E8%A7%86%E9%80%9A%E7%94%A8%E9%81%A5%E6%8E%A7%E5%99%A8/1439422220",
+      "capturedAt": "2026-10-14T02:34:07.976Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "4个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 500000,
+          "raw": "> 500,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 140000.0,
+        "usPercent": 28,
+        "shareBasis": "us",
+        "sharePercent": 28,
+        "globalThreshold": 500000,
+        "rawGlobalTotal": "> 500,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 62000.0,
+        "usPercent": 62,
+        "shareBasis": "us",
+        "sharePercent": 62,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6467252904",
+      "name": "Universal Remote・TV Control",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E4%B8%87%E8%83%BD%E3%83%BB%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8/6467252904",
+      "capturedAt": "2026-10-15T03:58:55.063Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 500000,
+          "raw": "> 500,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 500000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 500000,
+        "rawGlobalTotal": "> 500,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 64000.0,
+        "usPercent": 32,
+        "shareBasis": "us",
+        "sharePercent": 32,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1226650677",
+      "name": "QR Code Reader，Barcode Scanner",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E4%BA%8C%E7%BB%B4%E7%A0%81-air-%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8%E3%80%81%E6%9D%A1%E7%A0%81%E6%89%AB%E6%8F%8F%E5%99%A8%E3%80%81%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%89%AB%E6%8F%8F/1226650677",
+      "capturedAt": "2026-10-14T02:34:08.212Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 2800.0,
+        "usPercent": 14,
+        "shareBasis": "us",
+        "sharePercent": 14,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 53000.0,
+        "usPercent": 53,
+        "shareBasis": "us",
+        "sharePercent": 53,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1050171910",
+      "name": "Free VPN by Free VPN .org™",
+      "sourceUrl": "https://appmagic.rocks/iphone/free-vpn-by-free-vpn-org/1050171910",
+      "capturedAt": "2026-10-14T02:35:58.839Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> 200,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 48000.0,
+        "usPercent": 24,
+        "shareBasis": "us",
+        "sharePercent": 24,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> 200,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 56000.0,
+        "usPercent": 28,
+        "shareBasis": "us",
+        "sharePercent": 28,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1584764976",
+      "name": "QR Code Reader＊Barcode Scanner",
+      "sourceUrl": "https://appmagic.rocks/iphone/qr-code-reader%E3%83%BBbarcode-scanner/1584764976",
+      "capturedAt": "2026-10-15T03:58:55.073Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 100000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 36000.0,
+        "usPercent": 18,
+        "shareBasis": "us",
+        "sharePercent": 18,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6745645676",
+      "name": "TextPort: Text Message Export",
+      "sourceUrl": "https://appmagic.rocks/iphone/text-port-%E6%B6%88%E6%81%AF%E5%AF%BC%E5%87%BA/6745645676",
+      "capturedAt": "2026-10-15T03:58:55.083Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 5000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 40000.0,
+        "usPercent": 80,
+        "shareBasis": "us",
+        "sharePercent": 80,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1488466513",
+      "name": "Mullvad VPN",
+      "sourceUrl": "https://appmagic.rocks/iphone/mullvad-vpn/1488466513",
+      "capturedAt": "2026-10-15T03:59:14.141Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 100000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 62000.0,
+        "usPercent": 31,
+        "shareBasis": "us",
+        "sharePercent": 31,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6448222268",
+      "name": "Smart Cleaner: Free Up Storage",
+      "sourceUrl": "https://appmagic.rocks/iphone/smart-cleaner-free-up-storage/6448222268",
+      "capturedAt": "2026-10-15T03:59:14.156Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 20000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 69000.0,
+        "usPercent": 69,
+        "shareBasis": "us",
+        "sharePercent": 69,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6757016336",
+      "name": "TV Remote Control · Universal",
+      "sourceUrl": "https://appmagic.rocks/iphone/tv-remote-control-universal/6757016336",
+      "capturedAt": "2026-10-14T02:37:17.010Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 20000.0,
+        "usPercent": 100,
+        "shareBasis": "us",
+        "sharePercent": 100,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 47500.0,
+        "usPercent": 95,
+        "shareBasis": "us",
+        "sharePercent": 95,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1271546805",
+      "name": "Tape Measure™",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E5%8D%B7%E5%B0%BA/1271546805",
+      "capturedAt": "2026-10-14T02:37:17.139Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 7400.0,
+        "usPercent": 37,
+        "shareBasis": "us",
+        "sharePercent": 37,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 41000.0,
+        "usPercent": 82,
+        "shareBasis": "us",
+        "sharePercent": 82,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1016562846",
+      "name": "Rokie - Remote for Roku Player",
+      "sourceUrl": "https://appmagic.rocks/iphone/rokie-remote-for-roku-player/1016562846",
+      "capturedAt": "2026-10-14T02:37:17.271Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 13500.0,
+        "usPercent": 27,
+        "shareBasis": "us",
+        "sharePercent": 27,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 43000.0,
+        "usPercent": 86,
+        "shareBasis": "us",
+        "sharePercent": 86,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1591238748",
+      "name": "Universal Remote TV Control",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E4%B8%87%E8%83%BD%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8-%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8/1591238748",
+      "capturedAt": "2026-10-15T03:59:14.166Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> 200,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 200000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> 200,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 52000.0,
+        "usPercent": 26,
+        "shareBasis": "us",
+        "sharePercent": 26,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6501954960",
+      "name": "QR Code Reader＋Barcode Scanner",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%9D%A1%E7%A0%81%E9%98%85%E8%AF%BB%E5%99%A8-%E4%B8%BA%E6%82%A8%E5%AE%89%E5%85%A8%E6%89%AB%E7%A0%81/6501954960",
+      "capturedAt": "2026-10-15T03:59:50.054Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> 200,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 200000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> 200,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 54000.0,
+        "usPercent": 27,
+        "shareBasis": "us",
+        "sharePercent": 27,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6450300197",
+      "name": "Owll: AI Note Taker&Assistant",
+      "sourceUrl": "https://appmagic.rocks/iphone/owll-ai%E8%AA%9E%E9%9F%B3%E7%AD%86%E8%A8%98-and-%E6%9C%83%E8%AD%B0%E5%8A%A9%E7%90%86/6450300197",
+      "capturedAt": "2026-10-14T02:37:17.615Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 2400.0,
+        "usPercent": 12,
+        "shareBasis": "us",
+        "sharePercent": 12,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 58000.0,
+        "usPercent": 58,
+        "shareBasis": "us",
+        "sharePercent": 58,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1453537222",
+      "name": "Tape Measure & Ruler Арр",
+      "sourceUrl": "https://appmagic.rocks/iphone/ar-%E6%B5%8B%E9%87%8F%E4%BB%AA-%E5%B0%BA%E5%AD%90%E6%B5%8B%E9%87%8F%E3%80%81%E6%B5%8B%E9%87%8F%E5%B0%BA%E3%80%81%E4%B8%93%E4%B8%9A%E6%89%8B%E6%9C%BA%E6%B5%8B%E9%87%8F%E5%B7%A5%E5%85%B7%E7%AE%B1/1453537222",
+      "capturedAt": "2026-10-14T02:37:17.736Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 6000.0,
+        "usPercent": 12,
+        "shareBasis": "us",
+        "sharePercent": 12,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 49000.0,
+        "usPercent": 49,
+        "shareBasis": "us",
+        "sharePercent": 49,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1022831885",
+      "name": "Robokiller: Spam Call Blocker",
+      "sourceUrl": "https://appmagic.rocks/iphone/robokiller-spam-call-blocker/1022831885",
+      "capturedAt": "2026-10-14T02:37:59.835Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 1000000,
+          "raw": "> $1,000,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 10000.0,
+        "usPercent": 50,
+        "shareBasis": "us",
+        "sharePercent": 50,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 990000.0,
+        "usPercent": 99,
+        "shareBasis": "us",
+        "sharePercent": 99,
+        "globalThreshold": 1000000,
+        "rawGlobalTotal": "> $1,000,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6754900760",
+      "name": "Authenticator ℠ App",
+      "sourceUrl": "https://appmagic.rocks/iphone/authenticator-app/6754900760",
+      "capturedAt": "2026-10-14T02:37:59.966Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> 200,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 500000,
+          "raw": "> $500,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 50000.0,
+        "usPercent": 25,
+        "shareBasis": "us",
+        "sharePercent": 25,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> 200,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 270000.0,
+        "usPercent": 54,
+        "shareBasis": "us",
+        "sharePercent": 54,
+        "globalThreshold": 500000,
+        "rawGlobalTotal": "> $500,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6448330325",
+      "name": "AI Cleaner: Clean Up Storage",
+      "sourceUrl": "https://appmagic.rocks/iphone/ai-cleaner-%E6%89%8B%E6%9C%BA%E6%B8%85%E7%90%86%E5%99%A8/6448330325",
+      "capturedAt": "2026-10-15T03:59:50.061Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> 200,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 500000,
+          "raw": "> $500,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 200000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> 200,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 190000.0,
+        "usPercent": 38,
+        "shareBasis": "us",
+        "sharePercent": 38,
+        "globalThreshold": 500000,
+        "rawGlobalTotal": "> $500,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "724596345",
+      "name": "McAfee: Stay Secure & Private",
+      "sourceUrl": "https://appmagic.rocks/iphone/mcafee-mobile-security-vault-backup-and-locate/724596345",
+      "capturedAt": "2026-10-14T02:38:00.239Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> 200,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 500000,
+          "raw": "> $500,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 42000.0,
+        "usPercent": 21,
+        "shareBasis": "us",
+        "sharePercent": 21,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> 200,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 255000.0,
+        "usPercent": 51,
+        "shareBasis": "us",
+        "sharePercent": 51,
+        "globalThreshold": 500000,
+        "rawGlobalTotal": "> $500,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1012032539",
+      "name": "Sideline: Private 2nd Number",
+      "sourceUrl": "https://appmagic.rocks/iphone/sideline-private-2nd-number/1012032539",
+      "capturedAt": "2026-10-14T02:38:00.366Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 10000,
+          "raw": "> 10,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 3500.0,
+        "usPercent": 35,
+        "shareBasis": "us",
+        "sharePercent": 35,
+        "globalThreshold": 10000,
+        "rawGlobalTotal": "> 10,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 198000.0,
+        "usPercent": 99,
+        "shareBasis": "us",
+        "sharePercent": 99,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1194582243",
+      "name": "Cleaner Kit - Clean Up Storage",
+      "sourceUrl": "https://appmagic.rocks/iphone/smart-cleaner-%E7%88%B1%E6%99%BA%E8%83%BD%E6%B8%85%E7%90%86-%E6%89%8B%E6%9C%BA%E7%A9%BA%E9%97%B4%E6%B8%85%E7%90%86%E5%A4%A7%E5%B8%88/1194582243",
+      "capturedAt": "2026-10-14T02:38:00.499Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 5500.0,
+        "usPercent": 11,
+        "shareBasis": "us",
+        "sharePercent": 11,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 90000.0,
+        "usPercent": 45,
+        "shareBasis": "us",
+        "sharePercent": 45,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6458692724",
+      "name": "TV Remote & Universal Control™",
+      "sourceUrl": "https://appmagic.rocks/iphone/tv-remote-and-universal-control/6458692724",
+      "capturedAt": "2026-10-14T02:38:00.629Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 43000.0,
+        "usPercent": 43,
+        "shareBasis": "us",
+        "sharePercent": 43,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 93000.0,
+        "usPercent": 93,
+        "shareBasis": "us",
+        "sharePercent": 93,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "368494609",
+      "name": "QR Reader for iPhone",
+      "sourceUrl": "https://appmagic.rocks/iphone/qr%E6%89%AB%E6%8F%8F%E5%99%A8/368494609",
+      "capturedAt": "2026-10-14T02:38:00.743Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "5个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 13500.0,
+        "usPercent": 27,
+        "shareBasis": "us",
+        "sharePercent": 27,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 55000.0,
+        "usPercent": 55,
+        "shareBasis": "us",
+        "sharePercent": 55,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1463756032",
+      "name": "Cleaner Neat: Clean Up Storage",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E5%BF%AB%E9%80%9F%E6%B8%85%E7%90%86%E8%B6%85%E7%BA%A7%E6%B8%85%E7%90%86%E5%99%A8/1463756032",
+      "capturedAt": "2026-10-15T03:59:50.068Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 50000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 39000.0,
+        "usPercent": 39,
+        "shareBasis": "us",
+        "sharePercent": 39,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6474010687",
+      "name": "Remote for Samsung TV Smart",
+      "sourceUrl": "https://appmagic.rocks/iphone/remote-for-samsung-tv-smart/6474010687",
+      "capturedAt": "2026-10-14T02:38:56.038Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> 200,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 36000.0,
+        "usPercent": 18,
+        "shareBasis": "us",
+        "sharePercent": 18,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> 200,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 66000.0,
+        "usPercent": 66,
+        "shareBasis": "us",
+        "sharePercent": 66,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "600520752",
+      "name": "Hushed: US Second Phone Number",
+      "sourceUrl": "https://appmagic.rocks/iphone/hushed-us-second-phone-number/600520752",
+      "capturedAt": "2026-10-14T02:38:56.169Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 4200.0,
+        "usPercent": 21,
+        "shareBasis": "us",
+        "sharePercent": 21,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 94000.0,
+        "usPercent": 47,
+        "shareBasis": "us",
+        "sharePercent": 47,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6553976921",
+      "name": "Universal TV Remote™ Control",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E5%85%A8%E8%83%BD%E9%81%A5%E6%8E%A7%E5%99%A8%EF%BC%8C%E9%81%A5%E6%8E%A7%E7%94%B5%E8%A7%86%EF%BC%8C%E5%86%85%E5%AE%B9%E6%8A%95%E5%B1%8F/6553976921",
+      "capturedAt": "2026-10-14T02:38:56.302Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 47500.0,
+        "usPercent": 95,
+        "shareBasis": "us",
+        "sharePercent": 95,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 48000.0,
+        "usPercent": 96,
+        "shareBasis": "us",
+        "sharePercent": 96,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6461419341",
+      "name": "RemoTV: Universal TV Remote",
+      "sourceUrl": "https://appmagic.rocks/iphone/remotv-%E9%80%9A%E7%94%A8%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8/6461419341",
+      "capturedAt": "2026-10-15T04:00:19.899Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 50000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 30500.0,
+        "usPercent": 61,
+        "shareBasis": "us",
+        "sharePercent": 61,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6505138540",
+      "name": "QR Scanner Pro *",
+      "sourceUrl": "https://appmagic.rocks/iphone/qr-scanner-pro-/6505138540",
+      "capturedAt": "2026-10-15T04:00:19.910Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 50000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 58000.0,
+        "usPercent": 29,
+        "shareBasis": "us",
+        "sharePercent": 29,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6737916371",
+      "name": "QR Code Master: Scan & Maker",
+      "sourceUrl": "https://appmagic.rocks/iphone/qr-code-master-scan-and-maker/6737916371",
+      "capturedAt": "2026-10-15T04:00:19.917Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 20000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 40000.0,
+        "usPercent": 40,
+        "shareBasis": "us",
+        "sharePercent": 40,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1200318119",
+      "name": "QR Code Reader ·",
+      "sourceUrl": "https://appmagic.rocks/iphone/qr-code-reader-/1200318119",
+      "capturedAt": "2026-10-15T04:00:35.527Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 100000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 64000.0,
+        "usPercent": 32,
+        "shareBasis": "us",
+        "sharePercent": 32,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6444381350",
+      "name": "Measuring Tape+ Measure AR app",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E6%B5%8B%E8%B7%9D%E4%BB%AA-%E9%9A%8F%E8%BA%AB%E7%9A%84%E6%89%8B%E6%9C%BAar%E7%B2%BE%E7%A1%AE%E5%8D%B7%E5%B0%BA%E5%92%8C%E6%B0%B4%E5%B9%B3%E4%BB%AA/6444381350",
+      "capturedAt": "2026-10-15T04:00:35.536Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 50000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 50000.0,
+        "usPercent": 50,
+        "shareBasis": "us",
+        "sharePercent": 50,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6471626032",
+      "name": "TV Remote for Roku ·",
+      "sourceUrl": "https://appmagic.rocks/iphone/tv-remote-for-roku-/6471626032",
+      "capturedAt": "2026-10-14T02:39:49.083Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 5000,
+          "raw": "> 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 2550.0,
+        "usPercent": 51,
+        "shareBasis": "us",
+        "sharePercent": 51,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "> 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 48500.0,
+        "usPercent": 97,
+        "shareBasis": "us",
+        "sharePercent": 97,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6451212658",
+      "name": "QR Code & Barcode Scanner app.",
+      "sourceUrl": "https://appmagic.rocks/iphone/qr-code-and-barcode-scanner-app-/6451212658",
+      "capturedAt": "2026-10-15T04:00:35.544Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 200000,
+          "raw": "> $200,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 50000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 22000.0,
+        "usPercent": 11,
+        "shareBasis": "us",
+        "sharePercent": 11,
+        "globalThreshold": 200000,
+        "rawGlobalTotal": "> $200,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6502456017",
+      "name": "Cleaner: Photo Cleanup",
+      "sourceUrl": "https://appmagic.rocks/iphone/cleaner-%E7%85%A7%E7%89%87%E6%B8%85%E7%90%86/6502456017",
+      "capturedAt": "2026-10-15T04:00:57.786Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 5000,
+          "raw": "> 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 5000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "> 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 47000.0,
+        "usPercent": 47,
+        "shareBasis": "us",
+        "sharePercent": 47,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1579881271",
+      "name": "Clean Manager: Storage Cleaner",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E6%89%8B%E6%9C%BA%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7-%E5%82%A8%E5%AD%98%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7/1579881271",
+      "capturedAt": "2026-10-14T02:39:49.480Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 5000,
+          "raw": "> 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 700.0,
+        "usPercent": 14,
+        "shareBasis": "us",
+        "sharePercent": 14,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "> 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 53000.0,
+        "usPercent": 53,
+        "shareBasis": "us",
+        "sharePercent": 53,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1471473738",
+      "name": "Live Transcribe",
+      "sourceUrl": "https://appmagic.rocks/iphone/live-transcribe/1471473738",
+      "capturedAt": "2026-10-15T04:00:57.793Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 5000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 39000.0,
+        "usPercent": 78,
+        "shareBasis": "us",
+        "sharePercent": 78,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6752863449",
+      "name": "TV Remote for Roku Devices",
+      "sourceUrl": "https://appmagic.rocks/iphone/tv-remote-for-roku-devices/6752863449",
+      "capturedAt": "2026-10-14T02:39:49.744Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 2400.0,
+        "usPercent": 12,
+        "shareBasis": "us",
+        "sharePercent": 12,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 43500.0,
+        "usPercent": 87,
+        "shareBasis": "us",
+        "sharePercent": 87,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1587316791",
+      "name": "Lens: Translate & Photo Finder",
+      "sourceUrl": "https://appmagic.rocks/iphone/lens-ai%E5%9B%BE%E5%83%8F%E7%BF%BB%E8%AF%91%E4%B8%8E%E6%90%9C%E5%9B%BE%E7%9B%B8%E6%9C%BA%E5%8A%A9%E6%89%8B/1587316791",
+      "capturedAt": "2026-10-15T04:00:57.800Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 100000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 51000.0,
+        "usPercent": 51,
+        "shareBasis": "us",
+        "sharePercent": 51,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6739498078",
+      "name": "AR Measuring Tape Ruler：Metrix",
+      "sourceUrl": "https://appmagic.rocks/iphone/ar-measuring-tape-ruler-metrix/6739498078",
+      "capturedAt": "2026-10-14T02:41:09.755Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 5500.0,
+        "usPercent": 11,
+        "shareBasis": "us",
+        "sharePercent": 11,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 52000.0,
+        "usPercent": 52,
+        "shareBasis": "us",
+        "sharePercent": 52,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6759697123",
+      "name": "SmartClean AI: Storage Cleaner",
+      "sourceUrl": "https://appmagic.rocks/iphone/smartclean-ai-storage-cleaner/6759697123",
+      "capturedAt": "2026-10-14T02:41:09.873Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> 100,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 22000.0,
+        "usPercent": 22,
+        "shareBasis": "us",
+        "sharePercent": 22,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> 100,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 31000.0,
+        "usPercent": 62,
+        "shareBasis": "us",
+        "sharePercent": 62,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6760985637",
+      "name": "QR Code Barcode Ai Reader",
+      "sourceUrl": "https://appmagic.rocks/iphone/qr-code-barcode-ai-reader/6760985637",
+      "capturedAt": "2026-10-14T02:41:09.974Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 10000,
+          "raw": "> 10,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 10000.0,
+        "usPercent": 100,
+        "shareBasis": "us",
+        "sharePercent": 100,
+        "globalThreshold": 10000,
+        "rawGlobalTotal": "> 10,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 49500.0,
+        "usPercent": 99,
+        "shareBasis": "us",
+        "sharePercent": 99,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "829129497",
+      "name": "Mobile Link for Generators",
+      "sourceUrl": "https://appmagic.rocks/iphone/mobile-link-for-generators/829129497",
+      "capturedAt": "2026-10-14T02:41:10.107Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 10000,
+          "raw": "> 10,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 6300.0,
+        "usPercent": 63,
+        "shareBasis": "us",
+        "sharePercent": 63,
+        "globalThreshold": 10000,
+        "rawGlobalTotal": "> 10,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 44000.0,
+        "usPercent": 88,
+        "shareBasis": "us",
+        "sharePercent": 88,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6449484412",
+      "name": "Phone Storage Cleaner: Free up",
+      "sourceUrl": "https://appmagic.rocks/iphone/phone-storage-cleaner-clean-up/6449484412",
+      "capturedAt": "2026-10-15T04:01:22.856Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 10000,
+          "raw": "> 10,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 10000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 10000,
+        "rawGlobalTotal": "> 10,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 57000.0,
+        "usPercent": 57,
+        "shareBasis": "us",
+        "sharePercent": 57,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1561954125",
+      "name": "Smart Remote for Sam TV",
+      "sourceUrl": "https://appmagic.rocks/iphone/smart-remote-for-sam-tv/1561954125",
+      "capturedAt": "2026-10-14T02:41:10.331Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 4900.0,
+        "usPercent": 98,
+        "shareBasis": "us",
+        "sharePercent": 98,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 45000.0,
+        "usPercent": 90,
+        "shareBasis": "us",
+        "sharePercent": 90,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "284815942",
+      "name": "Google",
+      "sourceUrl": "https://appmagic.rocks/iphone/google/284815942",
+      "capturedAt": "2026-10-14T02:41:10.430Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "3个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 5000000,
+          "raw": "> 5,000,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 900000.0,
+        "usPercent": 18,
+        "shareBasis": "us",
+        "sharePercent": 18,
+        "globalThreshold": 5000000,
+        "rawGlobalTotal": "> 5,000,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 46000.0,
+        "usPercent": 46,
+        "shareBasis": "us",
+        "sharePercent": 46,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6755528083",
+      "name": "Clean AI・Phone Storage Cleanup",
+      "sourceUrl": "https://appmagic.rocks/iphone/clean-ai%E3%83%BBphone-storage-cleanup/6755528083",
+      "capturedAt": "2026-10-14T02:41:10.530Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 10000,
+          "raw": "> 10,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 5400.0,
+        "usPercent": 54,
+        "shareBasis": "us",
+        "sharePercent": 54,
+        "globalThreshold": 10000,
+        "rawGlobalTotal": "> 10,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 42000.0,
+        "usPercent": 84,
+        "shareBasis": "us",
+        "sharePercent": 84,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6474351038",
+      "name": "Connect TV Remote",
+      "sourceUrl": "https://appmagic.rocks/iphone/connect-tv-remote/6474351038",
+      "capturedAt": "2026-10-15T04:01:22.869Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 5000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 49500.0,
+        "usPercent": 99,
+        "shareBasis": "us",
+        "sharePercent": 99,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1134727588",
+      "name": "Nomorobo - Robocall Blocker",
+      "sourceUrl": "https://appmagic.rocks/iphone/nomorobo-robocall-blocker/1134727588",
+      "capturedAt": "2026-10-14T02:41:53.235Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 49500.0,
+        "usPercent": 99,
+        "shareBasis": "us",
+        "sharePercent": 99,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6752901737",
+      "name": "KeepClean AI: Storage Cleaner",
+      "sourceUrl": "https://appmagic.rocks/iphone/keepclean-ai-storage-cleaner/6752901737",
+      "capturedAt": "2026-10-14T02:41:53.338Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 42500.0,
+        "usPercent": 85,
+        "shareBasis": "us",
+        "sharePercent": 85,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1564249382",
+      "name": "The Tape Measure & 3D Scanner",
+      "sourceUrl": "https://appmagic.rocks/iphone/ar%E5%B0%BA%E5%AD%90%E3%80%81%E5%8D%B7%E5%B0%BA-%E9%95%BF%E5%BA%A6%E5%92%8C%E8%BA%AB%E9%AB%98%E6%B5%8B%E9%87%8F%E5%B7%A5%E5%85%B7%E3%80%81%E5%B9%B3%E9%9D%A2%E5%9B%BE/1564249382",
+      "capturedAt": "2026-10-15T04:01:22.880Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 50000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 46000.0,
+        "usPercent": 46,
+        "shareBasis": "us",
+        "sharePercent": 46,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "932747118",
+      "name": "Shadowrocket",
+      "sourceUrl": "https://appmagic.rocks/iphone/shadowrocket/932747118",
+      "capturedAt": "2026-10-14T02:41:53.556Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 30500.0,
+        "usPercent": 61,
+        "shareBasis": "us",
+        "sharePercent": 61,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1322234579",
+      "name": "QR, Barcode Scanner for iPhone",
+      "sourceUrl": "https://appmagic.rocks/iphone/qr-code-scanner-%E6%89%AB%E6%8F%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%9D%A1%E5%BD%A2%E7%A0%81/1322234579",
+      "capturedAt": "2026-10-15T04:01:42.937Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 5000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 27000.0,
+        "usPercent": 54,
+        "shareBasis": "us",
+        "sharePercent": 54,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6470302849",
+      "name": "Second Phone Number, 2nd Line",
+      "sourceUrl": "https://appmagic.rocks/iphone/second-phone-number-app-esim/6470302849",
+      "capturedAt": "2026-10-14T02:41:53.792Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 10000,
+          "raw": "> 10,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 2200.0,
+        "usPercent": 22,
+        "shareBasis": "us",
+        "sharePercent": 22,
+        "globalThreshold": 10000,
+        "rawGlobalTotal": "> 10,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 32000.0,
+        "usPercent": 64,
+        "shareBasis": "us",
+        "sharePercent": 64,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6670310164",
+      "name": "Universal Remote for Smart TV+",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E9%80%9A%E7%94%A8%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8/6670310164",
+      "capturedAt": "2026-10-15T04:01:42.943Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> $20,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 5000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 19600.0,
+        "usPercent": 98,
+        "shareBasis": "us",
+        "sharePercent": 98,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> $20,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6445917429",
+      "name": "Cleaner ・Phone Storage Cleanup",
+      "sourceUrl": "https://appmagic.rocks/iphone/cleaner-%E3%83%BBphone-storage-cleanup/6445917429",
+      "capturedAt": "2026-10-15T04:01:42.948Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 100000,
+          "raw": "> $100,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 20000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 38000.0,
+        "usPercent": 38,
+        "shareBasis": "us",
+        "sharePercent": 38,
+        "globalThreshold": 100000,
+        "rawGlobalTotal": "> $100,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6447676034",
+      "name": "Castly+",
+      "sourceUrl": "https://appmagic.rocks/iphone/castly-/6447676034",
+      "capturedAt": "2026-10-14T02:42:18.809Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 4250.0,
+        "usPercent": 85,
+        "shareBasis": "us",
+        "sharePercent": 85,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 49000.0,
+        "usPercent": 98,
+        "shareBasis": "us",
+        "sharePercent": 98,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1050267310",
+      "name": "Phoner: Second Phone Number",
+      "sourceUrl": "https://appmagic.rocks/iphone/phoner-second-phone-number/1050267310",
+      "capturedAt": "2026-10-15T04:02:06.948Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "2个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 10000,
+          "raw": "> 10,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 10000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 10000,
+        "rawGlobalTotal": "> 10,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 41500.0,
+        "usPercent": 83,
+        "shareBasis": "us",
+        "sharePercent": 83,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6504796378",
+      "name": "QR Code Reader, Scan Barcode",
+      "sourceUrl": "https://appmagic.rocks/iphone/%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8-%E6%9D%A1%E7%A0%81%E6%89%AB%E6%8F%8F%E5%99%A8-%E6%89%AB%E7%A0%81/6504796378",
+      "capturedAt": "2026-10-15T04:02:06.957Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 20000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 33500.0,
+        "usPercent": 67,
+        "shareBasis": "us",
+        "sharePercent": 67,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6465788800",
+      "name": "Scan QR Code & Barcode",
+      "sourceUrl": "https://appmagic.rocks/iphone/scan-qr-code-and-barcode/6465788800",
+      "capturedAt": "2026-10-14T02:42:19.128Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 49500.0,
+        "usPercent": 99,
+        "shareBasis": "us",
+        "sharePercent": 99,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1455968861",
+      "name": "Tracover: Dual Chat & Recover",
+      "sourceUrl": "https://appmagic.rocks/iphone/tracover-dual-chat-and-recover/1455968861",
+      "capturedAt": "2026-10-15T04:02:06.969Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> 20,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 20000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> 20,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 27000.0,
+        "usPercent": 54,
+        "shareBasis": "us",
+        "sharePercent": 54,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6467652964",
+      "name": "Clean Phone Storage Now",
+      "sourceUrl": "https://appmagic.rocks/iphone/clean-phone-storage-now/6467652964",
+      "capturedAt": "2026-10-14T02:42:19.368Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "revenue": {
+          "operator": ">",
+          "threshold": 20000,
+          "raw": "> $20,000"
+        }
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 19800.0,
+        "usPercent": 99,
+        "shareBasis": "us",
+        "sharePercent": 99,
+        "globalThreshold": 20000,
+        "rawGlobalTotal": "> $20,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6755063086",
+      "name": "Powerful Clean: Phone Cleaner",
+      "sourceUrl": "https://appmagic.rocks/iphone/powerful-clean-phone-cleaner/6755063086",
+      "capturedAt": "2026-10-14T02:42:19.490Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 35500.0,
+        "usPercent": 71,
+        "shareBasis": "us",
+        "sharePercent": 71,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6762701854",
+      "name": "TT Cleaner:Manage storage",
+      "sourceUrl": "https://appmagic.rocks/iphone/tt-cleaner/6762701854",
+      "capturedAt": "2026-10-14T02:43:11.308Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 5000.0,
+        "usPercent": 100,
+        "shareBasis": "us",
+        "sharePercent": 100,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 49500.0,
+        "usPercent": 99,
+        "shareBasis": "us",
+        "sharePercent": 99,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "1619787473",
+      "name": "LED light controller LED lamp",
+      "sourceUrl": "https://appmagic.rocks/iphone/led-light-controller-led-lamp/1619787473",
+      "capturedAt": "2026-10-14T02:43:11.411Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> 50,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 20500.0,
+        "usPercent": 41,
+        "shareBasis": "us",
+        "sharePercent": 41,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> 50,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 38000.0,
+        "usPercent": 76,
+        "shareBasis": "us",
+        "sharePercent": 76,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6755585828",
+      "name": "SnapTidy: Free Up Space",
+      "sourceUrl": "https://appmagic.rocks/iphone/snaptidy-free-up-space/6755585828",
+      "capturedAt": "2026-10-14T02:43:11.512Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": ">",
+          "threshold": 5000,
+          "raw": "> 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": ">",
+        "threshold": 1400.0,
+        "usPercent": 28,
+        "shareBasis": "us",
+        "sharePercent": 28,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "> 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 34000.0,
+        "usPercent": 68,
+        "shareBasis": "us",
+        "sharePercent": 68,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    },
+    {
+      "appId": "6745728288",
+      "name": "Smart Cleaner - Pro Security",
+      "sourceUrl": "https://appmagic.rocks/iphone/smart-cleaner-pro-security/6745728288",
+      "capturedAt": "2026-10-15T04:02:33.868Z",
+      "periodLabel": "最近30天",
+      "appCountLabel": "1个 应用分析数据",
+      "globalTotals": {
+        "downloads": {
+          "operator": "<",
+          "threshold": 5000,
+          "raw": "< 5,000"
+        },
+        "revenue": {
+          "operator": ">",
+          "threshold": 50000,
+          "raw": "> $50,000"
+        }
+      },
+      "downloads": {
+        "operator": "<",
+        "threshold": 5000.0,
+        "usPercent": null,
+        "shareBasis": "global",
+        "sharePercent": null,
+        "globalThreshold": 5000,
+        "rawGlobalTotal": "< 5,000",
+        "approximate": true
+      },
+      "revenue": {
+        "operator": ">",
+        "threshold": 40000.0,
+        "usPercent": 80,
+        "shareBasis": "us",
+        "sharePercent": 80,
+        "globalThreshold": 50000,
+        "rawGlobalTotal": "> $50,000",
+        "approximate": true
+      }
+    }
+  ],
+  "note": "同一指标有美国占比时使用美国推算，否则使用全球原始总量并计入参考均值。每项注明美国或全球口径，下载、收入分别选择。占比为整数百分比，存在舍入；范围阈值按显示数值计入均值，不代表精确值或严格上下限。最近30天起止日期未披露，不等同于上个自然月。应用合并商店，未拆分 iOS；收入为扣平台和税费后的预计内购收入。总量也缺失时保留未知，不填零。"
+}

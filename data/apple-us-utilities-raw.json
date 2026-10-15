@@ -1,0 +1,1944 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "im:name": {
+          "label": "Cleanup: Phone Storage Cleaner"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/72/4d/24724d47-469f-ec0e-78e8-0f4691ee8aed/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/72/4d/24724d47-469f-ec0e-78e8-0f4691ee8aed/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/72/4d/24724d47-469f-ec0e-78e8-0f4691ee8aed/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Clean up your iPhone and optimize storage in seconds. \n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam and promotional emails\n- Delete unused contacts and tidy up your address book\n- Free up storage instantly with one tap.\n\nCLEAN YOUR GALLERY FAST - DELETE DUPLICATE PHOTOS\nNo more manual browsing. Cleanup makes it easy:\n- Instantly detect and delete duplicate photos\n- Smart grouping for similar photos, with “Best” marked\n- Remove large, lookalike videos\n- Identify and delete screenshots in bulk\n\nEMAIL CLEANER - DECLUTTER YOUR INBOX\nDeclutter your inbox in seconds:\n- Highlight and remove promo, spam, and unread emails\n- Clear out junk with one tap\n\nCONTACTS CLEANUP\nKeep your contacts organized and up to date:\n- Merge duplicates\n- Remove incomplete or unused entries\n- View and edit from one place\n\nCOMPRESS VIDEOS  - SAVE SPACE, KEEP QUALITY\nSave storage without deleting memories:\n- Compress large files with minimal quality loss\n- Select exactly which videos to compress\n\nCHARGING ANIMATIONS\nTurn charging into a personal moment with vivid, customizable animations.\n\nSECRET SPACE – HIDE WHAT’S PERSONAL\nHide personal content in a secure, PIN-protected vault only you can access.\n\nWIDGETS\nAdd instant cleanup tools to your Home and Lock Screens:\n- Battery and storage widgets\n- Tap to launch cleanup features quickly\n\nREVIEW BEFORE YOU DELETE\nNothing is removed without your approval.  After each cleaning session, you get a final review screen to double-check your selections.\n No accidental deletions, no surprises — you're always in control.\n\nOFFLINE AND PRIVATE\nYour data stays private:\n- No internet connection needed\n- No files leave your phone\n- No tracking or data misuse\n\nYour privacy is fully protected — even we can’t access your photos.\n\n\n\nPayment & Subscription Terms:\n\n\nChoose between the following subscription options for unlimited access to all features:\n\n\n• Weekly Subscription\n• Lifetime Subscription\n\n\nFREE TRIAL FOR 7 DAYS - OFFERING UNLIMITED GALLERY CLEANING FOR A LIMITED TIME\n\n\n***You may cancel your subscription at any time***\n\n\nCleanup’s free trial allows you unlimited access to all features for the duration of 7 days. Your account will be automatically charged for renewal, based on the annual subscription plan, within 24 hours before the end of the 7 days free trial period.\n\n\nYou can cancel auto-renewal at any time, given that the cancellation is at least 24 hours before the end of the current period. Any unused portion of a free trial period will be forfeited when making a purchase of an auto-renewing subscription.\n\n\n***Manage your subscription directly from your iPhone***\nSubscriptions can be managed by the user and auto-renewal can be turned off by going to the Account Settings:\n- Open the Settings app.\n- Tap your name.\n- Tap Subscriptions.\n- Tap the subscription that you want to manage.\n\n\nPrivacy policy: https://cleanup.photos/privacy\nTerms of use: https://cleanup.photos/terms"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© Codeway 2020"
+        },
+        "title": {
+          "label": "Cleanup: Phone Storage Cleaner - DEEP FLOW SOFTWARE SERVICES"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/cleanup-phone-storage-cleaner/id1510944943?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/83/28/1083282f-eb1c-2dcd-2a90-c6cc42687613/EN_CL_ST01_ALT15_6_9_SS1.jpg/480x480bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/cleanup-phone-storage-cleaner/id1510944943?uo=2",
+          "attributes": {
+            "im:id": "1510944943",
+            "im:bundleId": "com.codeway.cleanerplus"
+          }
+        },
+        "im:artist": {
+          "label": "DEEP FLOW SOFTWARE SERVICES",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/deep-flow-software-services/id1833881740?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2020-12-05T00:00:00-07:00",
+          "attributes": {
+            "label": "December 5, 2020"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Blink Home Monitor"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b6/e0/dfb6e08a-0ae3-4e79-f533-f6b19dcef576/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b6/e0/dfb6e08a-0ae3-4e79-f533-f6b19dcef576/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b6/e0/dfb6e08a-0ae3-4e79-f533-f6b19dcef576/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Get more value, simplicity, and convenience with Blink smart home security. See and speak to people and pets, right from the Blink app with features like HD live view, infrared night vision, and crisp two-way audio. Connect to an Alexa-enabled device to engage live view, arm and disarm your system, and more using your voice. Plus, use the Blink app to customize motion alerts, and set activity and privacy zones, so you only get notified about the activity you care about. With wired, plug-in, and wireless options featuring up two years of powerful battery life, Blink cameras can be set up in minutes and placed almost anywhere around your home. Affordable peace of mind starts at www.blinkforhome.com. Blink and get more.\n\nBlink Outdoor 4 is our fourth-generation wireless smart security camera that helps you protect your home inside and out right from your phone. Outdoor 4 runs for up to two years on a single set of AA lithium batteries and can be used inside and out — rain or shine — with features like two-way audio, enhanced motion detection, and more. \n\nBlink Outdoor 4 Floodlight Camera illuminated your home with 700 lumens of motion-triggered LED lighting, HD live view, wire-free install, and real-time alerts for around-the-clock peace of mind. Be alerted to motion faster from your smartphone with dual-zone, enhanced motion detection, and Receive alerts when a person is detected with embedded computer vision (CV) as part of an optional Blink Subscription Plan (sold separately).\n\nBlink Mini 2 is our second-generation plug-in smart security camera that helps you stay connected to what’s happening in your home, right from your smartphone. Use the motion-activated built-in spotlight to always know who’s there, day or night. Plus, plug in Mini 2 outside your home with the Blink Weather Resistant Power Adapter (sold separately or as part of a bundle) and mount with the included kit.\n\nBlink Mini is mighty — but tiny — which means you can plug it in anywhere inside your home. Hear, see, and speak right from the Blink Home Monitor app on your phone and get alerts whenever motion is detected.\n\nBlink Mini Pan-Tilt lets you see what's happening inside any room from corner to corner with 360° coverage from your smartphone, tablet, or compatible Alexa device. Pan left and right and tilt up and down from the Blink app to see more of your home with HD day and infrared night view. \n\nBlink Wired Floodlight Camera helps protect your home day or night with with 2600 lumens of LED lighting, enhanced motion detection, and a built-in security siren. Get alerted to movement with dual-zone, customizable motion detection and sound the security siren when needed. Set motion zones in the Blink Home Monitor app so you’re only notified when you need to be.\n\nWith a Blink Subscription Plan, save and share clips conveniently in the cloud, stream up to 90 minutes of continuous live view per session, and enable advanced features like person detection. Experience the convenience and added benefits of a Blink Subscription Plus Plan with an included 30-day free trial on every Blink camera purchase.\n\nBy using this app, you agree to Amazon’s Conditions of Use (www.amazon.com/conditionsofuse) and Privacy Notice (blinkforhome.com/privacy-policy)."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© 2015-2025 Amazon.com, Inc. or its affiliates"
+        },
+        "title": {
+          "label": "Blink Home Monitor - Immedia Semiconductor"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/blink-home-monitor/id1013961111?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/0a/a0/920aa0cd-610c-2cae-3cba-f33ddcf5eef8/1b2265f0-754c-45df-9061-9de55de8acfe_iOS_App_Store_Screenshot_1_2048x2732_2021.02.091.jpg.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/blink-home-monitor/id1013961111?uo=2",
+          "attributes": {
+            "im:id": "1013961111",
+            "im:bundleId": "com.immediasemi.ios.blink"
+          }
+        },
+        "im:artist": {
+          "label": "Immedia Semiconductor",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/immedia-semiconductor/id1013961110?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2015-11-20T14:25:24-07:00",
+          "attributes": {
+            "label": "November 20, 2015"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Cleaner Guru: Clean Up Storage"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/3f/3b/dd3f3bf7-17ab-b60d-1431-1b958d9b1ca2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/3f/3b/dd3f3bf7-17ab-b60d-1431-1b958d9b1ca2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/3f/3b/dd3f3bf7-17ab-b60d-1431-1b958d9b1ca2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Is your iPhone storage full again? Cleaner Guru helps you free up iPhone storage in seconds — all in one app.\n\n- Delete duplicate photos instantly\n- Compress videos with minimal quality loss\n- Bulk delete spam emails\n- Auto-merge duplicate contacts\n- Free up storage in a few taps\n\n» DUPLICATE PHOTO CLEANER\nYour gallery looks like a mess and it's hard to find the photos that matter? Cleaner Guru's AI scans your entire library, finds every duplicate and similar photo, marks the best shot, and lets you delete the rest in one tap. Clean camera roll, found in seconds.\n\n» EMAIL CLEANER – STOP INBOX SPAM FOR GOOD\nThousands of unread emails and spam subscriptions draining your focus? Delete all emails on iPhone at once, unsubscribe from spam lists with a single tap, and keep your inbox clean for good. Works with Gmail.\n\n» VIDEO COMPRESSOR APP FOR IPHONE\nDon't want to delete precious videos but running out of space? Compress videos on iPhone with minimal quality loss — reduce file sizes significantly and free up gigabytes instantly. Keep every memory without sacrificing storage.\n\n» CONTACTS CLEANUP – MERGE DUPLICATES INSTANTLY\nDuplicate and unnamed contacts making your address book a mess? Cleaner Guru finds and merges duplicate contacts on iPhone automatically — save time finding the right person and keep your contact list clean and organized.\n\n» SECRET FOLDER – PRIVATE & SECURE\nKeep sensitive photos and videos in a password-protected vault. Your personal content stays on your device — we never upload your files to external servers.\n\nOFFLINE & 100% PRIVATE\nCleaner Guru works completely offline. All processing happens locally on your device — your photos, videos, and contacts never leave your iPhone. No tracking. No uploads. Your privacy is fully protected.\n\nREVIEW BEFORE YOU DELETE\nYou are always in control. Preview every file before it's removed — nothing is deleted without your explicit approval. No accidental deletions, ever.\n\nStop juggling storage warnings and start actually using your iPhone. Cleaner Guru — free up space, clean up clutter, and get back to what matters. Download now and see the difference in minutes.\n\nSUBSCRIPTION INFORMATION\nAuto-Renewal: Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.\nManage Subscriptions: You can manage subscriptions and turn off auto-renewal by going to your Account Settings after purchase.\nFree Trial: Any unused portion of a free trial period will be forfeited when you purchase a subscription.\nPayment: Payment will be charged to your iTunes Account at confirmation of purchase.\nRenewal Charges: Based on the selected plan, your account will be charged for renewal 24 hours before the end of the current period.\n\nTERMS AND PRIVACY\nBy using Cleaner Guru, you agree to our Terms of Service, Privacy Policy, and Billing Terms.\nTerms of Service: https://cleanerguru.universeapps.limited/hub/legal/terms-of-use\nPrivacy Policy: https://cleanerguru.universeapps.limited/hub/legal/privacy-policy\nBilling Terms: https://cleanerguru.universeapps.limited/hub/legal/subscription-terms\nHave any questions? Contact us via Customer Support: support@guruapps.tech"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© GM UniverseApps Limited"
+        },
+        "title": {
+          "label": "Cleaner Guru: Clean Up Storage - GM UniverseApps Limited"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/cleaner-guru-clean-up-storage/id1476380919?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/91/c0/c691c0a6-6e31-2366-9038-305afecc2cd9/9396f232-e8f0-4007-a10b-2d22656e255e_1.jpg/480x480bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/cleaner-guru-clean-up-storage/id1476380919?uo=2",
+          "attributes": {
+            "im:id": "1476380919",
+            "im:bundleId": "gen.universe.app.cleaner"
+          }
+        },
+        "im:artist": {
+          "label": "GM UniverseApps Limited",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/gm-universeapps-limited/id1473276099?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2019-11-06T00:00:00-07:00",
+          "attributes": {
+            "label": "November 6, 2019"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "NordVPN: VPN Fast & Secure"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/49/92/3849923a-7e67-95b8-fd42-3460d56fbda6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/49/92/3849923a-7e67-95b8-fd42-3460d56fbda6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/49/92/3849923a-7e67-95b8-fd42-3460d56fbda6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Looking for a way to browse safer and have more privacy online? Here’s how you can get both. With NordVPN, one tap is all you need to change your IP address, protect your browsing from snoopers, and enjoy the internet the way it was meant to be.\n\nNordVPN is an all-in-one digital security app for an iPhone or iPad, trusted by millions of users worldwide. It shields your online activities from nosy advertisers, cybercriminals, and intrusive internet service providers. How? By stopping trackers and encrypting your traffic to make it unreadable to anyone trying to take a peek at your browsing.\n\nWhy NordVPN?\n\nTURBO SPEEDS\n\nWe do everything we can to give you VPN connection speeds that are hard to beat. That includes creating custom protocols so you can have super-fast connections without sacrificing security. \n\nAS EASY AS 1-2-3\n\nDownload, login, and connect – that’s it! With our VPN app, one tap is enough to encrypt your internet traffic. You can also set the app to connect automatically and enjoy full peace of mind.\n\nGET HELP 24/7\n\nWhatever it is — app issues, VPN connection problems, or payment options — we’ll sort it. Browse the Support Center, write an email, or visit our website for a live chat with customer support. \n\nPOWERFUL ONLINE SECURITY\n\nNordVPN secures your iPhone data with next-generation encryption algorithms. It would take millions of years to decrypt — so you know the information you send and receive is safe. \n\nSTAY SAFE ON PUBLIC WI-FI\n\nFound a cozy cafe with a Wi-Fi hotspot, but it’s unsecured? Don’t give up! Use our VPN and hide your online activities from snoopers and hackers.\n\nTHOUSANDS OF VPN SERVERS\n\nLightning-fast VPN protocols sure help, but our vast server network is there to do the heavy lifting. Thousands of VPN servers covering 220+ locations mean that the perfect one is always just a tap away. \n\nPROTECT TEN DEVICES WITH ONE ACCOUNT\n\nYour iPhone is probably not your only device that needs VPN protection. Use NordVPN to secure your laptop, tablet, and smart TV, or set up NordVPN on your router to protect your entire household.  \n\nRELIABLE SERVICE\n\nUnlike a proxy server or the Tor browser, a VPN will not only change your IP. It will also encrypt your traffic and maintain a stable connection with speeds that are hard to match.\n\nFeatures our users love:\n\n• Strong VPN encryption for top-grade security.\n• Unlimited VPN data for internet freedom.\n• VPN protocols to choose from: NordLynx based on WireGuard, NordWhisper, and OpenVPN.  \n• Thousands of VPN servers worldwide for turbo speeds.\n• 220+ server locations in every corner of the world.\n• Double VPN for even more privacy — encrypt your traffic twice!\n• VPN auto-connect for effortless online protection.\n• Protection against scams and phishing. \n• Identify leaked credentials with the Dark Web Monitor. \n\n\nOnline security is just a tap away — wind down, connect to NordVPN, and enjoy safer and more private internet access wherever you go.\n\nUsers must buy a subscription to be able to use the app.\nWireGuard® is a registered trademark of Jason A. Donenfeld.\nAuto-renewals do not apply to subscriptions purchased from resellers.\n\n“All-in-one\" refers to the VPN, scam protection, phishing protection, tracker and ad blocking, and other features available within the NordVPN app, depending on your device and the plan you choose.\n\nFor the terms of service, visit: https://nordvpn.com/terms-of-service/\nFor the privacy policy, visit: https://nordvpn.com/privacy-policy/"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© Nord Security"
+        },
+        "title": {
+          "label": "NordVPN: VPN Fast & Secure - Nordvpn S.A."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/nordvpn-vpn-fast-secure/id905953485?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/8e/df/498edfd5-a283-d5cc-f8e2-ce75a5028a4a/ap-tablet-main-listing-2048x2732-01.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/nordvpn-vpn-fast-secure/id905953485?uo=2",
+          "attributes": {
+            "im:id": "905953485",
+            "im:bundleId": "com.nordvpn.NordVPN"
+          }
+        },
+        "im:artist": {
+          "label": "Nordvpn S.A.",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/nordvpn-s-a/id1548694093?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2014-12-08T23:24:51-07:00",
+          "attributes": {
+            "label": "December 8, 2014"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "TV Remote - Universal Control"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/f8/a4/c2f8a40e-5791-49c2-31f3-a0e934d587e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/f8/a4/c2f8a40e-5791-49c2-31f3-a0e934d587e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/f8/a4/c2f8a40e-5791-49c2-31f3-a0e934d587e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "TV Remote is the ultimate solution for controlling your Smart TV from the comfort of your phone. With its easy-to-use interface and compatibility with various TV brands such as Samsung, Roku, LG, Sony, FireTV, AndroidTV, Vizio, and Hisense, this app lets you take charge of your TV viewing experience. You can connect your device to your TV via WIFI, and enjoy full control of your TV functions, including volume, channels, input sources, and more, right from your mobile device. Whether you're watching a movie, playing games, or simply relaxing, the app makes it easy to manage your TV, no matter where you are. Try it today and discover a whole new level of TV control.\n\nMain features:\n* Automatically detects Smart TVs on the same WIFI network\n* Works with most popular TV brands\n* Large touchpad for easy menu and content navigation\n* Launch channels directly from the app\n* Fast and simple keyboard input\n* Voice search for hands-free control\n\n\n\n*** Upgrade to Premium to remove ads and unlock all features***\n\nYou can choose one-time payment or\na yearly subscription. (with 3-day free trial)\na monthly subscription\na weekly subscription\n\n– Payment will be charged to iTunes Account at confirmation of purchase (After free trial period if offered).\n– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.\n– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nThis app is not affiliated with or endorsed by Samsung, Roku, or any other TV brands listed above.\n\nPrivacy: https://evolly.app/privacy-policy/\nTerms: https://evolly.app/terms-of-service/"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© EVOLLY.APP PTE. LTD."
+        },
+        "title": {
+          "label": "TV Remote - Universal Control - EVOLLY.APP"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/41/6b/66416b3d-c2fb-2ee3-f13b-544c70de9e1d/iPad_1.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879?uo=2",
+          "attributes": {
+            "im:id": "1539090879",
+            "im:bundleId": "evolly.app.rokuremote"
+          }
+        },
+        "im:artist": {
+          "label": "EVOLLY.APP",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/evolly-app/id1422593523?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2020-11-19T00:00:00-07:00",
+          "attributes": {
+            "label": "November 19, 2020"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Norton 360 Security & VPN"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/fc/8a/47fc8a51-dfd8-2be6-f20e-09d021890750/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/fc/8a/47fc8a51-dfd8-2be6-f20e-09d021890750/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/fc/8a/47fc8a51-dfd8-2be6-f20e-09d021890750/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Navigate the web more safely with Norton 360 for iOS.\n​​\nNorton 360 ensures robust mobile security, including AI-powered protection, and VPN for privacy online. Built-in scam protection helps keep you safe while browsing, shopping, or texting. \n\nNew: Scam Protection Pro\nAI-powered protection against sophisticated scams. Provides holistic coverage across email, web, phone calls, and SMS.\n\n - Norton Genie - AI assistant \n - Safe SMS: AI scam protection against spam\n - Safe Web: AI helps protect you from scams when browsing online.   \n - Safe Call: Proactively blocks scam and junk calls \n - Safe Email: 24/7 AI scam protection for your email inbox  \n\nDevice Security: scans for outdated operating systems and missing device passcodes to help you keep your data safer if your device is stolen. \n\nNorton Genie: Can answer your cyber safety questions, helps you identify scams in messages and in YouTube videos.[3]\n\nVPN: Help protect your private information with bank-grade encryption for a more secure connection, access to the content you love - wherever you are \n\nWiFi Security: scan WiFi networks to learn if your device is connected to vulnerable network. \n\nSafe SMS: filters spam SMS text messages that may contain phishing attacks with AI protection. \n\nSafe Web: advanced AI helps protect you from scams when browsing online by checking for scams on the pages you visit. \n\nAd Tracker Blocker: Helps block ads on different platforms for added privacy & security. \n\nDark Web Monitoring: We monitor the dark web and notify you if we find your personal information, security or privacy breaches.[2] \n\nSubscription details \n\n- Feature availability may vary based on your plan and country.\n- An annual subscription is required to activate the 7-day trial (see in-app product pricing).\n- Cancel the subscription from your account before the end of the trial to avoid payment.\n- After the 7-day trial, your subscription will start and automatically renew annually unless canceled.\n- You can manage your subscriptions and adjust automatic renewals in your Apple account settings after purchase.\n- The 7-day trial applies to eligible subscription plans and may vary by offer. \n\nPrivacy Statement \n\nNorton respects your online privacy and is dedicated to safeguarding your personal data. See https://www.norton.com/privacy for more information.\n\nNo one can prevent all cybercrime or identity theft.\n\n[1] Secure Norton VPN is not available in all countries. The VPN feature is no longer available for use within India as a result of governmental regulations requiring the logging and saving of user data, but you can still use your subscription when traveling outside of India.\n\n[2] Dark Web Monitoring is not available in all countries. Monitored information varies based on country of residence or choice of plan. It defaults to monitor your email address and begins immediately. Sign in to your account to enter more information for monitoring.\n\n[3] Currently available in early access and supports only YouTube videos in English.\n\nNorton 360 offers powerful protection, spyware detection, and a smart VPN to keep your device safe from online threats."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "​ Copyright © 2026 Gen Digital Inc. All rights reserved.​"
+        },
+        "title": {
+          "label": "Norton 360 Security & VPN - Gen Digital Inc."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/norton-360-security-vpn/id1278474169?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d1/46/bcd14678-8813-e933-9c7f-0a2949581caf/Anti-Sc_5th_iOS_12.9_1.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/norton-360-security-vpn/id1278474169?uo=2",
+          "attributes": {
+            "im:id": "1278474169",
+            "im:bundleId": "com.symantec.mobilesecurity"
+          }
+        },
+        "im:artist": {
+          "label": "Gen Digital Inc.",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/gen-digital-inc/id355033599?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2018-10-02T02:17:40-07:00",
+          "attributes": {
+            "label": "October 2, 2018"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Robokiller: Spam Call Blocker"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/ba/d0/2bbad00b-c477-95eb-6e84-c97b0360326c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/ba/d0/2bbad00b-c477-95eb-6e84-c97b0360326c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/ba/d0/2bbad00b-c477-95eb-6e84-c97b0360326c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Eliminate up to 99% of spam calls with Robokiller. Robokiller’s global database of 1.4 Billion analyzed calls instantly protects you from known phone scams. Our patented audio fingerprinting technology uses machine learning to stop your phone from ringing with annoying, unwanted calls. You can live life spam-call-free® and never miss a legitimate phone call again.\n\nBut wait – there's more: Robokiller doesn't just block robocallers and spammers, we annoy the hell out of them, too. If you want Robocall Revenge®, your spam calls can be sent to clever recorded messages called Answer Bots, so they can see what it feels like to have their time wasted. With Robokiller, you can finally get that oh-so-sweet revenge on robocallers.\n\nOTHER SPAM-ELIMINATING ROBOKILLER FEATURES:\n\nPREDICTIVE CALL-BLOCKING POWER\n\nWith Advanced Call Blocking, Robokiller analyzes all unrecognized calls using AI-powered audio fingerprinting technology.\n\n24/7 UP-TO-DATE PROTECTION\n\nNew spammers are continuously added to our global spam radar every MINUTE so your phone never rings from unwanted calls.\n\nKEEP YOUR PERSONAL INFO PRIVATE\nRobokiller’s new personal data protection feature scans the web to help you find and remove your private info from public search sites where it's sold and used for spam calls, identity theft and more. Take your info off the market and use our ongoing monitoring to notify you of any new exposures. \n\nGET REVENGE ON ROBOCALLERS\n\nFight bots with bots. Answer Bots deliver payback in hilarious fashion, sending spammers to clever recordings that you can listen to later, driving them crazy and giving you the last laugh.\n\nSPAM TEXT BLOCKING\n\nEliminate 99% of all spam text messages with Robokiller’s powerful, anonymized SMS blocking algorithm. Block unwanted text messages with accuracy and privacy.\n\nWith over 11 Million downloads in the United States, Robokiller is a trusted source of powerful spam call and text protection. But, don’t take our word for it. Robokiller has been featured on The New York Times, NBC Nightly News, Good Morning America, Fox News, and many other publications. Robokiller has also been featured by Apple as a 2019 App of The Day, and won the 2020 Webby Award for Technical Achievement.\n\nHERE’S WHAT LIFE IS LIKE WITH ROBOKILLER:\n\n• A life without robocalls. Up to 99% of unwanted calls are eliminated within 7 days of signing up\n\n• Get the last laugh on robocallers and scammers with Robokiller’s Answer Bots. You may even WANT to get spam calls\n\n• Help out the community by reporting spammers and providing feedback directly from within the app\n\n• Track emerging scam trends and Robokiller’s efforts to stop them in your area with Robokiller’s NEW Radar feature\n\n• Save an average of $1400/year by preventing phone scams from ever reaching you. Source: FTC\n\n\nRobokiller is free to download. A subscription is required to use the service. Once the trial ends, your subscription will automatically renew and you’ll be billed. You can cancel your subscription at any time by contacting Apple Support.\n\n\nTerms of Service: http://www.robokiller.com/terms.html\n\nPrivacy Policy: http://www.robokiller.com/privacy.html\n\nCalifornia Privacy Notice: https://robokiller.com/privacy.html#section-8"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© Bending Spoons Operations S.p.A."
+        },
+        "title": {
+          "label": "Robokiller: Spam Call Blocker - Mosaic S.r.l."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/robokiller-spam-call-blocker/id1022831885?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/f5/ab/adf5ab1c-33a0-8732-df57-c33b3c8edd1f/66ae29fc-c816-4091-805c-ca4033c116d0_4236345345_RK_2048x2732_1.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/robokiller-spam-call-blocker/id1022831885?uo=2",
+          "attributes": {
+            "im:id": "1022831885",
+            "im:bundleId": "co.robokiller.app"
+          }
+        },
+        "im:artist": {
+          "label": "Mosaic S.r.l.",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/mosaic-s-r-l/id570748343?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2015-09-08T12:12:54-07:00",
+          "attributes": {
+            "label": "September 8, 2015"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Authenticator ℠ App"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/74/33/2a7433de-6823-b297-f29f-204569764176/AppIconLiquidV1-0-0-1x_U007epad-0-1-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/74/33/2a7433de-6823-b297-f29f-204569764176/AppIconLiquidV1-0-0-1x_U007epad-0-1-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/74/33/2a7433de-6823-b297-f29f-204569764176/AppIconLiquidV1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Protect your online accounts with secure, standards-based two-factor authentication. Authenticator App – 2FA MFA generates time-based one-time passwords (TOTP) directly on your iPhone, giving you a reliable second step for sign-ins without depending on SMS codes.\n\nAuthenticator provides reliable security for both personal and work accounts. From email and social media to crypto platforms and business tools, the app helps keep your login information protected and easy to access. Commonly supported platforms include: Google, Microsoft, Facebook, Instagram, Twitter (X), LinkedIn, Amazon, Dropbox, PayPal, eBay, Snapchat, Pinterest, Reddit, Yahoo, Shopify, Slack, Zoom, Airbnb, Uber,... \n\nAccess your authentication codes anytime, even without an internet connection. Codes are generated directly on your device, so weak signals or offline situations won’t block your sign-ins.\n\nKey features\n\n- Secure TOTP verification codes\nGenerate time-based one-time passwords that add a strong extra layer of protection to your accounts. These codes refresh automatically and work with most online services that support authenticator apps, helping keep your sign-ins secure.\n\n- Fast and easy account setup\nAdd new accounts in just a few steps by scanning a QR code or entering a secret key manually. The setup process is simple and clear, so you can start using two-factor authentication right away.\n\n- Full control over your 2FA accounts\nManage all your authentication entries in one place. You can edit account names, update secret keys, or remove entries anytime when accounts are no longer needed.\n\n- App lock with Face ID, Touch ID, or PIN\nProtect access to your authentication codes with biometric security or an app passcode. You can also enable auto-lock to automatically secure the app when you leave it or switch to another app.\n\n- Built-in password storage\nStore your website and app login details in a dedicated passwords section. Easily create, edit, copy, or delete credentials, giving you convenient access while keeping everything organized.\n\n- Private in-app browser\nSign in to your accounts using the built-in browser designed for privacy. It does not save browsing history, logs, or cookies, helping reduce traces when accessing sensitive accounts.\n\n- Clear settings and simple controls\nCustomize how the app works through clean and easy-to-understand settings. Manage security options and app behavior with full visibility, so you always know what features are active.\n\nSubscription Information\n• Payment will be charged to your iTunes Account upon purchase confirmation.\n• Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the current period ends.\n• Your account will be charged for renewal within 24 hours before the end of the current period.\n• You can manage or cancel your subscription in your Account Settings.\n• If a trial is offered, the full subscription price will be charged after the trial ends unless canceled in advance.\n\nPrivacy Policy: https://begamob.com/policy.html  \nTerms of Use: https://begamob.com/ofs-termofuse.html"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© BEGAMOB Team"
+        },
+        "title": {
+          "label": "Authenticator ℠ App - BEGAMOB GLOBAL LIMITED"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/authenticator-app/id6754900760?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/88/f0/b588f0df-2e16-cc42-5414-dc072ffd5382/260306_iOS_Authen_CPP_Generic_V4_1_13.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/authenticator-app/id6754900760?uo=2",
+          "attributes": {
+            "im:id": "6754900760",
+            "im:bundleId": "com.begamob.authent"
+          }
+        },
+        "im:artist": {
+          "label": "BEGAMOB GLOBAL LIMITED",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/begamob-global-limited/id1581766117?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2025-11-19T00:00:00-07:00",
+          "attributes": {
+            "label": "November 19, 2025"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Burner: Second Phone Number"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a3/85/1fa385dc-7177-9c32-8a46-56025e05cc31/default_mint-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a3/85/1fa385dc-7177-9c32-8a46-56025e05cc31/default_mint-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a3/85/1fa385dc-7177-9c32-8a46-56025e05cc31/default_mint-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Burner gives you a second phone number for calling, texting, and keeping your personal number private. Create a number in seconds. Use it when you need it. Delete it when you don’t.\n\nHOW BURNER WORKS\n- Sign up and choose an area code\n- Call and text from your second number (Wi-Fi or mobile data required)\n- Delete your number anytime or create a new one \n\nCALLING & TEXTING\nGet a second phone number that works like your main one. Make calls and send texts without sharing your personal number.\n\nKEEP YOUR NUMBER PRIVATE\nUse different phone numbers for different parts of your life. Share a number when it makes sense—keep your personal one to yourself. Delete or replace numbers anytime to stop unwanted contact.\n\nSTAY ORGANIZED\nKeep conversations separate by number so nothing gets mixed up. Customize each number and find messages quickly in a simple inbox.\n\nUSE IT WHERE IT MAKES SENSE\nUse a second number for online marketplaces, listings, or social media—without giving out your personal number.\n\nBLOCK SPAM & UNWANTED CONTACT\nBlock calls, filter spam texts, and mute notifications when you need a break.\n\nSET QUIET HOURS\nSchedule do-not-disturb times that fit your routine. Choose who can reach you—and when.\n\nPREMIUM FEATURES\n- VPN: Browse securely and protect your data on public Wi-Fi\n- Personal Info Protection: See where your info appears online and request removals\n- Audio Messaging: Send voice messages\n- Video Messaging: Share short video messages\n- AI Voicemail: Voicemail with transcription\n- Reverse Lookup: See available info about unknown numbers\n\nRECOGNIZED & TRUSTED\nFeatured by TIME, The New York Times, WIRED, TechCrunch, Engadget, and more.\n\nPLANS & PRICING\nFree to download with a 3-day trial. Additional features available through subscription.\n- Monthly: $9.99/month\n- Annual: $59.99/year\n- Premium: $89.99/year\n\nSUBSCRIPTION DETAILS\nSubscriptions renew automatically unless canceled at least 24 hours before the end of the current period. Manage subscriptions in Account Settings after purchase.\n\nIMPORTANT\nCalls use your existing phone service provider minutes. Trial includes limited usage. Not compatible with SMS short code services or emergency (911) calls. Available in the US and Canada (excluding Puerto Rico)."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Ad Hoc Labs, INC"
+        },
+        "title": {
+          "label": "Burner: Second Phone Number - Ad Hoc Labs, Inc"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/burner-second-phone-number/id505800761?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/1e/c4/471ec4dd-ae73-6348-8681-10f566cd2f85/479c5263-a41d-4f8f-b283-1ced6803236a_1242x2208_1.png/480x480bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/burner-second-phone-number/id505800761?uo=2",
+          "attributes": {
+            "im:id": "505800761",
+            "im:bundleId": "com.adhoclabs.burner"
+          }
+        },
+        "im:artist": {
+          "label": "Ad Hoc Labs, Inc",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/ad-hoc-labs-inc/id505800764?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2012-04-01T00:00:00-07:00",
+          "attributes": {
+            "label": "April 1, 2012"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "ExpressVPN · Secure & Fast VPN"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/57/0a/dc570a46-1107-a723-1074-5432ca054370/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/57/0a/dc570a46-1107-a723-1074-5432ca054370/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/57/0a/dc570a46-1107-a723-1074-5432ca054370/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "ExpressVPN: Premium VPN for Security, Privacy, and Blazing-Fast Streaming\n\nSurf the web safely with just a few taps. ExpressVPN is a premium VPN service built for ultra-fast connections and private browsing on public Wi-Fi and other shared networks - across all your devices.\n\nBLAZING-FAST SERVERS\nStream, game, and browse with lightning-fast speeds and unlimited bandwidth. Perfect for streaming your favorite TV shows and movies, sporting events, and more.\n\nLARGE SERVER NETWORK\nAccess a global network with servers in 113 countries, including all 50 U.S. states, so you're covered wherever you go.\n\nNO-LOGS POLICY (INDEPENDENTLY AUDITED)\nBrowse with enhanced privacy. Our strict no-logs policy has been independently audited to help ensure your IP address, location, and online activity stay private.\n\nPOWERFUL ONLINE SECURITY\nProtect your data and online activity with advanced encryption that keeps your connection safe - even on public Wi-Fi hotspots and shared networks.\n\nEXCLUSIVE VPN PROTOCOL\nExpressVPN's Lightway protocol was crafted from the ground up for enhanced speed, security, and reliability.\n\nPRIVACY-FIRST TECHNOLOGY\nExpressVPN runs on RAM-only servers that never write data to a hard drive. All data is wiped on every reboot.\n\nWIDE LANGUAGE SELECTION\nChoose from 17 languages to make your app experience smooth and accessible, wherever you are in the world.\n\n24/7 CUSTOMER SUPPORT\nGet instant help whenever you need it. Reach out via live chat or email, and our experts will gladly answer any questions.\n\niOS APP FEATURES\n• Auto-reconnects if your VPN connection drops\n• Supports Lightway (UDP/TCP), OpenVPN (UDP/TCP), WireGuard, and IKEv2 encryption protocols\n• Threat Manager: helps prevent apps from sharing your activity with trackers or malicious third parties\n\nSUBSCRIPTION PLANS\nYour ExpressVPN subscription includes access to apps across all major platforms, letting you secure all your devices. With support for up to 14 simultaneous connections, you can stay protected anytime, anywhere.\n\nSubscriptions renew automatically at the end of each billing period unless canceled at least 24 hours beforehand. You can manage or cancel your subscription anytime in your App Store account settings. Any unused portion of a free trial is forfeited when you purchase a\nSubscription.\n\nTerms of Service\nhttps://www.expressvpn.com/tos\n\nPrivacy Policy\nhttps://www.expressvpn.com/privacy-policy"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© ExpressVPN"
+        },
+        "title": {
+          "label": "ExpressVPN · Secure & Fast VPN - Express VPN"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/expressvpn-secure-fast-vpn/id886492891?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/5d/b6/905db69b-68fa-6aca-d221-24c7e1988457/ExpressVPN-13-portrait_1.jpg/1024x1024bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/expressvpn-secure-fast-vpn/id886492891?uo=2",
+          "attributes": {
+            "im:id": "886492891",
+            "im:bundleId": "com.expressvpn.iosvpn"
+          }
+        },
+        "im:artist": {
+          "label": "Express VPN",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/express-vpn/id1687252195?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2014-08-11T04:49:52-07:00",
+          "attributes": {
+            "label": "August 11, 2014"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Swipewipe: Photo Cleaner"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/14/96/8614968c-efaa-63fd-1318-e12c37ece423/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/14/96/8614968c-efaa-63fd-1318-e12c37ece423/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/14/96/8614968c-efaa-63fd-1318-e12c37ece423/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Your camera roll is a mess. Let's fix it.\n\nReclaim your storage and rediscover your best memories with Swipewipe. We make cleaning up thousands of photos not just easy, but genuinely fun. It's the photo **declutter** tool you'll actually want to use.\n\nFinally, a simple way to manage your memories. Go month-by-month to tackle your library, relive golden moments with our \"On This Day\" feature, and explore your travels on a beautiful, interactive memory map. This isn't a chore-it's a trip down memory lane.\n\nDecide what to keep and what to delete with a simple swipe.\n\nWhy you'll be obsessed with Swipewipe:\n\n- The Famous Swipe: Swipe right to keep, left to delete. Cleaning your photo **organizer** has never been so addictive.\n- Relive Your Best Days: The \"On This Day\" feature and home screen widget serve up daily doses of nostalgia, complete with streaks to keep you motivated.\n- Your Adventures, Mapped: See all the places you've been and the memories you've made on a stunning world map.\n- AI-Powered Enhancement: Magically improve old, blurry, or low-quality photos. Turn forgotten pictures into crisp, clear keepsakes.\n- Find the Clutter Fast: Easily spot and remove **similar** photos, blurry shots, and old **screenshots** that are eating up your storage.\n- Decide Later: Not sure about a photo? Bookmark it and come back to it anytime. No pressure.\n\nYour camera roll should be a highlight reel, not a source of stress. Free up gigabytes of space, find your favorite photos again, and finally take control of your digital memories.\n\nReady to fall in love with your camera roll again?\nDownload Swipewipe and start your most satisfying cleanup yet!\n\nApple Terms of Use Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© 2026 MWM SAS"
+        },
+        "title": {
+          "label": "Swipewipe: Photo Cleaner - MWM"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/swipewipe-photo-cleaner/id1583884012?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/56/6c/6a566cd1-ef9d-fbd3-c7a8-d6ab33a93216/EN_ipad_01.png/1024x1024bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/swipewipe-photo-cleaner/id1583884012?uo=2",
+          "attributes": {
+            "im:id": "1583884012",
+            "im:bundleId": "com.aoklab.fewerphotos"
+          }
+        },
+        "im:artist": {
+          "label": "MWM",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/mwm/id452269707?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2022-03-05T00:00:00-07:00",
+          "attributes": {
+            "label": "March 5, 2022"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "AI Cleaner: Clean Up Storage"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/6c/fe/e06cfe0f-3c18-3769-56fc-45f9461f1a6b/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/6c/fe/e06cfe0f-3c18-3769-56fc-45f9461f1a6b/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/6c/fe/e06cfe0f-3c18-3769-56fc-45f9461f1a6b/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Do you often find your iPhone running out of storage?\r\n\r\nAI Cleaner offers AI-powered cleaning unlike any other. With powerful cleaning functions, it helps you optimize your phone's performance by removing unnecessary files.\r\n\r\n→ Reclaim space and enjoy a faster, more efficient device with optimized performance.\r\n\r\n■ KEY FEATURES\r\n\r\n» AI Smart Storage Cleaner\r\n» Remove Duplicate Photos & Videos\r\n» Swipe to Clean Your Gallery\r\n» Clean Email Inbox & Unsubscribe\r\n» Compress Photos & Videos\r\n» Protect Private Files\r\n» Contact Cleanup\r\n» Event Remover\r\n\r\nSMART STORAGE CLEANER\r\nExperience the power of AI with AI Cleaner, designed to deliver the quickest and most effective cleanup for your iPhone.\r\n\r\nIf you want a thorough clean, our comprehensive cleaning feature uses all the app functions simultaneously, ensuring maximum storage recovery in minimal time.\r\n\r\nDELETE DUPLICATE PHOTOS AND VIDEOS\r\nAI Cleaner app scans your gallery for duplicate photos and videos, allowing you to delete them with a single tap. Free up space without losing your memories.\r\n\r\nSWIPE TO KEEP OR DELETE\r\nScroll through your photos and videos one by one, and decide what to keep or delete with a simple swipe. Swipe right to keep and left to delete — it’s that easy, and you have all the control. Clean the clutter in your gallery, free up space, and keep only the memories that matter.\r\n\r\nEMAIL CLEANER\r\nKeep your inbox tidy and organized by removing unwanted emails and unsubscribing from spam and telemarketing lists.\r\n\r\nCOMPRESS PHOTOS AND VIDEOS\r\nRegain precious space on your phone with just a few clicks by compressing your photos and videos! Select from a variety of compression levels—high, medium, or low—to suit your storage preferences and free up space seamlessly.\r\n\r\nPROTECT PRIVATE PHOTOS AND VIDEOS\r\nEffortlessly safeguard your memories and sensitive information by protecting and concealing your photos, videos, and contacts within a private storage space, ensuring an extra layer of security and privacy. Relax, knowing your memories are secured from unwanted access.\r\n\r\nCONTACT CLEANUP\r\nForget about incomplete and duplicate contacts cluttering your address book. AI Cleaner identifies and helps you clean up your contact list to keep it organized and relevant.\r\n\r\nREMOVE PAST EVENTS\r\nIs your calendar crowded with obsolete past events? AI Cleaner quickly detects and removes old events, freeing up space on your schedule.\r\n\r\n\r\n■ EFFORTLESS STORAGE MANAGEMENT\r\n\r\n» Easy to use: With our intuitive interface, you can easily free up space manually or with AI assistance.\r\n\r\n» AI-Powered cleaning: AI Cleaner efficiently scans your device to identify duplicate and unwanted items.\r\n\r\n» Data security: Your personal data is safe with us. AI Cleaner does not store your personal information.\r\n\r\n» Performance optimization: Improve your iPhone's speed and responsiveness with AI Cleaner app. Our advanced AI technology frees up gigabytes of storage in seconds.\r\n\r\n» Regular updates: We keep AI Cleaner up to date with the latest improvements and features to ensure the best experience.\r\n\r\n\r\n■ CONTACT:\r\n\r\nFor app support and more information, reach out to us at:\r\ninfo@aicleaner.app\r\n\r\nTerms of Use:\r\nhttps://aicleaner.app/terms-of-use\r\n\r\nPrivacy Policy:\r\nhttps://aicleaner.app/privacy-policy\r\n\r\nDownload AI Cleaner now and enjoy a faster and more efficient device! Free up space, organize your gallery and agenda, and keep your mobile at its best."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© GRIMLAX TRADE,S.L."
+        },
+        "title": {
+          "label": "AI Cleaner: Clean Up Storage - GRIMLAX TRADE, S.L."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/ai-cleaner-clean-up-storage/id6448330325?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/9d/91/b09d91cc-fd18-cbc6-aeff-dd4e81250985/EN_ScreenshotsAppStore_6.5_1.jpg/480x480bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/ai-cleaner-clean-up-storage/id6448330325?uo=2",
+          "attributes": {
+            "im:id": "6448330325",
+            "im:bundleId": "ai.cleaner.app"
+          }
+        },
+        "im:artist": {
+          "label": "GRIMLAX TRADE, S.L.",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/grimlax-trade-s-l/id1684438177?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2023-10-30T00:00:00-07:00",
+          "attributes": {
+            "label": "October 30, 2023"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "McAfee: Stay Secure & Private"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/43/50/8e4350d2-4110-74f5-ff1d-a066d3ec0b0f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/43/50/8e4350d2-4110-74f5-ff1d-a066d3ec0b0f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/43/50/8e4350d2-4110-74f5-ff1d-a066d3ec0b0f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "McAfee Security protects smartphones, tablets, Macs, and PCs with robust data protection features, bank-grade VPN encryption, and breach monitoring for your personal info. \n\nStay safer than safe with McAfee, a trusted name in online and mobile security. \n\nTHREAT DETECTION: \n\nSCAM DETECTOR \n ▪ Flags risky messages and blocks harmful sites for you, even if you accidentally click. \n ▪ Identifies suspicious emails before you open them and guides you on what to do next. We’ll even explain the danger, so you know what to watch out for. \n\nSECURE CONNECTION: \n\nSECURE VPN \n ▪ Keeps personal data and locations private with bank-grade Wi-Fi VPN encryption. \n ▪ Defends your mobile devices against unsecured public Wi-Fi hotspots. \n ▪ Connects to different countries and change your location & IP address*. \n\nSMART SCAN \n ▪ Scan your device and your personal information for issues. Get guidance to fix problems, quickly and easily. \n\nWI-FI SCAN \n ▪ Wi-Fi scan analyzes networks for security risks and ensures a safer online connection. \n\nSAFE BROWSING \n ▪ Blocks malicious websites automatically so you can browse safely. \n\nDATA PROTECTION: \n\nIDENTITY MONITORING \n ▪ Scans and monitors online personal data for security breaches. \n ▪ Receive alerts and secure your info quickly with our protection tips. \n ▪ Monitors up to 10 email addresses, ID numbers, passport numbers, bank cards*. \n\nTRANSACTION & CREDIT MONITORING \n ▪ Protect yourself from financial fraud and stay on top of your bank and credit card transactions. \n ▪ Monitor your credit to keep track of changes to your credit score and catch unauthorized activity. \n\nSOCIAL PRIVACY MANAGER \n ▪ Adjusts 100+ privacy settings across your social media accounts in just a few clicks. \n\nPERSONAL DATA CLEANUP \n ▪ We'll tell you if sites are selling your information, guide you on what to do next, and can even handle it for you. \n\nONLINE ACCOUNT CLEANUP \n ▪ McAfee reduces your exposure to data breaches by finding old or unused online accounts and guiding through next steps. We can even delete them for you. \n\nIDENTITY THEFT COVERAGE AND RESTORATION \n▪ You’re backed by $1M identity theft coverage and restoration support from a licensed professional, just in case. \n\nPLANS AND SUBSCRIPTIONS \n\nMcAfee Security - Free \n ▪ Single device protection \n ▪ Wi-Fi Scan \n ▪ Identity Scan \n ▪ System Scan \n\nMcAfee Basic Protection \n ▪ Single device protection \n ▪ Secure VPN \n ▪ Basic Identity Monitoring* \n ▪ Wi-Fi Scan \n ▪ Safe Browsing \n ▪ System Scan \n ▪ Text Scam Detector* \n\nMcAfee+ Advanced: \n ▪ Unlimited device protection \n ▪ Secure VPN \n ▪ Identity Monitoring* \n ▪ Wi-Fi Scan \n ▪ Safe Browsing \n ▪ Social Privacy Manager \n ▪ System Scan \n ▪ Scam Detector \n ▪ Online Account Cleanup \n ▪ Personal Data Cleanup \n ▪ Transaction Monitoring \n ▪ Credit Score, Report, and Monitoring \n ▪ Identity Restoration \n ▪ Security Freeze & Credit Lock \n ▪ 24/7 online security experts* \n\nNot all features are available for all devices, locations or subscriptions not listed in the description. See System Requirements for additional information. \n\n*Privacy Policy: \n\n You can view our privacy policy and terms at https://www.mcafee.com/consumer/en-us/policy/global/legal.html* \n\nTo provide you with the best possible experience, McAfee Security requires iOS 16 and above. You are encouraged to update your device to the latest version to receive timely security updates, maximum protection, and enhanced performance. \n\nCOPYRIGHT & TRADEMARK \n\n McAfee and the McAfee logo are trademarks or registered trademarks of McAfee LLC or its subsidiaries in the United States and other countries. Copyright © 2026 McAfee LLC"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© 2026 McAfee, LLC"
+        },
+        "title": {
+          "label": "McAfee: Stay Secure & Private - McAfee, LLC."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/mcafee-stay-secure-private/id724596345?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/4e/ef/e44eef49-bda3-f51b-c3fc-86948b4ed996/Screenshots_U2014iOS-13in_Tablet-6.png/1024x1024bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/mcafee-stay-secure-private/id724596345?uo=2",
+          "attributes": {
+            "im:id": "724596345",
+            "im:bundleId": "com.mcafee.mms"
+          }
+        },
+        "im:artist": {
+          "label": "McAfee, LLC.",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/mcafee-llc/id369885745?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2014-01-08T07:55:50-07:00",
+          "attributes": {
+            "label": "January 8, 2014"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "VicoHome: Smart Home Camera"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/08/3d/cb083d10-9ccc-5b00-4ecf-4d5c21299abf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/08/3d/cb083d10-9ccc-5b00-4ecf-4d5c21299abf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/08/3d/cb083d10-9ccc-5b00-4ecf-4d5c21299abf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Introducing VicoHome, the smart home camera app designed to bring peace of mind directly to your fingertips. \nWith VicoHome, effortlessly monitor your property from anywhere, anytime. Keep an eye on what matters with live video and greet visitors with Two-Way Talk. Receive instant notifications for any detected motion, so important moments never slip by unnoticed. With the convenience of multiple-user access, keeping your family in the loop has never been easier. \n【VicoHome Awareness Service】\nElevate your security with the VicoHome Awareness Subscription to unlock next-level features:\n1. Extra Cloud Storage: Gain access to up to 60 days of recording history, ensuring you never miss a moment.\n2. Smart Push: Benefit from alerts for person, vehicle, package, and pet detection, allowing you to concentrate on the notifications that truly matter.\n3. Activity Zone: Customize and filter alerts by setting up specific activity zones, reducing unnecessary notifications and enhancing your focus on key areas.\n【Details of the Awareness Service】\nAwareness Gen2 Single Plan ( Subscribe monthly)\nAwareness Gen2 Single Plan ( Subscribe annually)\nAwareness Gen2 Unlimited Plan (Subscribe monthly)\nAwareness Gen2 Unlimited Plan (Subscribe annually)\n【Subscription Guidelines】\nCancel auto renewal: Please manually turn off the automatic renewal function in iTunes/Apple ID settings at least 24 hours prior to the expiration time of your subscription.\nRenewal: iTunes account will be charged automatically within 24 hours prior to the expiration time of your subscription. If the renewal is successful, the subscription will be extended by one subscription period.\nPrivacy Policy： https://api-us.vicoo.tech/management/app-files/vicoo/privacy-policy/en/index.html\nAwareness Service Agreement： https://api-us.vicoo.tech/management/app-files/vicoo/awareness-service-agreement/en/index.html\nContinuous Subscription Service Agreement： https://api-us.vicoo.tech/management/app-files/vicoo/continuous-subscription-service-agreement/en/index.html"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "Copyright © 2021 Photon Sail Tech. All rights reserved"
+        },
+        "title": {
+          "label": "VicoHome: Smart Home Camera - PHOTON SAIL TECHNOLOGIES PTE. LTD."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/vicohome-smart-home-camera/id1466734547?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/95/af/19/95af19c7-a093-595c-4635-6ae5cfc4a868/ad9e1f55-7167-4c79-8614-dfc7df0afcca_iPad_U622a_U56fe_U82f1_U65871.png/1024x1024bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/vicohome-smart-home-camera/id1466734547?uo=2",
+          "attributes": {
+            "im:id": "1466734547",
+            "im:bundleId": "addx.ai.vicoo"
+          }
+        },
+        "im:artist": {
+          "label": "PHOTON SAIL TECHNOLOGIES PTE. LTD.",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/photon-sail-technologies-pte-ltd/id1529542986?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2019-09-05T00:00:00-07:00",
+          "attributes": {
+            "label": "September 5, 2019"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Camtro"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/c8/e1/8fc8e1b2-18af-6c15-ab7f-0d24d33846af/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/c8/e1/8fc8e1b2-18af-6c15-ab7f-0d24d33846af/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/c8/e1/8fc8e1b2-18af-6c15-ab7f-0d24d33846af/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "- Get instant messages when visitors press the doorbell or trigger the PIR motion sensors.\n- Monitor your home in high definition video. See, hear, and speak to visitors from anywhere.\n\nAutomatic Subscription Instructions:\n1. Service name: 6-month Plan(6 months);One Year Plan(1 year)\n2. Price: cloud storage plan for 6 months product is $28.99, cloud storage plan for 1 year product is $29.99\n3. For an account that purchases an automatic subscription service, we will automatically deduct the next period of fees within 24 hours from your iTunes account before the service expires, and extend the corresponding service content, service conditions and service period.\n4. If you need to cancel the automatic subscription, please manually open the Apple phone \"Settings\"-->Enter \"iTunes Store & App Store\"-->Click \"Apple ID\", select \"View Apple ID\", enter the \"Account Settings\" page, click \"Subscribe\", select \"Camtro\" to cancel the subscription. If you do not close the automatic subscription at least 24 hours before the end of the subscription period, it will be deemed that you have agreed to continue the authorization, and the subscription will be automatically renewed.\n\nPrivacy agreement:\nhttps://www.camtro.cc/privacy_policy.html\n\nUser agreement:\nhttps://www.camtro.cc/user_agreement.html\n\nSubscription Service agreement:\nhttps://www.camtro.cc/renewal.html"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Camtro"
+        },
+        "title": {
+          "label": "Camtro - DigitalConverge Intellect Limited"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/camtro/id6745863842?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/12/58/701258f1-76d5-bd39-d57f-7222a3df31e8/1.png/480x480bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/camtro/id6745863842?uo=2",
+          "attributes": {
+            "im:id": "6745863842",
+            "im:bundleId": "com.ekdigital.cam"
+          }
+        },
+        "im:artist": {
+          "label": "DigitalConverge Intellect Limited",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/digitalconverge-intellect-limited/id1814283549?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2025-06-16T00:00:00-07:00",
+          "attributes": {
+            "label": "June 16, 2025"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Sideline: Private 2nd Number"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/25/68/002568dc-7884-57c2-f265-e34c0010b676/AppIcon-SideLine-0-0-1x_U007emarketing-0-6-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/25/68/002568dc-7884-57c2-f265-e34c0010b676/AppIcon-SideLine-0-0-1x_U007emarketing-0-6-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/25/68/002568dc-7884-57c2-f265-e34c0010b676/AppIcon-SideLine-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Sideline gives you a second phone number for calling and texting—so you can stay connected without sharing your real number. Get the app today to keep your personal number private.\n\nWhether you're working, selling online, or just want more control over who can reach you, Sideline makes it easy to separate your communications.\n\nGet a second phone number, send unlimited texts, and manage calls with powerful tools—all from one app. Sideline works over your carrier network (not VoIP), so your second number is as reliable as your first.\n\nTake control of your privacy and communication with Sideline.\n\nWHY SIDELINE?\n\nProtect Your Personal Number:\n\n- Get a second phone number for private calling and texting\n- Keep your real number separate and secure\n- Choose a local area code (or an area code of your choice)\n- Includes Caller ID and custom voicemail\n- Reliable cellular calling (not VoIP)\n\nPrivate Texting & Calling:\n\n- Send unlimited SMS and MMS messages\n- Use your second number for work, marketplace listings, or signups\n- Call and text without revealing your personal number\n- Access your number from multiple devices\n\nStay in Control:\n\n- Auto-Reply sends instant responses when you miss a call\n- Custom voicemail with message transcripts\n- Port your existing number to Sideline\n- Block unwanted callers and manage contacts\n\nSmart Communication Tools:\n\n- Save and reuse frequently sent texts\n- Add notes to conversations and contacts\n- Stay organized without mixing personal and business messages\n\nUSE SIDELINE FOR:\n\n- Private texting and calling\n- Work or business communications\n- Online buying and selling (Craigslist, Facebook Marketplace, etc.)\n- Protect your personal number\n\nFREQUENTLY ASKED QUESTIONS\n\nWhat is Sideline, and how does a second phone number work?\nSideline is a second phone number app that lets you call and text from a separate number on your smartphone. Just download the Sideline app, and your Sideline number will work alongside your primary number, so you can keep personal and secondary communications separate without needing a second phone.\n\nCan I use Sideline for private texting and calling?\nYes. Sideline is designed for private texting and calling, so you don't have to share your personal phone number with strangers and businesses. Use your second number for work, online selling, dating, or any situation where you want more privacy.\n\nIs Sideline reliable for calls and texts?\nSideline uses your carrier's cellular network (not VoIP), which means your calls are clear and reliable—just like your regular phone number. You can send unlimited SMS and MMS messages and make calls with confidence.\n\nCan I choose or transfer my phone number?\nYes. You can select a second phone number with an area code of your choice, or port (transfer) your existing number to Sideline. This makes it easy to keep a number you already use while gaining more privacy and features.\n\nWho is Sideline for?\nSideline is for anyone who wants a second phone number to keep their personal number private and their communications organized—like professionals and business owners who don't want to carry a second phone, people buying and selling online who don't want to share their real number, freelancers who need to manage client communications—and anyone who values privacy and wants to control who can reach their real number.\n\nDo I need to provide a government-issued ID to create a Sideline account?\nNo. You do not need to submit a government-issued ID to sign up for Sideline. Instead, you'll verify your account using two-factor authentication (2FA).\n\nDOWNLOAD SIDELINE TODAY\n\nGet a second phone number for private texting and calling. Stay connected—without giving out your personal number.\n\nLEGAL\n\n© 2026 Pinger, Inc. All rights reserved. The TextFree name, associated trademarks, and logos are trademarks of Pinger, Inc. or related entities.\n\nTerms of Service: https://www.sideline.com/terms-of-service/\nPrivacy Policy: https://www.sideline.com/privacy-policy/"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Pinger, Inc."
+        },
+        "title": {
+          "label": "Sideline: Private 2nd Number - Pinger, Inc."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/sideline-private-2nd-number/id1012032539?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/a2/33/45a2339c-3ca0-ab63-67b9-203653056a07/screen01.png/480x480bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/sideline-private-2nd-number/id1012032539?uo=2",
+          "attributes": {
+            "im:id": "1012032539",
+            "im:bundleId": "com.pinger.side.line"
+          }
+        },
+        "im:artist": {
+          "label": "Pinger, Inc.",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/pinger-inc/id299102705?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2015-08-24T23:02:16-07:00",
+          "attributes": {
+            "label": "August 24, 2015"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Cleaner Kit - Clean Up Storage"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/67/93/3c67938c-51fb-d3e2-236f-622446017459/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/67/93/3c67938c-51fb-d3e2-236f-622446017459/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/67/93/3c67938c-51fb-d3e2-236f-622446017459/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Meet Cleaner Kit—the all-in-one iPhone cleaner trusted by 70M+ users to declutter photos, videos, emails, contacts, and more.\n\nRunning out of storage? Tired of scrolling through thousands of duplicate photos or a cluttered inbox? With this phone cleaner, you can free up gigabytes of space in seconds. Powered by AI, Cleaner Kit scans your device to detect duplicates, blurry shots, and junk files instantly. Simply tap to declutter and enjoy a perfectly organized iPhone.\n\nWHY USE OUR IPHONE CLEANER?\n\n►All-in-one iPhone cleaner: Declutter photos, videos, emails, and contacts in a single app.\n►High-accuracy AI: Detect duplicates, blurry shots, and junk files with precision.\n►Swipe-based sorting: Right to keep, left to delete—decluttering your iPhone has never been this fast.\n►Private by design: All AI processing happens on your iPhone only. \n\nDUPLICATE PHOTO & VIDEO REMOVER \nRepeating shots, blurry photos, and useless screenshots—this iPhone cleaner finds them all. High-accuracy AI scans your gallery to detect duplicates and low-quality photos. Review and delete them individually, or remove them all with just one tap.\n\nSORT PHOTOS WITH SWIPES\nDecluttering your gallery should feel effortless. Our phone cleaner groups photos by time period, then lets you swipe right to keep your favorites or left to archive blurry and outdated shots. Review archived photos later or delete them immediately if you need space.\n\nDECLUTTER EMAILS & CONTACTS\nTake control of your inbox and contact list with this iPhone cleaner. \n• Group emails by date, sender, or size and delete in bulk. \n• Merge duplicate contacts and remove empty entries. \nHave your whole phone organized in seconds.\n\nCOMPRESS VIDEOS WITHOUT LOSING QUALITY \nRunning low on storage, but can't part with your videos? This phone cleaner compresses large videos while preserving visual quality, saving space and keeping your memories intact.\n\nPRIVACY & SECURITY \nYour data stays yours and yours alone—nothing is uploaded or shared. Our phone cleaner runs directly on your device with no internet connection required. Need extra protection? Store sensitive photos and contacts in a secret folder locked with Face ID or a passcode. This iPhone cleaner helps keep your private life private.\n\nTRY IT FREE\nTry this phone cleaner for free. Access essential cleanup tools at no cost, with optional upgrades available.\n\nEXTRA OPTIONS \nOur phone cleaner offers even more: cleaning guides, charging animations, large fonts, and a high-contrast interface for users with vision impairments. You can even mark your favorite files to protect them from accidental deletion, keeping your most treasured memories safe.\n\nDecluttering your iPhone has never been easier. Download Cleaner Kit now and enjoy a perfectly organized iPhone!\n\nUNLIMITED ACCESS \n– Subscribe for full access to all iPhone cleaner features—billed weekly or annually. \n– Subscriptions renew automatically unless turned off at least 24 hours before the billing period ends. \n– Free trial includes all features, some with limited use. \n– Manage auto-renewal in your App Store Account Settings.\n\nBy using Cleaner Kit, you agree to our Privacy Policy and Terms of Use:\nhttps://smartcleaner.app/web/privacy \nhttps://smartcleaner.app/web/terms"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© BP Mobile, LLC"
+        },
+        "title": {
+          "label": "Cleaner Kit - Clean Up Storage - BPMobile"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/cleaner-kit-clean-up-storage/id1194582243?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/a4/97/9ca497dd-a2bd-05b6-561f-38e88386aa96/X_1.png/480x480bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/cleaner-kit-clean-up-storage/id1194582243?uo=2",
+          "attributes": {
+            "im:id": "1194582243",
+            "im:bundleId": "bp.rmaster.free"
+          }
+        },
+        "im:artist": {
+          "label": "BPMobile",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/bpmobile/id1085442365?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2017-01-26T00:58:58-07:00",
+          "attributes": {
+            "label": "January 26, 2017"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Scan QR Code Now"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/28/01/26280198-b6b4-7d14-4de5-2436b507b928/AppIcon-0-0-1x_U007epad-0-1-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/28/01/26280198-b6b4-7d14-4de5-2436b507b928/AppIcon-0-0-1x_U007epad-0-1-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/28/01/26280198-b6b4-7d14-4de5-2436b507b928/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Scan QR codes fast and easy with our trusted QR code scanner for iPhone – download for FREE now!\n\n\nQuickly scan QR codes and barcodes. Whether you're looking up a restaurant menu, leaving a review, or making your own QR codes, this app makes it super easy!\n\nFEATURES:\n- QR Code Reader & Barcode Scanner – Scan any code in seconds.\n- Create & Share QR Codes – Make your own codes to share with friends or for business.\n- Auto Scan – Just point your camera and it scans!\n- Find Deals & Coupons – Scan to discover discounts.\n- Safe Browsing – See where links go before clicking.\n- Save & Share Scans – Export scans or share right away via messaging.\n\n\n*SUBSCRIPTIONS\n\nYou can subscribe to Scan QR Code Now to get access to premium features, like unlimited scans, code creation, and more.\n\nTry premium with a 3-day FREE trial, then just $6.99/week for unlimited scans and more!\n\nScan QR codes fast and easy with our trusted QR code scanner for iPhone – download for FREE now!\n\n\n\nQuickly scan QR codes and barcodes. Whether you're looking up a restaurant menu, leaving a review, or making your own QR codes, this app makes it super easy!\n\nFEATURES:\n- QR Code Reader & Barcode Scanner – Scan any code in seconds.\n- Create & Share QR Codes – Make your own codes to share with friends or for business.\n- Auto Scan – Just point your camera and it scans!\n- Find Deals & Coupons – Scan to discover discounts.\n- Safe Browsing – See where links go before clicking.\n- Save & Share Scans – Export scans or share right away via messaging.\n\n\n*SUBSCRIPTIONS\n\nYou can subscribe to Scan QR Code Now to get access to premium features, like unlimited scans, code creation, and more.\n\nTry premium with a 3-day FREE trial for unlimited scans and more!\n\nDownload now and start scanning!\n\nPrivacy Policy: https://sparktonic.co/privacy-app.html\nDownload now and start scanning!\n\nPrivacy Policy: https://sparktonic.co/privacy-app.html\nTerms of Service: https://sparktonic.co/terms-apps.html"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Sparktonic LLC"
+        },
+        "title": {
+          "label": "Scan QR Code Now - Sparktonic, LLC"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/scan-qr-code-now/id6503708537?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/5d/e5/aa5de5b0-ae6c-3ce1-23ce-a5badc657ca4/ac1f00f5-92a7-4fe1-9299-9405eac398c8_1.png/1024x1024bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/scan-qr-code-now/id6503708537?uo=2",
+          "attributes": {
+            "im:id": "6503708537",
+            "im:bundleId": "com.sparktonic.qrcode"
+          }
+        },
+        "im:artist": {
+          "label": "Sparktonic, LLC",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/sparktonic-llc/id1711861522?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2024-09-16T00:00:00-07:00",
+          "attributes": {
+            "label": "September 16, 2024"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "AT&T ActiveArmor®"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b0/36/d8b0368e-90bf-56c1-fe29-a33772ac5e1a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b0/36/d8b0368e-90bf-56c1-fe29-a33772ac5e1a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b0/36/d8b0368e-90bf-56c1-fe29-a33772ac5e1a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "AT&T ActiveArmor mobile security helps keep your phone and personal data safe from cyber threats. Get spam blocking, fraud detection, identity and financial protection in one powerful solution with AT&T ActiveArmor.\n\nAT&T ActiveArmor mobile security (FREE) service includes: *\n• Auto Fraud & Spam Call Blocking\n• Call Routing Settings\n• My Block List\n• My Contacts\n• Device Security Alerts\n• Data Breach Alerts\n\n*Requires compatible device/service and download of ActiveArmor app. Other terms and restr’s apply. May not detect all threats and may inadvertently block wanted calls; can adjust settings in app. Data charges may apply.\n\nThe following free features only work for AT&T wireless customers: Auto Fraud Call Blocking, Spam Call Blocking, Call Routing Settings, My Block List, My Contacts, and Caller ID.\n\nIf you upgrade to ActiveArmor Advanced Mobile Security, you get all the free features plus these additional features:**\n• Caller ID\n• Reverse Number Lookup\n• Public Wi-Fi Protection (VPN & Wi-Fi Alerts)\n• Safe Browsing/Banking/Shopping\n• $1M Identity Theft Insurance\n• Credit Monitoring\n• Payday Loan Monitoring\n• Identity Monitoring\n• Social media ID Protection\n• Lost Wallet Recovery\n• ID Restoration\n• Password Manager\n\n**The AT&T Advanced Mobile Security subscription is $7/month per line and auto-renews unless canceled.\n• To avoid being charged again, cancel at least 24 hours before your next payment date or before your current billing period ends.\n• If you pay for your subscription on your AT&T wireless bill you can manage or cancel your service in the ActiveArmor app in the Settings menu > Change subscription. Or you can manage or cancel in the AT&T app (myAT&T) under “Active add-ons\".\n• If you pay through your Apple account: go to Settings on your iPhone > your name (Apple ID) > Subscriptions > AT&T ActiveArmor > Cancel Subscription (or Manage), then follow the prompts.\n• After you cancel Advanced, you can still use the free ActiveArmor mobile security features.\n• Payments are non-refundable, except as required by law. For details, visit https://www.att.com/support/article/wireless/KM1252909/\n\nVisit www.att.com/activearmorapp for details.\nVisit www.att.com/legal/terms.activeArmorMobileSecurity.html for the full AT&T ActiveArmor mobile security Terms of Service."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© 2026 AT&T Intellectual Property. AT&T and globe logo are registered trademarks of AT&T Intellectual Property. All other marks are the property of their respective owners."
+        },
+        "title": {
+          "label": "AT&T ActiveArmor® - AT&T Services, Inc."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/at-t-activearmor/id1218465964?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/c5/6c/dac56c8e-9a15-e5ef-bf24-bfef79157ec7/1-fraud_and_spam_call_blocking__6-9_Display.jpg/480x480bb.jpg",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/at-t-activearmor/id1218465964?uo=2",
+          "attributes": {
+            "im:id": "1218465964",
+            "im:bundleId": "com.att.mobilesecurity"
+          }
+        },
+        "im:artist": {
+          "label": "AT&T Services, Inc.",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/at-t-services-inc/id290854684?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2018-09-25T20:47:37-07:00",
+          "attributes": {
+            "label": "September 25, 2018"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "DuckDuckGo, optional Duck.ai"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/4a/7b/8e4a7b01-7828-3441-ec6d-76b8ade473bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/53x53bb.png",
+            "attributes": {
+              "height": "53"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/4a/7b/8e4a7b01-7828-3441-ec6d-76b8ade473bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/75x75bb.png",
+            "attributes": {
+              "height": "75"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/4a/7b/8e4a7b01-7828-3441-ec6d-76b8ade473bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+            "attributes": {
+              "height": "100"
+            }
+          }
+        ],
+        "summary": {
+          "label": "At DuckDuckGo, we believe the best way to protect your personal information from hackers, scammers, and privacy-invasive companies is to stop it from being collected at all. That's why millions of people choose DuckDuckGo over Chrome and other browsers to search and browse online. Our built-in search engine is like Google but never tracks your searches. Our browser blocks YouTube ads, invasive web ads, and cookie pop-ups, reducing distractions and helping to stop other companies from collecting your data. While our optional integrated AI features, Search Assist and Duck.ai, are private and never use your data to train AI. Oh, and our browser is free. We make money from privacy-respecting search ads, not by exploiting your data. Take back control of your personal information with the browser designed for data protection, not data collection.  \n\nFEATURE HIGHLIGHTS \nProtect Your Searches by Default: DuckDuckGo Search comes built-in, so you can easily search online without being tracked.  \n\nShield Your Browsing History: Our 3rd-Party Tracker Loading Protection blocks most trackers before they load, greatly exceeding what most popular browsers offer by default.  \n\nChat Privately With AI: Duck.ai lets you have private conversations with 3rd-party AI models, anonymized by us and never used to train AI. \n\nSecure Your Email (Optional): Use Email Protection to block most email trackers and hide your existing email address with @duck.com addresses.   \n\nBlock Ads: Our browser blocks YouTube Ads, and stops invasive trackers from loading on sites, effectively eliminating targeted ads.\n\nAutomatically Enforce Encryption: Shield your data from network and Wi-Fi snoopers by forcing many sites to use an HTTPS connection.  \n\nEscape Fingerprinting: Make it harder for companies to create a unique identifier for you by blocking attempts to combine info about your browser and device.  \n\nSync and Back Up Securely (Optional): Sync encrypted bookmarks and passwords across your devices. \n\nClear your tabs and browsing data in a flash with the Fire Button. \n\nBanish cookie pop-ups and automatically set your preferences to minimize cookies and maximize privacy. \n\nAnd many more protections not available on most browsers, even in private browsing mode, including protection from link tracking, Global Privacy Control (GPC), and more. \n\nDUCKDUCKGO SUBSCRIPTION\nSubscribers get\n\n• Our VPN: Secure your connection on up to 5 devices.     \n\n• Access to advanced AI Models in Duck.ai: Chat privately with AI models built for complex tasks. \n\n• Personal Information Removal: Find and remove personal info from sites that store and sell it.   \n\n• Identity Theft Restoration: If your identity is stolen, we’ll help restore it.   \n\nDuckDuckGo Subscription Pricing & Terms   \nPayment will be charged automatically to your Apple Account until you cancel, which you can do in app settings. You have the option to provide an email address to activate your subscription on other devices, and we will only use that email address to verify your subscription. For terms of service and privacy policy, visit https://duckduckgo.com/pro/privacy-terms \n\nRead more about our free Tracking Protections at https://help.duckduckgo.com/privacy/web-tracking-protections \n\nPrivacy Policy: https://duckduckgo.com/privacy/  \n\nTerms of Service: https://duckduckgo.com/terms \n\nNote about 3rd-Party Tracker Protection and Search Ads: while there are some limitations following search ad clicks, viewing ads on DuckDuckGo search is anonymous. Learn more here https://help.duckduckgo.com/privacy/web-tracking-protections \n\nPrivacy. Simplified. ™"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0.00",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "rights": {
+          "label": "© DuckDuckGo"
+        },
+        "title": {
+          "label": "DuckDuckGo, optional Duck.ai - DuckDuckGo, Inc."
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://apps.apple.com/us/app/duckduckgo-optional-duck-ai/id663592361?uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "0"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "image/jpeg",
+              "href": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/09/ba/5509ba7c-a88b-132f-7caa-6520b8f65235/iPad_EN_Screen_1.png/1024x1024bb.png",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://apps.apple.com/us/app/duckduckgo-optional-duck-ai/id663592361?uo=2",
+          "attributes": {
+            "im:id": "663592361",
+            "im:bundleId": "com.duckduckgo.mobile.ios"
+          }
+        },
+        "im:artist": {
+          "label": "DuckDuckGo, Inc.",
+          "attributes": {
+            "href": "https://apps.apple.com/us/developer/duckduckgo-inc/id479988139?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6002",
+            "term": "Utilities",
+            "scheme": "https://apps.apple.com/us/genre/ios-utilities/id6002?uo=2",
+            "label": "Utilities"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2013-06-27T00:00:00-07:00",
+          "attributes": {
+            "label": "June 27, 2013"
+          }
+        }
+      }
+    ],
+    "updated": {
+      "label": "2026-10-12T18:38:51-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Top Grossing"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://apps.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&id=25284&popId=38"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/us/rss/topgrossingapplications/limit=20/genre=6002/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/us/rss/topgrossingapplications/limit=20/genre=6002/json"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "capturedAt": "2026-10-13T10:33:12.926Z",
+  "note": "公开前端签名算法，未使用浏览器 Cookie、token 或用户凭据；不是取得数据的记录。",
+  "checks": [
+    {
+      "metric": "download",
+      "method": "POST",
+      "endpoint": "https://api-d.diandian.com/pc/app/v2/stat/download/trend",
+      "parameters": {
+        "market_id": 1,
+        "app_ids": [
+          "ygguvu6pgzr66c6"
+        ],
+        "start_time": 1788192000,
+        "end_time": 1790783999,
+        "device_id": 1,
+        "country_id": 24
+      },
+      "authentication": "none",
+      "httpStatus": 200,
+      "response": {
+        "code": 201000,
+        "msg": "尚未登录"
+      }
+    },
+    {
+      "metric": "income",
+      "method": "POST",
+      "endpoint": "https://api-d.diandian.com/pc/app/v2/stat/income/trend",
+      "parameters": {
+        "market_id": 1,
+        "app_ids": [
+          "ygguvu6pgzr66c6"
+        ],
+        "start_time": 1788192000,
+        "end_time": 1790783999,
+        "device_id": 1,
+        "country_id": 24
+      },
+      "authentication": "none",
+      "httpStatus": 200,
+      "response": {
+        "code": 201000,
+        "msg": "尚未登录"
+      }
+    }
+  ]
+}

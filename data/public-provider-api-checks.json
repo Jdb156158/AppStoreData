@@ -1,0 +1,19 @@
+{
+  "capturedAt": "2026-10-13T09:56:25.236775+00:00",
+  "checks": [
+    {
+      "provider": "AppTweak",
+      "url": "https://public-api.apptweak.com/api/public/store/apps/metrics/current.json?apps=1510944943&metrics=downloads,revenues&country=us&device=iphone",
+      "authentication": "none",
+      "httpStatus": 401,
+      "response": "{\"error\":{\"code\":\"UnknownTokenError\"},\"metadata\":{\"request\":{\"path\":\"/api/public/store/apps/metrics/current.json\",\"params\":{\"apps\":\"1510944943\",\"metrics\":\"downloads,revenues\",\"country\":\"us\",\"device\":\"iphone\"},\"cost\":0,\"status\":401}}}"
+    },
+    {
+      "provider": "AppMagic",
+      "url": "https://api.appmagic.rocks/v1/history/application?aggregation=monthly&date_from=2026-09-01&date_to=2026-09-30&store=itunes&store_application_id=1510944943&country=US",
+      "authentication": "none",
+      "httpStatus": 401,
+      "response": "{\"code\":401,\"message\":\"unauthenticated for invalid credentials\"}"
+    }
+  ]
+}

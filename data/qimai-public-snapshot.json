@@ -1,0 +1,2094 @@
+{
+  "source": "七麦数据",
+  "sourceUrl": "https://www.qimai.cn",
+  "country": "us",
+  "periodLabel": "昨日",
+  "absoluteMetricDate": null,
+  "capturedAt": "2026-10-13T09:59:12.266Z",
+  "collectionMethod": "浏览器公开头部，未执行登录；逐行核对美国地区和 Apple App ID",
+  "note": "昨日为原页相对标签，绝对统计日期未核实。0 为原页显示值，不能据此确认真实无下载。月下载及收入主体要求登录；本快照不参与月度均值，刷新榜单不会自动重采集。",
+  "rows": [
+    {
+      "appId": "1510944943",
+      "name": "Cleanup: Phone Storage Cleaner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 23742,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1510944943/country/us",
+      "capturedAt": "2026-10-13T09:28:13.216Z"
+    },
+    {
+      "appId": "1013961111",
+      "name": "Blink Home Monitor",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 3210,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1013961111/country/us",
+      "capturedAt": "2026-10-13T09:28:36.703Z"
+    },
+    {
+      "appId": "1476380919",
+      "name": "Cleaner Guru: Clean Up Storage",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1476380919/country/us",
+      "capturedAt": "2026-10-13T09:28:37.124Z"
+    },
+    {
+      "appId": "905953485",
+      "name": "Nord***: *** Fast & Secure",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 18369,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/905953485/country/us",
+      "capturedAt": "2026-10-13T09:28:39.251Z"
+    },
+    {
+      "appId": "1539090879",
+      "name": "TV Remote - Universal Control",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 23055,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1539090879/country/us",
+      "capturedAt": "2026-10-13T09:28:39.574Z"
+    },
+    {
+      "appId": "1278474169",
+      "name": "Norton 360 Security & ***",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1358,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1278474169/country/us",
+      "capturedAt": "2026-10-13T09:28:40.174Z"
+    },
+    {
+      "appId": "1022831885",
+      "name": "Robokiller: Spam Call Blocker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1022831885/country/us",
+      "capturedAt": "2026-10-13T09:46:42.294Z"
+    },
+    {
+      "appId": "6754900760",
+      "name": "Authenticator ℠ App",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 9865,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6754900760/country/us",
+      "capturedAt": "2026-10-13T09:46:43.472Z"
+    },
+    {
+      "appId": "505800761",
+      "name": "Burner: Second Phone Number",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5378,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/505800761/country/us",
+      "capturedAt": "2026-10-13T09:46:45.128Z"
+    },
+    {
+      "appId": "886492891",
+      "name": "Express*** · Secure & Fast ***",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 7206,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/886492891/country/us",
+      "capturedAt": "2026-10-13T09:46:46.778Z"
+    },
+    {
+      "appId": "1583884012",
+      "name": "Swipewipe: Photo Cleaner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 6822,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1583884012/country/us",
+      "capturedAt": "2026-10-13T09:46:47.922Z"
+    },
+    {
+      "appId": "6448330325",
+      "name": "AI Cleaner: Clean Up Storage",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6448330325/country/us",
+      "capturedAt": "2026-10-13T09:46:49.093Z"
+    },
+    {
+      "appId": "724596345",
+      "name": "McAfee: Stay Secure & Private",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 2126,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/724596345/country/us",
+      "capturedAt": "2026-10-13T09:46:53.282Z"
+    },
+    {
+      "appId": "1466734547",
+      "name": "VicoHome: Smart Home Camera",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1466734547/country/us",
+      "capturedAt": "2026-10-13T09:46:54.190Z"
+    },
+    {
+      "appId": "6745863842",
+      "name": "Camtro",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5634,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6745863842/country/us",
+      "capturedAt": "2026-10-13T09:46:54.820Z"
+    },
+    {
+      "appId": "1012032539",
+      "name": "Sideline: Private 2nd Number",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1012032539/country/us",
+      "capturedAt": "2026-10-13T09:46:56.888Z"
+    },
+    {
+      "appId": "1194582243",
+      "name": "Cleaner Kit - Clean Up Storage",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 451,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1194582243/country/us",
+      "capturedAt": "2026-10-13T09:46:57.815Z"
+    },
+    {
+      "appId": "6503708537",
+      "name": "Scan QR Code Now",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6503708537/country/us",
+      "capturedAt": "2026-10-13T09:53:17.644Z"
+    },
+    {
+      "appId": "1218465964",
+      "name": "AT&T ActiveArmor®",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 3008,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1218465964/country/us",
+      "capturedAt": "2026-10-13T09:47:04.153Z"
+    },
+    {
+      "appId": "663592361",
+      "name": "DuckDuckGo, optional Duck.ai",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 18965,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/663592361/country/us",
+      "capturedAt": "2026-10-13T09:47:07.490Z"
+    },
+    {
+      "appId": "1507917112",
+      "name": "Find Air - My Device Tracker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 6860,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1507917112/country/us",
+      "capturedAt": "2026-10-13T09:47:08.394Z"
+    },
+    {
+      "appId": "6458692724",
+      "name": "TV Remote & Universal Control™",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5712,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6458692724/country/us",
+      "capturedAt": "2026-10-13T09:47:09.052Z"
+    },
+    {
+      "appId": "1575903244",
+      "name": "Clean Up Phone Storage: CleanX",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 2704,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1575903244/country/us",
+      "capturedAt": "2026-10-13T09:47:09.679Z"
+    },
+    {
+      "appId": "1581765635",
+      "name": "Universal Remote TV Control ·",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 15639,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1581765635/country/us",
+      "capturedAt": "2026-10-13T09:47:10.260Z"
+    },
+    {
+      "appId": "1639136627",
+      "name": "Scan QR Code.",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1639136627/country/us",
+      "capturedAt": "2026-10-13T09:47:10.896Z"
+    },
+    {
+      "appId": "1437005085",
+      "name": "Proton ***: Fast & Secure",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 11382,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1437005085/country/us",
+      "capturedAt": "2026-10-13T09:47:11.425Z"
+    },
+    {
+      "appId": "6477382010",
+      "name": "Universal TV Remote Control＊",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 6225,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6477382010/country/us",
+      "capturedAt": "2026-10-13T09:47:12.142Z"
+    },
+    {
+      "appId": "6670321276",
+      "name": "Screen Mirroring | Cast to TV",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 6174,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6670321276/country/us",
+      "capturedAt": "2026-10-13T09:47:29.296Z"
+    },
+    {
+      "appId": "1454061614",
+      "name": "Fonts - AI Stickers",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 2816,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1454061614/country/us",
+      "capturedAt": "2026-10-13T09:47:29.908Z"
+    },
+    {
+      "appId": "6443877058",
+      "name": "Universal TV Remote Control・",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 16234,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6443877058/country/us",
+      "capturedAt": "2026-10-13T09:47:30.643Z"
+    },
+    {
+      "appId": "6479742882",
+      "name": "Seeing",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6479742882/country/us",
+      "capturedAt": "2026-10-13T09:47:31.130Z"
+    },
+    {
+      "appId": "1602061522",
+      "name": "Authenticator ·",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1602061522/country/us",
+      "capturedAt": "2026-10-13T09:47:32.278Z"
+    },
+    {
+      "appId": "1625553531",
+      "name": "Remote for Firestick · Fire TV",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 7009,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1625553531/country/us",
+      "capturedAt": "2026-10-13T09:47:33.123Z"
+    },
+    {
+      "appId": "921827126",
+      "name": "Case Tracker for USCIS & NVC",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1577,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/921827126/country/us",
+      "capturedAt": "2026-10-13T09:47:33.710Z"
+    },
+    {
+      "appId": "957168651",
+      "name": "FIXD OBD2 Scanner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/957168651/country/us",
+      "capturedAt": "2026-10-13T09:47:34.590Z"
+    },
+    {
+      "appId": "1216135390",
+      "name": "Second Phone Number - 2Number",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5171,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1216135390/country/us",
+      "capturedAt": "2026-10-13T09:47:35.182Z"
+    },
+    {
+      "appId": "1327105431",
+      "name": "Malwarebytes - Mobile Security",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 10,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1327105431/country/us",
+      "capturedAt": "2026-10-13T09:47:35.893Z"
+    },
+    {
+      "appId": "6504182653",
+      "name": "UniRemote：Universal TV Remote",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 7899,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6504182653/country/us",
+      "capturedAt": "2026-10-13T09:47:36.398Z"
+    },
+    {
+      "appId": "1226650677",
+      "name": "QR Code Reader，Barcode Scanner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1352,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1226650677/country/us",
+      "capturedAt": "2026-10-13T09:47:37.041Z"
+    },
+    {
+      "appId": "6471257645",
+      "name": "Screen Mirroring App: Smart TV",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 8084,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6471257645/country/us",
+      "capturedAt": "2026-10-13T09:47:37.690Z"
+    },
+    {
+      "appId": "1439422220",
+      "name": "Universal TV Remote ·",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5278,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1439422220/country/us",
+      "capturedAt": "2026-10-13T09:47:38.220Z"
+    },
+    {
+      "appId": "6560107458",
+      "name": "Lens Scan: Identify Anything",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 3771,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6560107458/country/us",
+      "capturedAt": "2026-10-13T09:47:38.713Z"
+    },
+    {
+      "appId": "6467252904",
+      "name": "Universal Remote・TV Control",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 7729,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6467252904/country/us",
+      "capturedAt": "2026-10-13T09:47:39.341Z"
+    },
+    {
+      "appId": "6763306820",
+      "name": "Authenticator© App",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 3343,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6763306820/country/us",
+      "capturedAt": "2026-10-13T09:47:39.797Z"
+    },
+    {
+      "appId": "1050171910",
+      "name": "Free *** by Free *** .org™",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 6058,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1050171910/country/us",
+      "capturedAt": "2026-10-13T09:47:40.289Z"
+    },
+    {
+      "appId": "370406446",
+      "name": "Construction Master Pro Calc",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/370406446/country/us",
+      "capturedAt": "2026-10-13T09:47:40.785Z"
+    },
+    {
+      "appId": "1484584645",
+      "name": "Kemo",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1484584645/country/us",
+      "capturedAt": "2026-10-13T09:47:41.274Z"
+    },
+    {
+      "appId": "1488466513",
+      "name": "Mullvad ***",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1488466513/country/us",
+      "capturedAt": "2026-10-13T09:47:41.900Z"
+    },
+    {
+      "appId": "6755033589",
+      "name": "myCar: Car Widgets & Dashboard",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5658,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6755033589/country/us",
+      "capturedAt": "2026-10-13T09:47:42.516Z"
+    },
+    {
+      "appId": "1584764976",
+      "name": "QR Code Reader＊Barcode Scanner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1584764976/country/us",
+      "capturedAt": "2026-10-13T09:47:43.001Z"
+    },
+    {
+      "appId": "368494609",
+      "name": "QR Reader for iPhone",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1484,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/368494609/country/us",
+      "capturedAt": "2026-10-13T09:47:43.472Z"
+    },
+    {
+      "appId": "6745645676",
+      "name": "TextPort: Text Message Export",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6745645676/country/us",
+      "capturedAt": "2026-10-13T09:47:44.193Z"
+    },
+    {
+      "appId": "1463756032",
+      "name": "Cleaner Neat: Clean Up Storage",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1463756032/country/us",
+      "capturedAt": "2026-10-13T09:47:44.791Z"
+    },
+    {
+      "appId": "1485352913",
+      "name": "Pokémon HOME",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1807,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1485352913/country/us",
+      "capturedAt": "2026-10-13T09:47:45.286Z"
+    },
+    {
+      "appId": "600520752",
+      "name": "Hushed: US Second Phone Number",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/600520752/country/us",
+      "capturedAt": "2026-10-13T09:47:45.739Z"
+    },
+    {
+      "appId": "6800211040",
+      "name": "CarTV - M3U IPTV Player & Cast",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 14929,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6800211040/country/us",
+      "capturedAt": "2026-10-13T09:47:46.326Z"
+    },
+    {
+      "appId": "6448222268",
+      "name": "Smart Cleaner: Free Up Storage",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6448222268/country/us",
+      "capturedAt": "2026-10-13T09:47:46.856Z"
+    },
+    {
+      "appId": "6501954960",
+      "name": "QR Code Reader＋Barcode Scanner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1769,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6501954960/country/us",
+      "capturedAt": "2026-10-13T09:48:16.553Z"
+    },
+    {
+      "appId": "448142450",
+      "name": "Truecaller: Premium Caller ID",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 8204,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/448142450/country/us",
+      "capturedAt": "2026-10-13T09:48:17.523Z"
+    },
+    {
+      "appId": "1436112326",
+      "name": "Ubox",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1436112326/country/us",
+      "capturedAt": "2026-10-13T09:48:18.511Z"
+    },
+    {
+      "appId": "1467113436",
+      "name": "Print Master",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1866,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1467113436/country/us",
+      "capturedAt": "2026-10-13T09:53:18.234Z"
+    },
+    {
+      "appId": "1271546805",
+      "name": "Tape Measure™",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 3428,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1271546805/country/us",
+      "capturedAt": "2026-10-13T09:48:23.081Z"
+    },
+    {
+      "appId": "1103138272",
+      "name": "Facemoji AI Emoji Keyboard",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 8387,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1103138272/country/us",
+      "capturedAt": "2026-10-13T09:48:25.713Z"
+    },
+    {
+      "appId": "6474010687",
+      "name": "Remote for Samsung TV Smart",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 9884,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6474010687/country/us",
+      "capturedAt": "2026-10-13T09:53:18.940Z"
+    },
+    {
+      "appId": "1016562846",
+      "name": "Rokie - Remote for Roku Player",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1821,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1016562846/country/us",
+      "capturedAt": "2026-10-13T09:48:31.204Z"
+    },
+    {
+      "appId": "1494564197",
+      "name": "Screen Mirroring - TV Cast Air",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5863,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1494564197/country/us",
+      "capturedAt": "2026-10-13T09:48:31.873Z"
+    },
+    {
+      "appId": "6757016336",
+      "name": "TV Remote Control · Universal",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 6261,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6757016336/country/us",
+      "capturedAt": "2026-10-13T09:48:32.859Z"
+    },
+    {
+      "appId": "6450300197",
+      "name": "Owll: AI Note Taker&Assistant",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6450300197/country/us",
+      "capturedAt": "2026-10-13T09:48:33.486Z"
+    },
+    {
+      "appId": "1173365557",
+      "name": "Calculator Air: AI Math Solver",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1173365557/country/us",
+      "capturedAt": "2026-10-13T09:48:34.064Z"
+    },
+    {
+      "appId": "685310398",
+      "name": "Voice Recorder & Audio Editor",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/685310398/country/us",
+      "capturedAt": "2026-10-13T09:48:34.613Z"
+    },
+    {
+      "appId": "6608977469",
+      "name": "Coin Scanner: ID Value Checker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 538,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6608977469/country/us",
+      "capturedAt": "2026-10-13T09:48:35.355Z"
+    },
+    {
+      "appId": "6758564907",
+      "name": "VitalScan: Wellness Mirror",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6758564907/country/us",
+      "capturedAt": "2026-10-13T09:48:35.908Z"
+    },
+    {
+      "appId": "6553976921",
+      "name": "Universal TV Remote™ Control",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 6235,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6553976921/country/us",
+      "capturedAt": "2026-10-13T09:48:36.437Z"
+    },
+    {
+      "appId": "1529106085",
+      "name": "Screen Mirroring・Smart View TV",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5154,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1529106085/country/us",
+      "capturedAt": "2026-10-13T09:48:37.153Z"
+    },
+    {
+      "appId": "6740556805",
+      "name": "Car Auto Play: Connect & Sync",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1039,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6740556805/country/us",
+      "capturedAt": "2026-10-13T09:48:37.784Z"
+    },
+    {
+      "appId": "6737916371",
+      "name": "QR Code Master: Scan & Maker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6737916371/country/us",
+      "capturedAt": "2026-10-13T09:48:38.554Z"
+    },
+    {
+      "appId": "6505138540",
+      "name": "QR Scanner Pro *",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6505138540/country/us",
+      "capturedAt": "2026-10-13T09:48:39.169Z"
+    },
+    {
+      "appId": "1453537222",
+      "name": "Tape Measure & Ruler Арр",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 2468,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1453537222/country/us",
+      "capturedAt": "2026-10-13T09:48:39.763Z"
+    },
+    {
+      "appId": "6740202306",
+      "name": "MonoBoost Cancel Subscriptions",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6740202306/country/us",
+      "capturedAt": "2026-10-13T09:48:40.369Z"
+    },
+    {
+      "appId": "1591238748",
+      "name": "Universal Remote TV Control",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 4074,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1591238748/country/us",
+      "capturedAt": "2026-10-13T09:48:40.965Z"
+    },
+    {
+      "appId": "6749674718",
+      "name": "Car Auto Play: Sync & Connect",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 2318,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6749674718/country/us",
+      "capturedAt": "2026-10-13T09:48:41.562Z"
+    },
+    {
+      "appId": "1047334922",
+      "name": "Mr. Number Lookup & Call Block",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1047334922/country/us",
+      "capturedAt": "2026-10-13T09:48:42.400Z"
+    },
+    {
+      "appId": "6448908646",
+      "name": "TOKTOQ",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6448908646/country/us",
+      "capturedAt": "2026-10-13T09:48:43.138Z"
+    },
+    {
+      "appId": "398129933",
+      "name": "Calculator₊",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/398129933/country/us",
+      "capturedAt": "2026-10-13T09:48:43.834Z"
+    },
+    {
+      "appId": "1130411958",
+      "name": "TotalAV",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1130411958/country/us",
+      "capturedAt": "2026-10-13T09:48:44.451Z"
+    },
+    {
+      "appId": "6670186781",
+      "name": "Gazing",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6670186781/country/us",
+      "capturedAt": "2026-10-13T09:48:45.007Z"
+    },
+    {
+      "appId": "6465173251",
+      "name": "AI Phone:Call&Voice Translator",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6465173251/country/us",
+      "capturedAt": "2026-10-13T09:48:45.589Z"
+    },
+    {
+      "appId": "1200318119",
+      "name": "QR Code Reader ·",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1200318119/country/us",
+      "capturedAt": "2026-10-13T09:49:17.187Z"
+    },
+    {
+      "appId": "6636543626",
+      "name": "Authenticator App－2FAS・MFA・OTP",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6636543626/country/us",
+      "capturedAt": "2026-10-13T09:49:17.814Z"
+    },
+    {
+      "appId": "6461419341",
+      "name": "RemoTV: Universal TV Remote",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 18,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6461419341/country/us",
+      "capturedAt": "2026-10-13T09:49:18.673Z"
+    },
+    {
+      "appId": "1471473738",
+      "name": "Live Transcribe",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1471473738/country/us",
+      "capturedAt": "2026-10-13T09:49:20.662Z"
+    },
+    {
+      "appId": "6451399317",
+      "name": "Car Key Connect - Remote Start",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 162,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6451399317/country/us",
+      "capturedAt": "2026-10-13T09:49:28.363Z"
+    },
+    {
+      "appId": "6794248220",
+      "name": "LocFind: GPS Family Tracker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5713,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6794248220/country/us",
+      "capturedAt": "2026-10-13T09:49:28.806Z"
+    },
+    {
+      "appId": "763638165",
+      "name": "IPVanish ***: Fast & Secure",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/763638165/country/us",
+      "capturedAt": "2026-10-13T09:49:29.283Z"
+    },
+    {
+      "appId": "6451212658",
+      "name": "QR Code & Barcode Scanner app.",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1148,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6451212658/country/us",
+      "capturedAt": "2026-10-13T09:49:29.700Z"
+    },
+    {
+      "appId": "837274884",
+      "name": "LogTen Pilot Logbook",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/837274884/country/us",
+      "capturedAt": "2026-10-13T09:49:30.181Z"
+    },
+    {
+      "appId": "6751309957",
+      "name": "VidEffect: AI Video Effects",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6751309957/country/us",
+      "capturedAt": "2026-10-13T09:49:30.713Z"
+    },
+    {
+      "appId": "1587316791",
+      "name": "Lens: Translate & Photo Finder",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1581,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1587316791/country/us",
+      "capturedAt": "2026-10-13T09:49:31.213Z"
+    },
+    {
+      "appId": "6502456017",
+      "name": "Cleaner: Photo Cleanup",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6502456017/country/us",
+      "capturedAt": "2026-10-13T09:49:31.687Z"
+    },
+    {
+      "appId": "1579881271",
+      "name": "Clean Manager: Storage Cleaner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1579881271/country/us",
+      "capturedAt": "2026-10-13T09:49:32.224Z"
+    },
+    {
+      "appId": "6456411698",
+      "name": "AllConvert: Image & Video Tool",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6456411698/country/us",
+      "capturedAt": "2026-10-13T09:49:32.904Z"
+    },
+    {
+      "appId": "6444381350",
+      "name": "Measuring Tape+ Measure AR app",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6444381350/country/us",
+      "capturedAt": "2026-10-13T09:49:33.506Z"
+    },
+    {
+      "appId": "1373844471",
+      "name": "*** Lumos: Open & Connect USA",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1373844471/country/us",
+      "capturedAt": "2026-10-13T09:49:34.015Z"
+    },
+    {
+      "appId": "6746534819",
+      "name": "RateTracker:Blood Sugar",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6746534819/country/us",
+      "capturedAt": "2026-10-13T09:49:34.460Z"
+    },
+    {
+      "appId": "6448163027",
+      "name": "Love8 - App for Couples",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5946,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6448163027/country/us",
+      "capturedAt": "2026-10-13T09:49:34.915Z"
+    },
+    {
+      "appId": "1437807477",
+      "name": "Tape Measure®",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 18,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1437807477/country/us",
+      "capturedAt": "2026-10-13T09:49:35.323Z"
+    },
+    {
+      "appId": "6759589628",
+      "name": "GPS Coordinates Finder: LOC8",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6759589628/country/us",
+      "capturedAt": "2026-10-13T09:49:36.026Z"
+    },
+    {
+      "appId": "1492560451",
+      "name": "KeyConnect Digital Car Key",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1594,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1492560451/country/us",
+      "capturedAt": "2026-10-13T09:49:40.099Z"
+    },
+    {
+      "appId": "1480383173",
+      "name": "Fonts Art: Cool Keyboard Maker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1757,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1480383173/country/us",
+      "capturedAt": "2026-10-13T09:49:40.997Z"
+    },
+    {
+      "appId": "6760985637",
+      "name": "QR Code Barcode Ai Reader",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1835,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6760985637/country/us",
+      "capturedAt": "2026-10-13T09:49:42.112Z"
+    },
+    {
+      "appId": "6739498078",
+      "name": "AR Measuring Tape Ruler：Metrix",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1482,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6739498078/country/us",
+      "capturedAt": "2026-10-13T09:49:42.629Z"
+    },
+    {
+      "appId": "1560922539",
+      "name": "Labelife",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1560922539/country/us",
+      "capturedAt": "2026-10-13T09:49:43.188Z"
+    },
+    {
+      "appId": "6752901737",
+      "name": "KeepClean AI: Storage Cleaner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6752901737/country/us",
+      "capturedAt": "2026-10-13T09:49:43.648Z"
+    },
+    {
+      "appId": "6471626032",
+      "name": "TV Remote for Roku ·",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6471626032/country/us",
+      "capturedAt": "2026-10-13T09:49:44.167Z"
+    },
+    {
+      "appId": "1435063223",
+      "name": "Lawfully Case Tracker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1435063223/country/us",
+      "capturedAt": "2026-10-13T09:49:45.951Z"
+    },
+    {
+      "appId": "1105317682",
+      "name": "Aloha Browser – Private ***",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1105317682/country/us",
+      "capturedAt": "2026-10-13T09:49:52.856Z"
+    },
+    {
+      "appId": "6759697123",
+      "name": "SmartClean AI: Storage Cleaner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 2894,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6759697123/country/us",
+      "capturedAt": "2026-10-13T09:50:35.413Z"
+    },
+    {
+      "appId": "6752863449",
+      "name": "TV Remote for Roku Devices",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 16,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6752863449/country/us",
+      "capturedAt": "2026-10-13T09:50:35.840Z"
+    },
+    {
+      "appId": "1502909594",
+      "name": "Translator Keyboard - Language",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1502909594/country/us",
+      "capturedAt": "2026-10-13T09:50:36.634Z"
+    },
+    {
+      "appId": "6773911925",
+      "name": "CarConnect Digital Car Key",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1710,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6773911925/country/us",
+      "capturedAt": "2026-10-13T09:50:37.021Z"
+    },
+    {
+      "appId": "1052879175",
+      "name": "Brave Browser & Search Engine",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 18121,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1052879175/country/us",
+      "capturedAt": "2026-10-13T09:50:37.491Z"
+    },
+    {
+      "appId": "6449484412",
+      "name": "Phone Storage Cleaner: Free up",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6449484412/country/us",
+      "capturedAt": "2026-10-13T09:50:37.965Z"
+    },
+    {
+      "appId": "1523826729",
+      "name": "TV Cast for Chromecast !",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 14,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1523826729/country/us",
+      "capturedAt": "2026-10-13T09:50:39.052Z"
+    },
+    {
+      "appId": "6480278540",
+      "name": "Fieldy - AI note taker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6480278540/country/us",
+      "capturedAt": "2026-10-13T09:50:39.607Z"
+    },
+    {
+      "appId": "1322234579",
+      "name": "QR, Barcode Scanner for iPhone",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1322234579/country/us",
+      "capturedAt": "2026-10-13T09:50:40.042Z"
+    },
+    {
+      "appId": "1564249382",
+      "name": "The Tape Measure & 3D Scanner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1564249382/country/us",
+      "capturedAt": "2026-10-13T09:50:40.629Z"
+    },
+    {
+      "appId": "6692621275",
+      "name": "Unlock-r",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6692621275/country/us",
+      "capturedAt": "2026-10-13T09:50:41.165Z"
+    },
+    {
+      "appId": "1143920524",
+      "name": "Poke Genie -Remote Raid IV PvP",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1143920524/country/us",
+      "capturedAt": "2026-10-13T09:50:41.859Z"
+    },
+    {
+      "appId": "314487667",
+      "name": "textPlus: Text Message + Call",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5599,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/314487667/country/us",
+      "capturedAt": "2026-10-13T09:50:42.499Z"
+    },
+    {
+      "appId": "284815942",
+      "name": "Google",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 65522,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/284815942/country/us",
+      "capturedAt": "2026-10-13T09:50:43.230Z"
+    },
+    {
+      "appId": "1134727588",
+      "name": "Nomorobo - Robocall Blocker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1134727588/country/us",
+      "capturedAt": "2026-10-13T09:50:43.805Z"
+    },
+    {
+      "appId": "6474351038",
+      "name": "Connect TV Remote",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6474351038/country/us",
+      "capturedAt": "2026-10-13T09:50:44.421Z"
+    },
+    {
+      "appId": "6447676034",
+      "name": "Castly+",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6447676034/country/us",
+      "capturedAt": "2026-10-13T09:50:45.021Z"
+    },
+    {
+      "appId": "6445917429",
+      "name": "Cleaner ・Phone Storage Cleanup",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6445917429/country/us",
+      "capturedAt": "2026-10-13T09:50:45.614Z"
+    },
+    {
+      "appId": "1186159417",
+      "name": "TP-Link Deco",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 3546,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1186159417/country/us",
+      "capturedAt": "2026-10-13T09:50:46.208Z"
+    },
+    {
+      "appId": "6504796378",
+      "name": "QR Code Reader, Scan Barcode",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6504796378/country/us",
+      "capturedAt": "2026-10-13T09:50:46.833Z"
+    },
+    {
+      "appId": "434893913",
+      "name": "Kiren by F-Secure",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/434893913/country/us",
+      "capturedAt": "2026-10-13T09:50:47.384Z"
+    },
+    {
+      "appId": "1034649547",
+      "name": "Tuya: Smart Life, Smart Living",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 9422,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1034649547/country/us",
+      "capturedAt": "2026-10-13T09:50:48.012Z"
+    },
+    {
+      "appId": "986999874",
+      "name": "Hiya: Spam Blocker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/986999874/country/us",
+      "capturedAt": "2026-10-13T09:50:48.530Z"
+    },
+    {
+      "appId": "1473934066",
+      "name": "AVG Mobile Security",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1473934066/country/us",
+      "capturedAt": "2026-10-13T09:50:49.005Z"
+    },
+    {
+      "appId": "6596770726",
+      "name": "MigraConnect Case Tracker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6596770726/country/us",
+      "capturedAt": "2026-10-13T09:50:49.610Z"
+    },
+    {
+      "appId": "1531594277",
+      "name": "Color Widgets",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 4056,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1531594277/country/us",
+      "capturedAt": "2026-10-13T09:50:50.280Z"
+    },
+    {
+      "appId": "6755528083",
+      "name": "Clean AI・Phone Storage Cleanup",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1286,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6755528083/country/us",
+      "capturedAt": "2026-10-13T09:50:51.018Z"
+    },
+    {
+      "appId": "6755063086",
+      "name": "Powerful Clean: Phone Cleaner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6755063086/country/us",
+      "capturedAt": "2026-10-13T09:50:51.576Z"
+    },
+    {
+      "appId": "932747118",
+      "name": "Shadowrocket",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 842,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/932747118/country/us",
+      "capturedAt": "2026-10-13T09:50:52.097Z"
+    },
+    {
+      "appId": "954363569",
+      "name": "Carista OBD2",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/954363569/country/us",
+      "capturedAt": "2026-10-13T09:50:52.635Z"
+    },
+    {
+      "appId": "1050267310",
+      "name": "Phoner: Second Phone Number",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1050267310/country/us",
+      "capturedAt": "2026-10-13T09:53:59.547Z"
+    },
+    {
+      "appId": "6465788800",
+      "name": "Scan QR Code & Barcode",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6465788800/country/us",
+      "capturedAt": "2026-10-13T09:51:14.989Z"
+    },
+    {
+      "appId": "1561954125",
+      "name": "Smart Remote for Sam TV",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1105,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1561954125/country/us",
+      "capturedAt": "2026-10-13T09:51:15.550Z"
+    },
+    {
+      "appId": "6470302849",
+      "name": "Second Phone Number, 2nd Line",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6470302849/country/us",
+      "capturedAt": "2026-10-13T09:51:16.730Z"
+    },
+    {
+      "appId": "829129497",
+      "name": "Mobile Link for Generators",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/829129497/country/us",
+      "capturedAt": "2026-10-13T09:51:17.245Z"
+    },
+    {
+      "appId": "308331524",
+      "name": "YouMail: Spam Call Blocker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/308331524/country/us",
+      "capturedAt": "2026-10-13T09:51:17.746Z"
+    },
+    {
+      "appId": "1455968861",
+      "name": "Tracover: Dual Chat & Recover",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1455968861/country/us",
+      "capturedAt": "2026-10-13T09:51:18.793Z"
+    },
+    {
+      "appId": "1525921773",
+      "name": "GO Raid Party",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1525921773/country/us",
+      "capturedAt": "2026-10-13T09:54:00.613Z"
+    },
+    {
+      "appId": "6786565891",
+      "name": "Locato: Family GPS Locator",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 460,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6786565891/country/us",
+      "capturedAt": "2026-10-13T09:51:23.339Z"
+    },
+    {
+      "appId": "1571506312",
+      "name": "AutoPaste - Keyboard",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1228,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1571506312/country/us",
+      "capturedAt": "2026-10-13T09:51:24.584Z"
+    },
+    {
+      "appId": "1147094379",
+      "name": "WhatSticker - Sticker Maker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1454,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1147094379/country/us",
+      "capturedAt": "2026-10-13T09:51:25.106Z"
+    },
+    {
+      "appId": "1558276033",
+      "name": "SMS Virtual - Receive SMS",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1558276033/country/us",
+      "capturedAt": "2026-10-13T09:51:25.527Z"
+    },
+    {
+      "appId": "1640981560",
+      "name": "Guardio - Mobile Security",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 2026,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1640981560/country/us",
+      "capturedAt": "2026-10-13T09:51:26.077Z"
+    },
+    {
+      "appId": "1592733501",
+      "name": "PrivacyHawk",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1592733501/country/us",
+      "capturedAt": "2026-10-13T09:51:26.598Z"
+    },
+    {
+      "appId": "6757069651",
+      "name": "AI Shield Pro: Phone Security",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6757069651/country/us",
+      "capturedAt": "2026-10-13T09:51:27.805Z"
+    },
+    {
+      "appId": "322664011",
+      "name": "Offender Locator: Find & Watch",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 6070,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/322664011/country/us",
+      "capturedAt": "2026-10-13T09:51:28.621Z"
+    },
+    {
+      "appId": "1617942783",
+      "name": "iRecord: Transcribe Voice Memo",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1617942783/country/us",
+      "capturedAt": "2026-10-13T09:51:29.287Z"
+    },
+    {
+      "appId": "6756395679",
+      "name": "Scan QR Code&Barcode Scanner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6756395679/country/us",
+      "capturedAt": "2026-10-13T09:51:30.824Z"
+    },
+    {
+      "appId": "1665625393",
+      "name": "Car Play Connect, Sync & Care",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1842,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1665625393/country/us",
+      "capturedAt": "2026-10-13T09:51:31.350Z"
+    },
+    {
+      "appId": "1468092377",
+      "name": "Hours Tracker: Time Calculator",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1468092377/country/us",
+      "capturedAt": "2026-10-13T09:51:31.925Z"
+    },
+    {
+      "appId": "6467652964",
+      "name": "Clean Phone Storage Now",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6467652964/country/us",
+      "capturedAt": "2026-10-13T09:51:33.273Z"
+    },
+    {
+      "appId": "6504505434",
+      "name": "TransEase: Realtime Translator",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6504505434/country/us",
+      "capturedAt": "2026-10-13T09:51:33.708Z"
+    },
+    {
+      "appId": "6695739051",
+      "name": "Kiwibit",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6695739051/country/us",
+      "capturedAt": "2026-10-13T09:51:34.335Z"
+    },
+    {
+      "appId": "870099476",
+      "name": "Copy My Data - Smart Transfer",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/870099476/country/us",
+      "capturedAt": "2026-10-13T09:51:34.886Z"
+    },
+    {
+      "appId": "6737263668",
+      "name": "Phone Security: Privacy Shield",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6737263668/country/us",
+      "capturedAt": "2026-10-13T09:54:01.686Z"
+    },
+    {
+      "appId": "6451488210",
+      "name": "TopGuru",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6451488210/country/us",
+      "capturedAt": "2026-10-13T09:51:40.167Z"
+    },
+    {
+      "appId": "6670310164",
+      "name": "Universal Remote for Smart TV+",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6670310164/country/us",
+      "capturedAt": "2026-10-13T09:51:40.672Z"
+    },
+    {
+      "appId": "444741112",
+      "name": "Pinger: Call Plus Texting App",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1835,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/444741112/country/us",
+      "capturedAt": "2026-10-13T09:51:41.161Z"
+    },
+    {
+      "appId": "6757005740",
+      "name": "V-Shield: Threat Defense",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6757005740/country/us",
+      "capturedAt": "2026-10-13T09:51:41.878Z"
+    },
+    {
+      "appId": "6755140565",
+      "name": "InvoiceCraft - Easy Generator",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6755140565/country/us",
+      "capturedAt": "2026-10-13T09:51:42.431Z"
+    },
+    {
+      "appId": "1276551855",
+      "name": "Avast One: Security & Privacy",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1276551855/country/us",
+      "capturedAt": "2026-10-13T09:52:00.491Z"
+    },
+    {
+      "appId": "1255893012",
+      "name": "Bitdefender Mobile Security",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1255893012/country/us",
+      "capturedAt": "2026-10-13T09:52:01.117Z"
+    },
+    {
+      "appId": "6744358429",
+      "name": "Find My Friends & GPS Location",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6744358429/country/us",
+      "capturedAt": "2026-10-13T09:52:01.670Z"
+    },
+    {
+      "appId": "6745728288",
+      "name": "Smart Cleaner - Pro Security",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6745728288/country/us",
+      "capturedAt": "2026-10-13T09:54:02.880Z"
+    },
+    {
+      "appId": "6762351298",
+      "name": "AI Smart Cleaner: Clean it up",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1958,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6762351298/country/us",
+      "capturedAt": "2026-10-13T09:52:05.922Z"
+    },
+    {
+      "appId": "1619787473",
+      "name": "LED light controller LED lamp",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 5627,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1619787473/country/us",
+      "capturedAt": "2026-10-13T09:52:06.714Z"
+    },
+    {
+      "appId": "6448165553",
+      "name": "Speedometer GPS: Speed Tracker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6448165553/country/us",
+      "capturedAt": "2026-10-13T09:52:07.335Z"
+    },
+    {
+      "appId": "6755585828",
+      "name": "SnapTidy: Free Up Space",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6755585828/country/us",
+      "capturedAt": "2026-10-13T09:52:07.827Z"
+    },
+    {
+      "appId": "6762701854",
+      "name": "TT Cleaner:Manage storage",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6762701854/country/us",
+      "capturedAt": "2026-10-13T09:52:08.210Z"
+    },
+    {
+      "appId": "1596059191",
+      "name": "Parental Control App Kids360",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1596059191/country/us",
+      "capturedAt": "2026-10-13T09:52:08.847Z"
+    },
+    {
+      "appId": "370412148",
+      "name": "Construction Master 5 Calc",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/370412148/country/us",
+      "capturedAt": "2026-10-13T09:52:09.273Z"
+    },
+    {
+      "appId": "1518034042",
+      "name": "Live Video Tracker - GREC",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1518034042/country/us",
+      "capturedAt": "2026-10-13T09:52:09.731Z"
+    },
+    {
+      "appId": "6670405091",
+      "name": "QR Code Reader＋Generator Pro",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6670405091/country/us",
+      "capturedAt": "2026-10-13T09:52:10.196Z"
+    },
+    {
+      "appId": "1665764663",
+      "name": "AI Chat 6.0: Genius",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1665764663/country/us",
+      "capturedAt": "2026-10-13T09:52:10.633Z"
+    },
+    {
+      "appId": "6740480147",
+      "name": "AI Scanner・Objects Identifier",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6740480147/country/us",
+      "capturedAt": "2026-10-13T09:52:11.062Z"
+    },
+    {
+      "appId": "6443508147",
+      "name": "Authenticator App ™",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6443508147/country/us",
+      "capturedAt": "2026-10-13T09:52:11.512Z"
+    },
+    {
+      "appId": "1215606098",
+      "name": "GIF Maker - Memes & GIFs",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1215606098/country/us",
+      "capturedAt": "2026-10-13T09:52:11.988Z"
+    },
+    {
+      "appId": "596142100",
+      "name": "Pipe Trades Pro Calc",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/596142100/country/us",
+      "capturedAt": "2026-10-13T09:52:12.572Z"
+    },
+    {
+      "appId": "6642706929",
+      "name": "Authenticator - 2FA App",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6642706929/country/us",
+      "capturedAt": "2026-10-13T09:52:12.992Z"
+    },
+    {
+      "appId": "6753713896",
+      "name": "Voice Recorder+ Audio Memos",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6753713896/country/us",
+      "capturedAt": "2026-10-13T09:52:13.467Z"
+    },
+    {
+      "appId": "6755031572",
+      "name": "TopCleaner: Storage&Security",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6755031572/country/us",
+      "capturedAt": "2026-10-13T09:52:13.872Z"
+    },
+    {
+      "appId": "6748637429",
+      "name": "CleanNow - AI Storage Cleaner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1422,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6748637429/country/us",
+      "capturedAt": "2026-10-13T09:52:14.303Z"
+    },
+    {
+      "appId": "6747470149",
+      "name": "True Cleaner - Cleanup Storage",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6747470149/country/us",
+      "capturedAt": "2026-10-13T09:52:14.703Z"
+    },
+    {
+      "appId": "6760277293",
+      "name": "Calmia: Health Tracker",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6760277293/country/us",
+      "capturedAt": "2026-10-13T09:58:42.660Z"
+    },
+    {
+      "appId": "6816359797",
+      "name": "AreaMap: Measure Land & Acres",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 184,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6816359797/country/us",
+      "capturedAt": "2026-10-13T09:58:43.152Z"
+    },
+    {
+      "appId": "6747801342",
+      "name": "Incogni - Private Data Removal",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6747801342/country/us",
+      "capturedAt": "2026-10-13T09:58:43.686Z"
+    },
+    {
+      "appId": "1643119107",
+      "name": "OBDeleven – OBD2 car scanner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/1643119107/country/us",
+      "capturedAt": "2026-10-13T09:58:44.646Z"
+    },
+    {
+      "appId": "6789399947",
+      "name": "VIXO: Motion Art Studio",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6789399947/country/us",
+      "capturedAt": "2026-10-13T09:58:45.323Z"
+    },
+    {
+      "appId": "6790668968",
+      "name": "CleverCleaner: Clean Up Photos",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 178,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6790668968/country/us",
+      "capturedAt": "2026-10-13T09:59:10.413Z"
+    },
+    {
+      "appId": "6757517047",
+      "name": "Storage Cleaner: Clear Space",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 978,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6757517047/country/us",
+      "capturedAt": "2026-10-13T09:59:10.953Z"
+    },
+    {
+      "appId": "6760263190",
+      "name": "Cleaner: Storage Cleaner",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 1532,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6760263190/country/us",
+      "capturedAt": "2026-10-13T09:59:11.489Z"
+    },
+    {
+      "appId": "6779252215",
+      "name": "CoreGuard *** — Data Defense",
+      "country": "us",
+      "periodLabel": "昨日",
+      "absoluteMetricDate": null,
+      "downloadsEstimate": 0,
+      "sourceUrl": "https://www.qimai.cn/app/download/appid/6779252215/country/us",
+      "capturedAt": "2026-10-13T09:59:12.263Z"
+    }
+  ],
+  "unavailable": [],
+  "checked": 208
+}

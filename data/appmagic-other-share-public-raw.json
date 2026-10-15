@@ -1,0 +1,750 @@
+{
+  "source": "AppMagic",
+  "capturedAt": "2026-10-15T04:02:33.868Z",
+  "collectionMethod": "公开页面读取同一指标最近30天的全球阈值、美国占比及灰色其他地区分段；按 Apple ID 链接核验身份。美国占比缺失时，按用户指定用其他地区合计占比代算；不视为美国实测。",
+  "rows": [
+    {
+      "appId": "1476380919",
+      "url": "https://appmagic.rocks/iphone/cleaner-guru-%E6%B8%85%E6%B4%81%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/1476380919",
+      "capturedAt": "2026-10-15T03:57:11.895Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/cleaner-guru-clean-up-storage/id1476380919"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 5,000",
+            "otherShare": "3% 其他地区",
+            "period": "最近30天",
+            "total": "> 5,000"
+          },
+          {
+            "label": "收入额: > $2,000,000",
+            "otherShare": "7% 其他地区",
+            "period": "最近30天",
+            "total": "> $2,000,000",
+            "usShare": "77% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6477382010",
+      "url": "https://appmagic.rocks/iphone/%E4%B8%87%E8%83%BD%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8%E6%89%8B%E6%9C%BA%E7%BA%A2%E5%A4%96%E8%BF%9C%E7%A8%8B%E6%8E%A7%E5%88%B6%E5%8F%8A%E6%8A%95%E5%B1%8F-imote/6477382010",
+      "capturedAt": "2026-10-15T03:57:34.721Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/universal-tv-remote-control/id6477382010"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 1,000,000",
+            "otherShare": "34% 其他地区",
+            "period": "最近30天",
+            "total": "> 1,000,000"
+          },
+          {
+            "label": "收入额: > $200,000",
+            "otherShare": "17% 其他地区",
+            "period": "最近30天",
+            "total": "> $200,000",
+            "usShare": "32% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6467252904",
+      "url": "https://appmagic.rocks/iphone/%E4%B8%87%E8%83%BD%E3%83%BB%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8/6467252904",
+      "capturedAt": "2026-10-15T03:58:55.063Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/universal-remote-tv-control/id6467252904"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 500,000",
+            "otherShare": "31% 其他地区",
+            "period": "最近30天",
+            "total": "> 500,000"
+          },
+          {
+            "label": "收入额: > $200,000",
+            "otherShare": "34% 其他地区",
+            "period": "最近30天",
+            "total": "> $200,000",
+            "usShare": "32% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1584764976",
+      "url": "https://appmagic.rocks/iphone/qr-code-reader%E3%83%BBbarcode-scanner/1584764976",
+      "capturedAt": "2026-10-15T03:58:55.073Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/qr-code-reader-barcode-scanner/id1584764976"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 100,000",
+            "otherShare": "23% 其他地区",
+            "period": "最近30天",
+            "total": "> 100,000"
+          },
+          {
+            "label": "收入额: > $200,000",
+            "otherShare": "9% 其他地区",
+            "period": "最近30天",
+            "total": "> $200,000",
+            "usShare": "18% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6745645676",
+      "url": "https://appmagic.rocks/iphone/text-port-%E6%B6%88%E6%81%AF%E5%AF%BC%E5%87%BA/6745645676",
+      "capturedAt": "2026-10-15T03:58:55.083Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/textport-text-message-export/id6745645676"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: < 5,000",
+            "period": "最近30天",
+            "total": "< 5,000"
+          },
+          {
+            "label": "收入额: > $50,000",
+            "otherShare": "1% 其他地区",
+            "period": "最近30天",
+            "total": "> $50,000",
+            "usShare": "80% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1488466513",
+      "url": "https://appmagic.rocks/iphone/mullvad-vpn/1488466513",
+      "capturedAt": "2026-10-15T03:59:14.141Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/mullvad-vpn/id1488466513"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 100,000",
+            "otherShare": "36% 其他地区",
+            "period": "最近30天",
+            "total": "> 100,000"
+          },
+          {
+            "label": "收入额: > $200,000",
+            "otherShare": "26% 其他地区",
+            "period": "最近30天",
+            "total": "> $200,000",
+            "usShare": "31% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6448222268",
+      "url": "https://appmagic.rocks/iphone/smart-cleaner-free-up-storage/6448222268",
+      "capturedAt": "2026-10-15T03:59:14.156Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/smart-cleaner-free-up-storage/id6448222268"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 20,000",
+            "otherShare": "32% 其他地区",
+            "period": "最近30天",
+            "total": "> 20,000"
+          },
+          {
+            "label": "收入额: > $100,000",
+            "otherShare": "15% 其他地区",
+            "period": "最近30天",
+            "total": "> $100,000",
+            "usShare": "69% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1591238748",
+      "url": "https://appmagic.rocks/iphone/%E4%B8%87%E8%83%BD%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8-%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8/1591238748",
+      "capturedAt": "2026-10-15T03:59:14.166Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/universal-remote-tv-control/id1591238748"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 200,000",
+            "otherShare": "52% 其他地区",
+            "period": "最近30天",
+            "total": "> 200,000"
+          },
+          {
+            "label": "收入额: > $200,000",
+            "otherShare": "35% 其他地区",
+            "period": "最近30天",
+            "total": "> $200,000",
+            "usShare": "26% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6501954960",
+      "url": "https://appmagic.rocks/iphone/%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%9D%A1%E7%A0%81%E9%98%85%E8%AF%BB%E5%99%A8-%E4%B8%BA%E6%82%A8%E5%AE%89%E5%85%A8%E6%89%AB%E7%A0%81/6501954960",
+      "capturedAt": "2026-10-15T03:59:50.054Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/qr-code-reader-barcode-scanner/id6501954960"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 200,000",
+            "otherShare": "7% 其他地区",
+            "period": "最近30天",
+            "total": "> 200,000"
+          },
+          {
+            "label": "收入额: > $200,000",
+            "otherShare": "17% 其他地区",
+            "period": "最近30天",
+            "total": "> $200,000",
+            "usShare": "27% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6448330325",
+      "url": "https://appmagic.rocks/iphone/ai-cleaner-%E6%89%8B%E6%9C%BA%E6%B8%85%E7%90%86%E5%99%A8/6448330325",
+      "capturedAt": "2026-10-15T03:59:50.061Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/ai-cleaner-clean-up-storage/id6448330325"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 200,000",
+            "otherShare": "43% 其他地区",
+            "period": "最近30天",
+            "total": "> 200,000"
+          },
+          {
+            "label": "收入额: > $500,000",
+            "otherShare": "27% 其他地区",
+            "period": "最近30天",
+            "total": "> $500,000",
+            "usShare": "38% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1463756032",
+      "url": "https://appmagic.rocks/iphone/%E5%BF%AB%E9%80%9F%E6%B8%85%E7%90%86%E8%B6%85%E7%BA%A7%E6%B8%85%E7%90%86%E5%99%A8/1463756032",
+      "capturedAt": "2026-10-15T03:59:50.068Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/cleaner-neat-clean-up-storage/id1463756032"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 50,000",
+            "otherShare": "31% 其他地区",
+            "period": "最近30天",
+            "total": "> 50,000"
+          },
+          {
+            "label": "收入额: > $100,000",
+            "otherShare": "25% 其他地区",
+            "period": "最近30天",
+            "total": "> $100,000",
+            "usShare": "39% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6461419341",
+      "url": "https://appmagic.rocks/iphone/remotv-%E9%80%9A%E7%94%A8%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8/6461419341",
+      "capturedAt": "2026-10-15T04:00:19.899Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/remotv-universal-tv-remote/id6461419341"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 50,000",
+            "otherShare": "12% 其他地区",
+            "period": "最近30天",
+            "total": "> 50,000"
+          },
+          {
+            "label": "收入额: > $50,000",
+            "otherShare": "14% 其他地区",
+            "period": "最近30天",
+            "total": "> $50,000",
+            "usShare": "61% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6505138540",
+      "url": "https://appmagic.rocks/iphone/qr-scanner-pro-/6505138540",
+      "capturedAt": "2026-10-15T04:00:19.910Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/qr-scanner-pro/id6505138540"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 50,000",
+            "otherShare": "20% 其他地区",
+            "period": "最近30天",
+            "total": "> 50,000"
+          },
+          {
+            "label": "收入额: > $200,000",
+            "otherShare": "24% 其他地区",
+            "period": "最近30天",
+            "total": "> $200,000",
+            "usShare": "29% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6737916371",
+      "url": "https://appmagic.rocks/iphone/qr-code-master-scan-and-maker/6737916371",
+      "capturedAt": "2026-10-15T04:00:19.917Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/qr-code-master-scan-maker/id6737916371"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 20,000",
+            "otherShare": "31% 其他地区",
+            "period": "最近30天",
+            "total": "> 20,000"
+          },
+          {
+            "label": "收入额: > $100,000",
+            "otherShare": "31% 其他地区",
+            "period": "最近30天",
+            "total": "> $100,000",
+            "usShare": "40% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1200318119",
+      "url": "https://appmagic.rocks/iphone/qr-code-reader-/1200318119",
+      "capturedAt": "2026-10-15T04:00:35.527Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/qr-code-reader/id1200318119"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 100,000",
+            "otherShare": "23% 其他地区",
+            "period": "最近30天",
+            "total": "> 100,000"
+          },
+          {
+            "label": "收入额: > $200,000",
+            "otherShare": "24% 其他地区",
+            "period": "最近30天",
+            "total": "> $200,000",
+            "usShare": "32% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6444381350",
+      "url": "https://appmagic.rocks/iphone/%E6%B5%8B%E8%B7%9D%E4%BB%AA-%E9%9A%8F%E8%BA%AB%E7%9A%84%E6%89%8B%E6%9C%BAar%E7%B2%BE%E7%A1%AE%E5%8D%B7%E5%B0%BA%E5%92%8C%E6%B0%B4%E5%B9%B3%E4%BB%AA/6444381350",
+      "capturedAt": "2026-10-15T04:00:35.536Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/measuring-tape-measure-ar-app/id6444381350"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 50,000",
+            "otherShare": "31% 其他地区",
+            "period": "最近30天",
+            "total": "> 50,000"
+          },
+          {
+            "label": "收入额: > $100,000",
+            "otherShare": "23% 其他地区",
+            "period": "最近30天",
+            "total": "> $100,000",
+            "usShare": "50% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6451212658",
+      "url": "https://appmagic.rocks/iphone/qr-code-and-barcode-scanner-app-/6451212658",
+      "capturedAt": "2026-10-15T04:00:35.544Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/qr-code-barcode-scanner-app/id6451212658"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 50,000",
+            "period": "最近30天",
+            "total": "> 50,000"
+          },
+          {
+            "label": "收入额: > $200,000",
+            "otherShare": "1% 其他地区",
+            "period": "最近30天",
+            "total": "> $200,000",
+            "usShare": "11% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6502456017",
+      "url": "https://appmagic.rocks/iphone/cleaner-%E7%85%A7%E7%89%87%E6%B8%85%E7%90%86/6502456017",
+      "capturedAt": "2026-10-15T04:00:57.786Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/cleaner-photo-cleanup/id6502456017"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 5,000",
+            "period": "最近30天",
+            "total": "> 5,000"
+          },
+          {
+            "label": "收入额: > $100,000",
+            "otherShare": "27% 其他地区",
+            "period": "最近30天",
+            "total": "> $100,000",
+            "usShare": "47% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1471473738",
+      "url": "https://appmagic.rocks/iphone/live-transcribe/1471473738",
+      "capturedAt": "2026-10-15T04:00:57.793Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/live-transcribe/id1471473738"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: < 5,000",
+            "otherShare": "29% 其他地区",
+            "period": "最近30天",
+            "total": "< 5,000"
+          },
+          {
+            "label": "收入额: > $50,000",
+            "otherShare": "9% 其他地区",
+            "period": "最近30天",
+            "total": "> $50,000",
+            "usShare": "78% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1587316791",
+      "url": "https://appmagic.rocks/iphone/lens-ai%E5%9B%BE%E5%83%8F%E7%BF%BB%E8%AF%91%E4%B8%8E%E6%90%9C%E5%9B%BE%E7%9B%B8%E6%9C%BA%E5%8A%A9%E6%89%8B/1587316791",
+      "capturedAt": "2026-10-15T04:00:57.800Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 100,000",
+            "otherShare": "30% 其他地区",
+            "period": "最近30天",
+            "total": "> 100,000"
+          },
+          {
+            "label": "收入额: > $100,000",
+            "otherShare": "23% 其他地区",
+            "period": "最近30天",
+            "total": "> $100,000",
+            "usShare": "51% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6449484412",
+      "url": "https://appmagic.rocks/iphone/phone-storage-cleaner-clean-up/6449484412",
+      "capturedAt": "2026-10-15T04:01:22.856Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/phone-storage-cleaner-free-up/id6449484412"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 10,000",
+            "otherShare": "1% 其他地区",
+            "period": "最近30天",
+            "total": "> 10,000"
+          },
+          {
+            "label": "收入额: > $100,000",
+            "otherShare": "17% 其他地区",
+            "period": "最近30天",
+            "total": "> $100,000",
+            "usShare": "57% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6474351038",
+      "url": "https://appmagic.rocks/iphone/connect-tv-remote/6474351038",
+      "capturedAt": "2026-10-15T04:01:22.869Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/connect-tv-remote/id6474351038"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: < 5,000",
+            "period": "最近30天",
+            "total": "< 5,000"
+          },
+          {
+            "label": "收入额: > $50,000",
+            "period": "最近30天",
+            "total": "> $50,000",
+            "usShare": "99% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1564249382",
+      "url": "https://appmagic.rocks/iphone/ar%E5%B0%BA%E5%AD%90%E3%80%81%E5%8D%B7%E5%B0%BA-%E9%95%BF%E5%BA%A6%E5%92%8C%E8%BA%AB%E9%AB%98%E6%B5%8B%E9%87%8F%E5%B7%A5%E5%85%B7%E3%80%81%E5%B9%B3%E9%9D%A2%E5%9B%BE/1564249382",
+      "capturedAt": "2026-10-15T04:01:22.880Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/the-tape-measure-3d-scanner/id1564249382"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 50,000",
+            "otherShare": "20% 其他地区",
+            "period": "最近30天",
+            "total": "> 50,000"
+          },
+          {
+            "label": "收入额: > $100,000",
+            "otherShare": "17% 其他地区",
+            "period": "最近30天",
+            "total": "> $100,000",
+            "usShare": "46% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1322234579",
+      "url": "https://appmagic.rocks/iphone/qr-code-scanner-%E6%89%AB%E6%8F%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%9D%A1%E5%BD%A2%E7%A0%81/1322234579",
+      "capturedAt": "2026-10-15T04:01:42.937Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/qr-barcode-scanner-for-iphone/id1322234579"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: < 5,000",
+            "period": "最近30天",
+            "total": "< 5,000"
+          },
+          {
+            "label": "收入额: > $50,000",
+            "otherShare": "10% 其他地区",
+            "period": "最近30天",
+            "total": "> $50,000",
+            "usShare": "54% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6670310164",
+      "url": "https://appmagic.rocks/iphone/%E9%80%9A%E7%94%A8%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8/6670310164",
+      "capturedAt": "2026-10-15T04:01:42.943Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/universal-remote-for-smart-tv/id6670310164"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: < 5,000",
+            "otherShare": "10% 其他地区",
+            "period": "最近30天",
+            "total": "< 5,000"
+          },
+          {
+            "label": "收入额: > $20,000",
+            "otherShare": "1% 其他地区",
+            "period": "最近30天",
+            "total": "> $20,000",
+            "usShare": "98% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6445917429",
+      "url": "https://appmagic.rocks/iphone/cleaner-%E3%83%BBphone-storage-cleanup/6445917429",
+      "capturedAt": "2026-10-15T04:01:42.948Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/cleaner-phone-storage-cleanup/id6445917429"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 20,000",
+            "otherShare": "18% 其他地区",
+            "period": "最近30天",
+            "total": "> 20,000"
+          },
+          {
+            "label": "收入额: > $100,000",
+            "otherShare": "20% 其他地区",
+            "period": "最近30天",
+            "total": "> $100,000",
+            "usShare": "38% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1050267310",
+      "url": "https://appmagic.rocks/iphone/phoner-second-phone-number/1050267310",
+      "capturedAt": "2026-10-15T04:02:06.948Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/phoner-second-phone-number/id1050267310"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 10,000",
+            "otherShare": "1% 其他地区",
+            "period": "最近30天",
+            "total": "> 10,000"
+          },
+          {
+            "label": "收入额: > $50,000",
+            "otherShare": "6% 其他地区",
+            "period": "最近30天",
+            "total": "> $50,000",
+            "usShare": "83% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6504796378",
+      "url": "https://appmagic.rocks/iphone/%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8-%E6%9D%A1%E7%A0%81%E6%89%AB%E6%8F%8F%E5%99%A8-%E6%89%AB%E7%A0%81/6504796378",
+      "capturedAt": "2026-10-15T04:02:06.957Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/qr-code-reader-scan-barcode/id6504796378"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 20,000",
+            "otherShare": "25% 其他地区",
+            "period": "最近30天",
+            "total": "> 20,000"
+          },
+          {
+            "label": "收入额: > $50,000",
+            "otherShare": "21% 其他地区",
+            "period": "最近30天",
+            "total": "> $50,000",
+            "usShare": "67% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "1455968861",
+      "url": "https://appmagic.rocks/iphone/tracover-dual-chat-and-recover/1455968861",
+      "capturedAt": "2026-10-15T04:02:06.969Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/tracover-dual-chat-recover/id1455968861"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: > 20,000",
+            "otherShare": "10% 其他地区",
+            "period": "最近30天",
+            "total": "> 20,000"
+          },
+          {
+            "label": "收入额: > $50,000",
+            "otherShare": "22% 其他地区",
+            "period": "最近30天",
+            "total": "> $50,000",
+            "usShare": "54% 美国"
+          }
+        ]
+      }
+    },
+    {
+      "appId": "6745728288",
+      "url": "https://appmagic.rocks/iphone/smart-cleaner-pro-security/6745728288",
+      "capturedAt": "2026-10-15T04:02:33.868Z",
+      "visible": {
+        "appleStoreLinks": [
+          "https://apps.apple.com/us/app/smart-cleaner-pro-security/id6745728288"
+        ],
+        "widgets": [
+          {
+            "label": "下载量: < 5,000",
+            "period": "最近30天",
+            "total": "< 5,000"
+          },
+          {
+            "label": "收入额: > $50,000",
+            "otherShare": "3% 其他地区",
+            "period": "最近30天",
+            "total": "> $50,000",
+            "usShare": "80% 美国"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "appId": "1476380919",
+  "sourceUrl": "https://appmagic.rocks/iphone/cleaner-guru-%E6%B8%85%E6%B4%81%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/1476380919",
+  "capturedAt": "2026-10-14T08:50:15.664250+00:00",
+  "periodLabel": "最近30天",
+  "downloadsGlobal": "> 5,000",
+  "revenueUSPercent": 77,
+  "unlabeledDownloadSegments": [
+    {
+      "percent": 9,
+      "country": "乌克兰",
+      "countryCode": "UA",
+      "tooltipValue": "< 5,000"
+    },
+    {
+      "percent": 4,
+      "country": "智利",
+      "countryCode": "CL",
+      "tooltipValue": "< 5,000"
+    },
+    {
+      "percent": 4,
+      "country": "阿根廷",
+      "countryCode": "AR",
+      "tooltipValue": "< 5,000"
+    }
+  ],
+  "otherCountries": [
+    "乌拉圭",
+    "以色列",
+    "厄瓜多尔",
+    "多明尼加共和国",
+    "新西兰",
+    "秘鲁"
+  ],
+  "downloadsUSPercent": null,
+  "note": "通过公开区块提示核对；未显示美国下载占比不表示美国下载量为零。收入的77%不可用于下载。"
+}

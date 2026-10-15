@@ -1,0 +1,195 @@
+{
+  "source": "点点数据公开首页",
+  "sourceUrl": "https://app.diandian.com/",
+  "endpoint": "https://api-d.diandian.com/pc/app/v1/index",
+  "capturedAt": "2026-10-13T10:44:51.940Z",
+  "country": "cn",
+  "periodLabel": "首页月下载量 / 月收入",
+  "month": null,
+  "currency": null,
+  "collectionMethod": "匿名首页接口，code=0，无 Cookie、token 或账户凭据",
+  "note": "仅中国区首页前10下载榜及收入榜。具体年月、收入单位未核实；与当前美区工具榜无 ID 匹配，不参与均值。",
+  "rows": [
+    {
+      "appId": "1485191072",
+      "diandianId": "4kxupuexqw51kuw",
+      "name": "抖音商城-下单返积分、退货包运费",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 6248230,
+      "revenueMonthlySourceValue": null,
+      "currency": null
+    },
+    {
+      "appId": "989673964",
+      "diandianId": "492udu6wz9vvwij",
+      "name": "王者荣耀",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 5774982,
+      "revenueMonthlySourceValue": 141558893,
+      "currency": null
+    },
+    {
+      "appId": "6451407032",
+      "diandianId": "kxupur8x0r69kuw",
+      "name": "红果短剧 - 海量热门短剧随心看",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 5278126,
+      "revenueMonthlySourceValue": null,
+      "currency": null
+    },
+    {
+      "appId": "1588080869",
+      "diandianId": "yo8uvuj95mw23b9",
+      "name": "国家网络身份认证",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 5006993,
+      "revenueMonthlySourceValue": null,
+      "currency": null
+    },
+    {
+      "appId": "6745890963",
+      "diandianId": "21uluz1mvg0drf1",
+      "name": "红果漫剧 - 热门精彩漫剧",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 4694847,
+      "revenueMonthlySourceValue": null,
+      "currency": null
+    },
+    {
+      "appId": "1642894547",
+      "diandianId": "yo8uvujm9qx88f9",
+      "name": "三角洲行动",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 4606498,
+      "revenueMonthlySourceValue": 64527764,
+      "currency": null
+    },
+    {
+      "appId": "6459478672",
+      "diandianId": "m0u2u8zo1zv77s5",
+      "name": "豆包 - 生活工作 AI 助手",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 4382699,
+      "revenueMonthlySourceValue": null,
+      "currency": null
+    },
+    {
+      "appId": "1458072671",
+      "diandianId": "np2uguj7961zqf7",
+      "name": "剪映 - 抖音官方AI创作神器",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 4372359,
+      "revenueMonthlySourceValue": null,
+      "currency": null
+    },
+    {
+      "appId": "741292507",
+      "diandianId": "nzdu9u3ewrk3ptv",
+      "name": "小红书 - 你的生活兴趣社区",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 4350099,
+      "revenueMonthlySourceValue": null,
+      "currency": null
+    },
+    {
+      "appId": "6756863766",
+      "diandianId": "31uru897dvmzzbg",
+      "name": "抖省省 - 抖音官方团购平台",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": 4224266,
+      "revenueMonthlySourceValue": null,
+      "currency": null
+    },
+    {
+      "appId": "1321803705",
+      "diandianId": "y8duju6eppdj9hq",
+      "name": "和平精英",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": null,
+      "revenueMonthlySourceValue": 54848758,
+      "currency": null
+    },
+    {
+      "appId": "1142110895",
+      "diandianId": "nd2u6udegmemeid",
+      "name": "抖音",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": null,
+      "revenueMonthlySourceValue": 47244028,
+      "currency": null
+    },
+    {
+      "appId": "1478101301",
+      "diandianId": "n7du9uo9w0d07uq",
+      "name": "金铲铲之战",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": null,
+      "revenueMonthlySourceValue": 42588191,
+      "currency": null
+    },
+    {
+      "appId": "940547441",
+      "diandianId": "np2ugu3295xvka7",
+      "name": "梦幻西游",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": null,
+      "revenueMonthlySourceValue": 37369360,
+      "currency": null
+    },
+    {
+      "appId": "6478492012",
+      "diandianId": "xoupuzpmowm36tl",
+      "name": "无尽冬日",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": null,
+      "revenueMonthlySourceValue": 33061296,
+      "currency": null
+    },
+    {
+      "appId": "955396648",
+      "diandianId": "4xoupu633v2xwhl",
+      "name": "火影忍者",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": null,
+      "revenueMonthlySourceValue": 31813625,
+      "currency": null
+    },
+    {
+      "appId": "6535673811",
+      "diandianId": "21uluzwvjzmerb1",
+      "name": "无畏契约：源能行动",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": null,
+      "revenueMonthlySourceValue": 29858927,
+      "currency": null
+    },
+    {
+      "appId": "414478124",
+      "diandianId": "njzumu076pr6ghp",
+      "name": "微信",
+      "country": "cn",
+      "marketId": 1,
+      "downloadsMonthly": null,
+      "revenueMonthlySourceValue": 21921864,
+      "currency": null
+    }
+  ],
+  "targetCoverage": 0
+}
